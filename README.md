@@ -1,5 +1,3 @@
-# Apunts
-
 ## eng
 Notes I take while learning new programming languages and/or technologies.
 
