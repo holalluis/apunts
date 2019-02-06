@@ -1,0 +1,30 @@
+* hola
+** llista1
+- item1
+- item2
+- item3
+** taula1
+| nom       |    edat |
+|-----------+---------|
+| lluis     | 3443244 |
+| nom llarg | 4234234 |
+|           |         |
+** text 1
+Aixo es un text molt maco
+hello hello
+* seccio 2
+sladkjflñsajfñlksajdf
+asldkfjñalsdjfkas
+añlskdjfalskjdf
+asdlñkfjñsalkdjf
+añlskdfjñsalkdfj
+asdñlkfjñlkjasdfñkljsad
+ñalskdfjñlaskjdfñalkj
+* seccio 3
+Te moltes subseccions
+** subseccio 3.1
+** subseccio 3.2
+*** subsub1
+*** subsub2
+*** subsub3
+** subseccio 3.3

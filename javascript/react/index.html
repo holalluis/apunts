@@ -1,0 +1,47 @@
+<!doctype html><html><head>
+	<meta charset=utf-8>
+	<title>prova react</title>
+<head><body>
+
+<div id=container></div>
+
+<script>
+	//component: a checkbox with a 
+	var Checkbox = function(container_id) {
+		var div = document.createElement('div');
+		var h3 = document.createElement('h3');
+		var input = document.createElement('input');
+		this.div=div;
+		this.h3=h3;
+		this.input=input;
+		div.appendChild(input);
+		div.appendChild(h3);
+		input.setAttribute('type','checkbox');
+		h3.innerHTML='missatge inicial';
+		input.onchange = function() {
+			if(input.checked){
+				h3.innerHTML='Checkbox is checked';
+			}
+			else{
+				h3.innerHTML='Checkbox is unchecked';
+			}
+		}
+		document.getElementById(container_id).appendChild(div);
+	}
+
+	var CheckboxGroup = function(container_id){
+		var div = document.createElement('div');
+		var a = new Checkbox(div.id);
+		var b = new Checkbox(div.id);
+		var c = new Checkbox(div.id);
+		b.h3.innerHTML='custom'
+		c.h3.innerHTML='custom 2'
+		c.h3.style.color='red'
+		c.h3.mouseOver=function(){}
+	}
+
+	var cg = new CheckboxGroup('container');
+
+</script>
+
+

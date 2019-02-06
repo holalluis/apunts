@@ -1,0 +1,7386 @@
+%PDF-1.3
+%âãÏÓ
+2 0 obj
+<<
+/Length 8235
+>>
+stream
+BT
+/TT2 1 Tf
+12 0 0 12 129.504 670 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+[(T)74(ypesetting Mathematics — User’)37(s)-250(G)-0.3(uide )-1250(\(Second)-250(Edition\))]TJ
+/TT4 1 Tf
+10 0 0 10 201.13 646 Tm
+[(Brian W)92(.)-250(K)34.8(ernighan and Lorinda L. Cherry)]TJ
+6.3405 -5.4 TD
+[(ABSTRA)30(CT)]TJ
+/TT6 1 Tf
+-16.7535 -2.76 TD
+0.0876 Tw
+[(This is the user’)55(s)-337.6(g)-0.3(uide for a system for typesetting mathematics, using the phototypesetters on the)]TJ
+9 0 0 9 72 552.4 Tm
+0 Tw
+(UNIX)Tj
+10 0 0 10 94.4956 552.4 Tm
+0.25 Tc
+[(†a)250.3(n)250(d)]TJ
+8 0 0 8 118.931 552.4 Tm
+0 Tc
+(GCOS)Tj
+10 0 0 10 142.7709 552.4 Tm
+(operating systems.)Tj
+-4.5771 -1.56 TD
+0.1574 Tw
+[(Mathematical e)15(xpressions are described in a language designed to be easy to use by people who)]TJ
+-2.5 -1.2 TD
+0.3293 Tw
+[(kno)25(w)-579.4(n)0.2(either mathematics nor typesetting.)-829.4(Enough of the language to set in-line e)15(xpressions lik)10(e)]TJ
+/TT4 1 Tf
+7 0 0 7 72.539 505.887 Tm
+0 Tw
+(x)Tj
+/TT7 1 Tf
+0.4968 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(>)Tj
+/TT7 1 Tf
+6.23 0 1.9413 6.23 83.7505 505.887 Tm
+<002f>Tj
+/TT6 1 Tf
+7 0 0 7 88.2897 505.887 Tm
+(/2)Tj
+10 0 0 10 76.201 512.319 Tm
+0.1701 Tw
+(lim \(tan)Tj
+/TT4 1 Tf
+3.6653 0 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+0.4968 0 TD
+(\))Tj
+7 0 0 7 121.162 516.519 Tm
+0.03 Tw
+(sin 2)Tj
+/TT4 1 Tf
+2.024 0 TD
+0 Tw
+(x)Tj
+/TT8 1 Tf
+10 0 0 10 142.109 512.319 Tm
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+[(1)-250(o)-0.2(r)-250(display equations lik)10(e)]TJ
+/TT4 1 Tf
+-2.8417 -2.9539 TD
+(G)Tj
+/TT6 1 Tf
+0.7722 0 TD
+(\()Tj
+/TT4 1 Tf
+0.385 0 TD
+(z)Tj
+/TT6 1 Tf
+0.4302 0 TD
+(\))Tj
+/TT8 1 Tf
+0.613 0 TD
+(=)Tj
+/TT4 1 Tf
+0.8478 0 TD
+(e)Tj
+/TT6 1 Tf
+7 0 0 7 157.08 486.98 Tm
+(ln)Tj
+/TT4 1 Tf
+1.0558 0 TD
+(G)Tj
+/TT6 1 Tf
+0.7722 0 TD
+(\()Tj
+/TT4 1 Tf
+0.385 0 TD
+(z)Tj
+/TT6 1 Tf
+0.4302 0 TD
+(\))Tj
+/TT8 1 Tf
+10 0 0 10 181.212 482.78 Tm
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+-0.015 Tc
+[(ex)-15(p)]TJ
+/TT7 1 Tf
+1.5992 0.55 TD
+0 Tc
+<00a3>Tj
+0 -1.213 TD
+<00a4>Tj
+/TT4 1 Tf
+7 0 0 7 209.7419 473.852 Tm
+(k)Tj
+/TT7 1 Tf
+0.5108 0 TD
+<002a>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+/TT7 1 Tf
+15 0 0 15 210.638 480.333 Tm
+<0059>Tj
+/TT4 1 Tf
+10 0 0 10 223.894 489.78 Tm
+(S)Tj
+7 0 0 7 229.576 487.78 Tm
+(k)Tj
+10 0 0 10 234.1719 489.78 Tm
+(z)Tj
+7 0 0 7 238.725 493.98 Tm
+(k)Tj
+ET
+0 G
+1 J 1 j 0.4 w 10 M []0 d
+1 i 
+223.59 485.43 m
+242.79 485.43 l
+S
+BT
+10 0 0 10 230.808 475.78 Tm
+(k)Tj
+/TT7 1 Tf
+1.3194 1.25 TD
+<00a5>Tj
+0 -1.213 TD
+<00a6>Tj
+/TT8 1 Tf
+0.68 0.663 TD
+(=)Tj
+/TT4 1 Tf
+7 0 0 7 259.518 473.852 Tm
+(k)Tj
+/TT7 1 Tf
+0.5109 0 TD
+<002a>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+/TT7 1 Tf
+15 0 0 15 259.092 480.333 Tm
+<0057>Tj
+/TT4 1 Tf
+10 0 0 10 272.503 482.78 Tm
+(e)Tj
+7 0 0 7 277.353 486.98 Tm
+(S)Tj
+5 0 0 5 281.334 485.58 Tm
+(k)Tj
+7 0 0 7 284.6022 486.98 Tm
+(z)Tj
+5 0 0 5 287.7933 489.57 Tm
+(k)Tj
+/TT6 1 Tf
+7 0 0 7 290.6976 486.98 Tm
+(/)Tj
+/TT4 1 Tf
+0.3138 0 TD
+(k)Tj
+/TT8 1 Tf
+10 0 0 10 143.98 450.843 Tm
+(=)Tj
+/TT7 1 Tf
+0.829 0.55 TD
+<00a3>Tj
+0 -1.213 TD
+<00a4>Tj
+/TT6 1 Tf
+0.4 0.663 TD
+(1)Tj
+/TT8 1 Tf
+0.72 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8018 0 TD
+(S)Tj
+/TT6 1 Tf
+7 0 0 7 176.9183 448.843 Tm
+(1)Tj
+/TT4 1 Tf
+10 0 0 10 181.4383 450.843 Tm
+(z)Tj
+/TT8 1 Tf
+0.6502 0 TD
+(+)Tj
+/TT4 1 Tf
+0.922 0.7 TD
+(S)Tj
+/TT6 1 Tf
+7 0 0 7 202.74 462.043 Tm
+(2)Tj
+-0.0214 -0.9286 TD
+(1)Tj
+/TT4 1 Tf
+10 0 0 10 207.26 457.843 Tm
+(z)Tj
+/TT6 1 Tf
+7 0 0 7 211.56 462.043 Tm
+(2)Tj
+ET
+196.83 453.39 m
+215.55 453.39 l
+S
+BT
+10 0 0 10 202.03 443.843 Tm
+(2!)Tj
+/TT8 1 Tf
+1.693 0.7 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0.2155 TD
+0.17 Tc
+(...)Tj
+/TT7 1 Tf
+1.09 0.3345 TD
+0 Tc
+<00a5>Tj
+0.0002 -1.213 TD
+<00a6>Tj
+0.4 1.213 TD
+<00a3>Tj
+0 -1.213 TD
+<00a4>Tj
+/TT6 1 Tf
+0.4 0.663 TD
+(1)Tj
+/TT8 1 Tf
+0.72 0 TD
+(+)Tj
+/TT4 1 Tf
+0.922 0.7 TD
+(S)Tj
+/TT6 1 Tf
+7 0 0 7 267.4 455.843 Tm
+(2)Tj
+/TT4 1 Tf
+10 0 0 10 271.92 457.843 Tm
+(z)Tj
+/TT6 1 Tf
+7 0 0 7 276.22 462.043 Tm
+(2)Tj
+ET
+261.63 453.39 m
+280.23 453.39 l
+S
+BT
+10 0 0 10 268.43 443.843 Tm
+(2)Tj
+/TT8 1 Tf
+1.519 0.7 TD
+(+)Tj
+/TT4 1 Tf
+1.197 0.7 TD
+(S)Tj
+/TT6 1 Tf
+7 0 0 7 301.17 462.043 Tm
+(2)Tj
+-0.0214 -0.9286 TD
+(2)Tj
+/TT4 1 Tf
+10 0 0 10 305.69 457.843 Tm
+(z)Tj
+/TT6 1 Tf
+7 0 0 7 309.99 462.043 Tm
+(4)Tj
+10 0 0 10 292.51 443.843 Tm
+(2)Tj
+7 0 0 7 297.51 446.643 Tm
+(2)Tj
+/TT7 1 Tf
+10 0 0 10 303.71 443.843 Tm
+<0075>Tj
+ET
+292.47 453.39 m
+316.71 453.39 l
+S
+BT
+/TT6 1 Tf
+10 0 0 10 308.41 443.843 Tm
+(2!)Tj
+/TT8 1 Tf
+1.173 0.7 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0.2155 TD
+0.17 Tc
+(...)Tj
+/TT7 1 Tf
+1.09 0.3345 TD
+0 Tc
+<00a5>Tj
+0.0002 -1.213 TD
+<00a6>Tj
+/TT6 1 Tf
+0.57 0.8785 TD
+0.17 Tc
+(...)Tj
+/TT8 1 Tf
+-20.045 -4.2475 TD
+0 Tc
+(=)Tj
+/TT4 1 Tf
+7 0 0 7 152.536 401.644 Tm
+(m)Tj
+/TT7 1 Tf
+0.7542 0 TD
+<002a>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(0)Tj
+/TT7 1 Tf
+15 0 0 15 154.273 408.076 Tm
+<0059>Tj
+10 0 0 10 166.857 426.023 Tm
+<00a3>Tj
+0 -1.213 TD
+<00b2>Tj
+0 -1 TD
+<00b2>Tj
+T*
+<00a4>Tj
+/TT4 1 Tf
+7 0 0 7 179.554 401.595 Tm
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 182.9619 400.195 Tm
+(1)Tj
+7 0 0 7 185.8119 401.595 Tm
+(,)Tj
+/TT4 1 Tf
+0.286 0 TD
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 191.2219 400.195 Tm
+(2)Tj
+7 0 0 7 194.0719 401.595 Tm
+(,...,)Tj
+/TT4 1 Tf
+1.286 0 TD
+(k)Tj
+5 0 0 5 206.6718 400.195 Tm
+(m)Tj
+/TT7 1 Tf
+7 0 0 7 210.7926 401.595 Tm
+<002a>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(0)Tj
+/TT4 1 Tf
+-6.2179 -1.4 TD
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 174.5169 390.395 Tm
+(1)Tj
+/TT8 1 Tf
+7 0 0 7 177.3669 391.795 Tm
+(+)Tj
+/TT6 1 Tf
+0.5488 0 TD
+(2)Tj
+/TT4 1 Tf
+0.536 0 TD
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 188.3687 390.395 Tm
+(2)Tj
+/TT8 1 Tf
+7 0 0 7 191.2187 391.795 Tm
+(+)Tj
+/TT6 1 Tf
+0.5488 0.2156 TD
+(...)Tj
+/TT8 1 Tf
+0.75 -0.2156 TD
+(+)Tj
+/TT4 1 Tf
+0.5868 0 TD
+(mk)Tj
+5 0 0 5 213.0714 390.395 Tm
+(m)Tj
+/TT8 1 Tf
+7 0 0 7 217.1922 391.795 Tm
+(=)Tj
+/TT4 1 Tf
+0.5868 0 TD
+(m)Tj
+/TT7 1 Tf
+15 0 0 15 194.28 408.076 Tm
+<0059>Tj
+/TT4 1 Tf
+10 0 0 10 235.639 417.523 Tm
+(S)Tj
+7 0 0 7 241.471 422.523 Tm
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 244.8789 421.123 Tm
+(1)Tj
+7 0 0 7 241.069 414.791 Tm
+(1)Tj
+10 0 0 10 229.484 403.523 Tm
+(1)Tj
+/TT4 1 Tf
+7 0 0 7 234.736 406.323 Tm
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 238.1439 404.923 Tm
+(1)Tj
+/TT4 1 Tf
+10 0 0 10 241.8539 403.523 Tm
+(k)Tj
+/TT6 1 Tf
+7 0 0 7 246.7224 401.523 Tm
+(1)Tj
+ET
+229.47 413.07 m
+254.07 413.07 l
+S
+BT
+10 0 0 10 250.725 403.523 Tm
+(!)Tj
+/TT4 1 Tf
+1.4685 1.4 TD
+(S)Tj
+7 0 0 7 271.242 422.523 Tm
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 274.6499 421.123 Tm
+(2)Tj
+7 0 0 7 270.84 414.791 Tm
+(2)Tj
+10 0 0 10 259.255 403.523 Tm
+(2)Tj
+/TT4 1 Tf
+7 0 0 7 264.507 406.323 Tm
+(k)Tj
+/TT6 1 Tf
+5 0 0 5 267.9149 404.923 Tm
+(2)Tj
+/TT4 1 Tf
+10 0 0 10 271.6249 403.523 Tm
+(k)Tj
+/TT6 1 Tf
+7 0 0 7 276.4934 401.523 Tm
+(2)Tj
+ET
+259.23 413.07 m
+283.83 413.07 l
+S
+BT
+10 0 0 10 280.496 403.523 Tm
+(!)Tj
+0.733 0.9155 TD
+0.17 Tc
+(...)Tj
+/TT4 1 Tf
+2.2437 0.4845 TD
+0 Tc
+(S)Tj
+7 0 0 7 316.095 421.723 Tm
+(k)Tj
+5 0 0 5 319.6929 420.323 Tm
+(m)Tj
+7 0 0 7 315.959 415.223 Tm
+(m)Tj
+10 0 0 10 302.006 403.523 Tm
+(m)Tj
+7 0 0 7 309.7997 406.323 Tm
+(k)Tj
+5 0 0 5 313.3976 404.923 Tm
+(m)Tj
+10 0 0 10 318.3784 403.523 Tm
+(k)Tj
+7 0 0 7 323.5129 401.523 Tm
+(m)Tj
+ET
+301.59 413.07 m
+332.67 413.07 l
+S
+BT
+/TT6 1 Tf
+10 0 0 10 329.291 403.523 Tm
+(!)Tj
+/TT7 1 Tf
+0.453 2.25 TD
+<00a5>Tj
+0 -1.213 TD
+<00b4>Tj
+0 -1 TD
+<00b4>Tj
+T*
+<00a6>Tj
+/TT4 1 Tf
+0.452 1.663 TD
+(z)Tj
+7 0 0 7 342.907 414.723 Tm
+(m)Tj
+/TT6 1 Tf
+10 0 0 10 72 374.85 Tm
+(can be learned in an hour or so.)Tj
+2.5 -1.56 TD
+0.0603 Tw
+[(The language interf)10(aces directly with the phototypesetting language)]TJ
+8 0 0 8 375.5179 359.25 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 400.0964 359.25 Tm
+0.0604 Tw
+[(,)-310.3(s)-4.2(o)-310.3(m)-0.2(athematical e)15(xpres-)]TJ
+-32.8096 -1.2 TD
+0.0633 Tw
+[(sions can be embedded in the running te)15(xt of a manuscript, and the entire document produced in one pro-)]TJ
+T*
+0 Tw
+[(cess. )-250(This)-250(user’)55(s)-250(guide is an e)15(xample of its output.)]TJ
+2.5 -1.56 TD
+0.0691 Tw
+(The same language may be used with the)Tj
+8 0 0 8 269.696 319.65 Tm
+0 Tw
+(UNIX)Tj
+10 0 0 10 292.8831 319.65 Tm
+(formatter)Tj
+8 0 0 8 333.2762 319.65 Tm
+[(NR)40(OFF)]TJ
+10 0 0 10 361.9363 319.65 Tm
+0.0691 Tw
+[(to set mathematical e)15(xpressions on)]TJ
+8 0 0 8 72 307.65 Tm
+0 Tw
+[(D)40(ASI)]TJ
+10 0 0 10 92.848 307.65 Tm
+(and)Tj
+8 0 0 8 109.7864 307.65 Tm
+(GSI)Tj
+10 0 0 10 125.1771 307.65 Tm
+(terminals and Model 37 teletypes.)Tj
+-5.3177 -4.8 TD
+(August 15, 1978)Tj
+ET
+72.03 132.03 m
+76.95 132.03 l
+73.95 132.03 m
+144.03 132.03 l
+S
+BT
+8 0 0 8 72 122 Tm
+(†)Tj
+7 0 0 7 78 122 Tm
+(UNIX)Tj
+8 0 0 8 97.4966 122 Tm
+(is a trademark of Bell Laboratories.)Tj
+ET
+endstream
+endobj
+3 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+12 0 obj
+<<
+/Length 9007
+>>
+stream
+BT
+/TT2 1 Tf
+12 0 0 12 129.504 670 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+[(T)74(ypesetting Mathematics — User’)37(s)-250(G)-0.3(uide )-1250(\(Second)-250(Edition\))]TJ
+/TT4 1 Tf
+10 0 0 10 201.13 646 Tm
+[(Brian W)92(.)-250(K)34.8(ernighan and Lorinda L. Cherry)]TJ
+/TT2 1 Tf
+-12.913 -5.4 TD
+0.25 Tw
+[(1. Intr)18(oduction)]TJ
+/TT6 1 Tf
+8 0 0 8 97 576.4 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 116.2504 576.4 Tm
+0.0308 Tw
+(is a program for typesetting mathemat-)Tj
+-4.425 -1.2 TD
+0.138 Tw
+(ics on the Graphics Systems phototypesetters on)Tj
+8 0 0 8 72 552.4 Tm
+0 Tw
+(UNIX)Tj
+10 0 0 10 95.1021 552.4 Tm
+(and)Tj
+8 0 0 8 112.6466 552.4 Tm
+(GCOS)Tj
+10 0 0 10 133.9864 552.4 Tm
+0.5606 Tc
+[(.T)561.1(h)560.6(e)]TJ
+8 0 0 8 160.7404 552.4 Tm
+0 Tc
+(EQN)Tj
+10 0 0 10 180.2878 552.4 Tm
+0.0606 Tw
+[(language w)10(as designed)]TJ
+-10.8288 -1.2 TD
+0.2153 Tw
+[(to be easy to use by people who kno)25(w)-465.4(n)-1(either)]TJ
+T*
+0.2806 Tw
+[(mathematics nor typesetting.)-780.6(Thus)]TJ
+8 0 0 8 225.973 528.4 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 247.7204 528.4 Tm
+[(kno)25(ws)]TJ
+-17.572 -1.2 TD
+0.1374 Tw
+[(relati)25(v)15(ely little about mathematics.)-637.4(In particular)40(,)]TJ
+T*
+0.1869 Tw
+[(mathematical symbols lik)10(e)-436.8(+)-2.3(,)]TJ
+/TT7 1 Tf
+12.7734 0 TD
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(,)Tj
+/TT8 1 Tf
+0.6868 0 TD
+(×)Tj
+/TT6 1 Tf
+0.5488 0 TD
+[(,)-436.8(p)-0.3(arentheses,)]TJ
+-14.5579 -1.2 TD
+0.0336 Tw
+[(and so on ha)20(v)15(e)15( )-15.1(no)-283.7(special meanings.)]TJ
+8 0 0 8 224.8033 492.4 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 244.0817 492.4 Tm
+0.0337 Tw
+(is quite)Tj
+-17.2082 -1.2 TD
+-0.0001 Tc
+0.0001 Tw
+[(happ)9.9(y)-250.1(t)-0.4(o)-250.1(s)0.1(et garbage \(b)19.9(ut it will look good\).)]TJ
+8 0 0 8 97 464.8 Tm
+0 Tc
+0 Tw
+(EQN)Tj
+10 0 0 10 117.3744 464.8 Tm
+0.1433 Tw
+[(w)10(orks as a preprocessor for the type-)]TJ
+-4.5374 -1.2 TD
+0.0629 Tw
+[(setter formatter)40(,)]TJ
+8 0 0 8 139.2154 452.8 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 163.7939 452.8 Tm
+0.0629 Tw
+([1], so the normal mode of)Tj
+-9.1794 -1.2 TD
+0.3209 Tw
+(operation is to prepare a document with both)Tj
+T*
+0.2024 Tw
+[(mathematics and ordinary te)15(xt interspersed, and)]TJ
+T*
+0 Tw
+(let)Tj
+8 0 0 8 84.9871 416.8 Tm
+(EQN)Tj
+10 0 0 10 104.4205 416.8 Tm
+0.0492 Tw
+(set the mathematics while)Tj
+8 0 0 8 212.4676 416.8 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 240.037 416.8 Tm
+0.0491 Tw
+(does the)Tj
+-16.8037 -1.2 TD
+0 Tw
+[(body of the te)15(xt.)]TJ
+2.5 -1.56 TD
+(On)Tj
+8 0 0 8 112.3546 389.2 Tm
+(UNIX)Tj
+10 0 0 10 132.3508 389.2 Tm
+(,)Tj
+8 0 0 8 137.9837 389.2 Tm
+(EQN)Tj
+10 0 0 10 157.5582 389.2 Tm
+0.0633 Tw
+(will also produce mathemat-)Tj
+-8.5558 -1.2 TD
+0.1617 Tw
+(ics on)Tj
+8 0 0 8 101.3424 377.2 Tm
+0 Tw
+[(D)40(ASI)]TJ
+10 0 0 10 123.8074 377.2 Tm
+(and)Tj
+8 0 0 8 142.3628 377.2 Tm
+(GSI)Tj
+10 0 0 10 159.3695 377.2 Tm
+0.1616 Tw
+(terminals and on Model 37)Tj
+-8.7369 -1.2 TD
+0.093 Tw
+[(teletypes. )-250(The)-343(input is identical, b)20(ut you ha)20(v)15(e)15( )-15(to)]TJ
+T*
+0.0383 Tw
+(use the programs)Tj
+8 0 0 8 143.9644 353.2 Tm
+0 Tw
+(NEQN)Tj
+10 0 0 10 169.0662 353.2 Tm
+(and)Tj
+8 0 0 8 186.3867 353.2 Tm
+[(NR)40(OFF)]TJ
+10 0 0 10 214.7377 353.2 Tm
+0.0382 Tw
+(instead of)Tj
+8 0 0 8 257.157 353.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 72 341.2 Tm
+(and)Tj
+8 0 0 8 89.4025 341.2 Tm
+[(TR)40(OFF)]TJ
+10 0 0 10 113.9809 341.2 Tm
+0.0464 Tw
+[(.)-546.4(O)0.3(f)-296.4(c)-0.1(ourse, some things w)10(on’)18(t)-296.5(l)-0.5(ook as)]TJ
+-4.1981 -1.2 TD
+0.111 Tw
+[(good because terminals don’)18(t)-361(p)-1.4(ro)15(vide the v)25(ariety)]TJ
+T*
+0.2934 Tw
+(of characters, sizes and fonts that a typesetter)Tj
+T*
+0.0332 Tw
+[(does, b)20(ut the output is usually adequate for proof-)]TJ
+T*
+0 Tw
+(reading.)Tj
+2.5 -1.56 TD
+-0.08 Tc
+0.16 Tw
+[(To u)-80(s)-80(e)]TJ
+8 0 0 8 125.6385 277.6 Tm
+0 Tc
+0 Tw
+(EQN)Tj
+10 0 0 10 144.5799 277.6 Tm
+(on)Tj
+8 0 0 8 157.0799 277.6 Tm
+(UNIX)Tj
+10 0 0 10 177.076 277.6 Tm
+(,)Tj
+-6.9076 -1.8 TD
+(eqn )Tj
+/TT9 1 Tf
+1.6938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | trof)25(f)]TJ
+8 0 0 8 72 241.6 Tm
+(GCOS)Tj
+10 0 0 10 95.8398 241.6 Tm
+(use is discussed in section 26.)Tj
+/TT2 1 Tf
+-2.384 -2.4 TD
+0.25 Tw
+[(2. Display)10(ed )250(Equations)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.2473 Tw
+[(T)80(o)80( tell)]TJ
+8 0 0 8 128.4278 202 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 149.0422 202 Tm
+0.1674 Tw
+[(where a mathematical e)15(xpres-)]TJ
+-7.7042 -1.2 TD
+0.0151 Tw
+[(sion be)15(gins and ends, we mark it with lines be)15(gin-)]TJ
+T*
+0 Tw
+(ning)Tj
+8 0 0 8 92.2783 178 Tm
+(.EQ)Tj
+10 0 0 10 107.4424 178 Tm
+(and)Tj
+8 0 0 8 124.3809 178 Tm
+(.EN)Tj
+10 0 0 10 137.0449 178 Tm
+[(.)-500(T)-0.5(hus if you type the lines)]TJ
+-2.9045 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+(x=y+z)Tj
+T*
+(.EN)Tj
+-3.6 -1.8 TD
+[(your output will look lik)10(e)]TJ
+/TT4 1 Tf
+8.305 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT4 1 Tf
+0.9028 0 TD
+(y)Tj
+/TT8 1 Tf
+0.6958 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8208 0 TD
+(z)Tj
+/TT6 1 Tf
+-11.5014 -1.8 TD
+(The)Tj
+8 0 0 8 92.0979 82 Tm
+(.EQ)Tj
+10 0 0 10 109.3129 82 Tm
+(and)Tj
+8 0 0 8 128.3034 82 Tm
+(.EN)Tj
+10 0 0 10 145.5195 82 Tm
+0.2052 Tw
+(are copied through untouched;)Tj
+-7.3519 -1.2 TD
+0.2073 Tw
+[(the)15(y)-457.3(a)-0.5(re not otherwise processed by)]TJ
+8 0 0 8 229.8005 70 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 246.2419 70 Tm
+[(.)-707.2(T)-0.8(his)]TJ
+5.6158 52.2 TD
+0.1816 Tw
+[(means that you ha)20(v)15(e)15( )-15.1(to)-431.7(tak)10(e)-431.7(care of things lik)10(e)]TJ
+0 -1.2 TD
+0.2402 Tw
+[(centering, numbering, and so on yourself.)-740.1(The)]TJ
+T*
+0.0401 Tw
+[(most common w)10(ay is to use the)]TJ
+8 0 0 8 433.7056 568 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 461.1851 568 Tm
+(and)Tj
+8 0 0 8 478.5256 568 Tm
+[(NR)40(OFF)]TJ
+10 0 0 10 302.4 556 Tm
+0.1697 Tw
+(macro package package ‘)Tj
+/TT7 1 Tf
+10.6414 0 TD
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+0.1696 Tw
+[(ms’ de)25(v)15(eloped by M.)]TJ
+-11.1903 -1.2 TD
+0.2111 Tw
+[(E. Lesk[3], which allo)25(ws you to center)40(,)-461.2(i)-1.5(ndent,)]TJ
+T*
+0 Tw
+(left-justify and number equations.)Tj
+2.5 -1.56 TD
+0.0492 Tw
+[(W)40(ith the ‘)]TJ
+/TT7 1 Tf
+4.1126 0 TD
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+0.0492 Tw
+(ms’ package, equations are cen-)Tj
+-7.1614 -1.2 TD
+0.1314 Tw
+[(tered by def)10(ault. )-250(T)80(o)-381.4(left-justify an equation, use)]TJ
+8 0 0 8 302.4 492.4 Tm
+0 Tw
+(.EQ L)Tj
+10 0 0 10 325.4648 492.4 Tm
+0.1014 Tw
+(instead of)Tj
+8 0 0 8 369.148 492.4 Tm
+0 Tw
+(.EQ)Tj
+10 0 0 10 381.8121 492.4 Tm
+0.1014 Tw
+[(.)-601.4(T)79.3(o)-351.4(i)-0.2(ndent it, use)]TJ
+8 0 0 8 461.0815 492.4 Tm
+0 Tw
+(.EQ I)Tj
+10 0 0 10 478.4096 492.4 Tm
+0.6014 Tc
+[(.A)600.9(n)616.4(y)]TJ
+-17.601 -1.2 TD
+0 Tc
+0.0307 Tw
+[(of these can be follo)25(wed by an arbitrary ‘equation)]TJ
+T*
+0.04 Tw
+[(number’ which will be placed at the right mar)18(gin.)]TJ
+T*
+0 Tw
+[(F)15(o)0(r)-250(e)15(xample, the input)]TJ
+3.6 -1.8 TD
+(.EQ I \(3.1a\))Tj
+0 -1.2 TD
+[(x)-250(=)-250(f\(y/2\) + y/2)]TJ
+T*
+(.EN)Tj
+-3.6 -1.8 TD
+(produces the output)Tj
+/TT4 1 Tf
+5.077 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT4 1 Tf
+1.0258 0 TD
+(f)Tj
+/TT6 1 Tf
+0.4738 0 TD
+(\()Tj
+/TT4 1 Tf
+0.407 0 TD
+(y)Tj
+/TT6 1 Tf
+0.4758 0 TD
+(/2\))Tj
+/TT8 1 Tf
+1.3308 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8428 0 TD
+(y)Tj
+/TT6 1 Tf
+0.4758 0 TD
+5.885 Tw
+(/2 \(3.1a\))Tj
+-8.3859 -2.16 TD
+0.0191 Tw
+(There is also a shorthand notation so in-line)Tj
+-2.5 -1.2432 TD
+0.233 Tw
+[(e)15(xpressions lik)10(e)]TJ
+/TT7 1 Tf
+8.9 0 2.7732 8.9 373.3853 344.368 Tm
+0 Tw
+<002f>Tj
+/TT6 1 Tf
+7 0 0 7 379.88 348.568 Tm
+(2)Tj
+/TT4 1 Tf
+-0.0861 -0.9286 TD
+(i)Tj
+/TT6 1 Tf
+10 0 0 10 388.7088 344.368 Tm
+0.2329 Tw
+(can be entered without)Tj
+8 0 0 8 491.3207 344.368 Tm
+0 Tw
+(.EQ)Tj
+10 0 0 10 302.4 332.368 Tm
+(and)Tj
+8 0 0 8 319.3384 332.368 Tm
+(.EN)Tj
+10 0 0 10 332.0025 332.368 Tm
+[(.)-500(W)79.7(e)-250(will talk about it in section 19.)]TJ
+/TT2 1 Tf
+-2.9603 -2.4 TD
+0.25 Tw
+[(3. Input)-250(spaces)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.1794 Tw
+[(Spaces and ne)25(wlines within an e)15(xpression)]TJ
+-2.5 -1.2 TD
+0.0001 Tc
+0.2536 Tw
+[(are thro)25.1(wn a)15.1(w)10.1(ay)-503.5(by)]TJ
+8 0 0 8 393.686 280.768 Tm
+0 Tc
+0 Tw
+(EQN)Tj
+10 0 0 10 410.1274 280.768 Tm
+0.2536 Tw
+[(.)-753.6(\()0.1(Normal te)15(xt is left)]TJ
+-10.7727 -1.2 TD
+0 Tw
+[(absolutely alone.\))-500(Thus between)]TJ
+8 0 0 8 436.8043 268.768 Tm
+(.EQ)Tj
+10 0 0 10 451.9684 268.768 Tm
+(and)Tj
+8 0 0 8 468.9068 268.768 Tm
+(.EN)Tj
+10 0 0 10 481.5709 268.768 Tm
+(,)Tj
+-14.3171 -1.8 TD
+(x=y+z)Tj
+-3.6 -1.8 TD
+(and)Tj
+3.6 -1.8 TD
+0.25 Tc
+(x=y+z)Tj
+-3.6 -1.8 TD
+0 Tc
+(and)Tj
+3.6 -1.8 TD
+0.75 Tc
+(x=y)Tj
+0.75 -1.2 TD
+0.25 Tc
+(+z)Tj
+-4.35 -1.8 TD
+0 Tc
+(and so on all produce the same output)Tj
+/TT4 1 Tf
+8.305 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT4 1 Tf
+0.9028 0 TD
+(y)Tj
+/TT8 1 Tf
+0.6958 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8208 0 TD
+(z)Tj
+/TT6 1 Tf
+-11.5014 -1.8 TD
+0.3006 Tw
+[(Y)110(o)0(u)-550.5(s)0.3(hould use spaces and ne)25(wlines freely to)]TJ
+0 -1.2 TD
+0.1637 Tw
+[(mak)10(e)-413.8(y)-0.5(our input equations readable and easy to)]TJ
+T*
+0.0646 Tw
+[(edit. )-249.9(In)-314.5(particular)40(,)-314.5(v)13.6(ery long lines are a bad idea,)]TJ
+T*
+0.0247 Tw
+[(since the)15(y)-274.8(a)-0.8(re often hard to )]TJ
+/TT9 1 Tf
+11.2406 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0247 Tw
+[(x if you mak)10(e)-274.7(a)-274.7(m)-1.7(is-)]TJ
+-11.7968 -1.2 TD
+0 Tw
+[(tak)10(e.)]TJ
+ET
+endstream
+endobj
+13 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+16 0 obj
+<<
+/Length 10259
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-2-)Tj
+/TT2 1 Tf
+-20.767 -3.6 TD
+0 Tc
+0.25 Tw
+[(4. Output)-250(spaces)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0775 Tw
+[(T)80(o)80( )-80(force e)15(xtra spaces into the)]TJ
+/TT4 1 Tf
+12.4203 0 TD
+0 Tw
+(output,)Tj
+/TT6 1 Tf
+3.1332 0 TD
+0.0775 Tw
+(use a)Tj
+-18.0535 -1.2 TD
+0 Tw
+[(tilde ‘)74(‘)-166.6(˜)-166.6(’)73.4(’)-250(for each space you w)10(ant:)]TJ
+3.6 -1.8 TD
+(x˜=˜y˜+˜z)Tj
+-3.6 -1.8 TD
+[(gi)25(v)15(e)0(s)]TJ
+/TT4 1 Tf
+8.245 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT4 1 Tf
+0.9028 0 TD
+(y)Tj
+/TT8 1 Tf
+0.7558 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8808 0 TD
+(z)Tj
+/TT6 1 Tf
+-11.5614 -1.8 TD
+0.0594 Tw
+[(Y)110(o)0(u)-309.4(can also use a circum)]TJ
+/TT9 1 Tf
+10.7109 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0593 Tw
+[(e)15(x)-309.3(‘)73.1(‘ˆ’)74(’, which gi)25(v)15(e)0(s)-309.3(a)]TJ
+-11.2671 -1.2 TD
+0.0329 Tw
+[(space half the width of a tilde.)-532.9(It is mainly useful)]TJ
+T*
+0 Tw
+(for )Tj
+/TT9 1 Tf
+1.4323 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0162 Tw
+[(ne-tuning.)-516.3(T)80(abs may also be used to position)]TJ
+-1.9885 -1.2 TD
+0.0527 Tw
+[(pieces of an e)15(xpression, b)20(ut the tab stops must be)]TJ
+T*
+0 Tw
+(set by)Tj
+8 0 0 8 98.1084 560.4 Tm
+[(TR)40(OFF)]TJ
+10 0 0 10 125.1869 560.4 Tm
+(commands.)Tj
+/TT2 1 Tf
+-5.3187 -2.4 TD
+[(5. )-250(Symbols,)-250(Special Names, Gr)18(eek)]TJ
+/TT6 1 Tf
+8 0 0 8 97 520.8 Tm
+(EQN)Tj
+10 0 0 10 119.3094 520.8 Tm
+0.3367 Tw
+[(kno)25(ws some mathematical symbols,)]TJ
+-4.7309 -1.2 TD
+0.1247 Tw
+(some mathematical names, and the Greek alpha-)Tj
+T*
+0.25 Tw
+[(bet. F)15(or )250(e)15(xample,)]TJ
+3.6 -1.8 TD
+-0.0006 Tc
+0.0014 Tw
+[(x=2 pi int sin \( ome)14.4(ga t\)dt)]TJ
+-3.6 -1.8 TD
+0 Tc
+0 Tw
+(produces)Tj
+/TT4 1 Tf
+6.3338 -2.1307 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(2)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 156.3148 439.493 Tm
+<002f>Tj
+18 0 0 18 165.444 434.812 Tm
+<0030>Tj
+/TT6 1 Tf
+10 0 0 10 173.282 439.493 Tm
+(sin\()Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 187.932 439.493 Tm
+<0074>Tj
+/TT4 1 Tf
+10 0 0 10 195.4277 439.493 Tm
+(t)Tj
+/TT6 1 Tf
+0.3458 0 TD
+(\))Tj
+/TT4 1 Tf
+0.368 0 TD
+(dt)Tj
+/TT6 1 Tf
+-13.0566 -2.1107 TD
+0.0769 Tw
+(Here the spaces in the input are)Tj
+/TT2 1 Tf
+13.3386 0 TD
+0 Tw
+(necessary)Tj
+/TT6 1 Tf
+4.4368 0 TD
+0.0768 Tw
+(to tell)Tj
+8 0 0 8 72 406.386 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 91.9024 406.386 Tm
+(that)Tj
+/TT4 1 Tf
+1.8456 0 TD
+0.0961 Tw
+(int, pi, sin)Tj
+/TT6 1 Tf
+4.5388 0 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+1.7899 0 TD
+[(ome)40(ga)]TJ
+/TT6 1 Tf
+2.9721 0 TD
+0.0961 Tw
+(are separate enti-)Tj
+-13.1367 -1.2 TD
+0.2294 Tw
+[(ties that should get special treatment.)-729.4(The)]TJ
+/TT4 1 Tf
+18.7396 0 TD
+0 Tw
+(sin,)Tj
+/TT6 1 Tf
+-18.7396 -1.2 TD
+0.26 Tw
+(digit 2, and parentheses are set in roman type)Tj
+T*
+0.1575 Tw
+(instead of italic;)Tj
+/TT4 1 Tf
+7.1649 0 TD
+0 Tw
+(pi)Tj
+/TT6 1 Tf
+1.1853 0 TD
+(and)Tj
+/TT4 1 Tf
+1.8513 0 TD
+[(ome)40(ga)]TJ
+/TT6 1 Tf
+3.0335 0 TD
+0.1575 Tw
+(are made Greek;)Tj
+-13.2351 -1.2 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+1.6938 0 TD
+(int)Tj
+/TT6 1 Tf
+1.3057 0 TD
+[(becomes the inte)15(gral sign.)]TJ
+-0.4995 -1.56 TD
+0.149 Tw
+[(When in doubt, lea)20(v)15(e)15( )-15(spaces around sepa-)]TJ
+-2.5 -1.2 TD
+0.0275 Tw
+[(rate parts of the input.)-527.5(A)]TJ
+/TT4 1 Tf
+10.4399 0 TD
+0 Tw
+(very)Tj
+/TT6 1 Tf
+1.9982 0 TD
+0.0275 Tw
+(common error is to)Tj
+-12.4381 -1.2 TD
+0 Tw
+(type)Tj
+/TT4 1 Tf
+2.036 0 TD
+(f\(pi\))Tj
+/TT6 1 Tf
+2.036 0 TD
+0.0644 Tw
+[(without lea)20(ving spaces on both sides of)]TJ
+-4.072 -1.2 TD
+0 Tw
+(the)Tj
+/TT4 1 Tf
+1.4887 0 TD
+(pi.)Tj
+/TT6 1 Tf
+1.5447 0 TD
+0.0169 Tw
+(As a result,)Tj
+8 0 0 8 150.6097 306.786 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 169.7201 306.786 Tm
+0.0169 Tw
+(does not recognize)Tj
+/TT4 1 Tf
+7.7978 0 TD
+0 Tw
+(pi)Tj
+/TT6 1 Tf
+1.0447 0 TD
+0.0169 Tw
+(as a)Tj
+-18.6145 -1.2 TD
+0.1573 Tw
+[(special w)10(ord, and it appears as)]TJ
+/TT4 1 Tf
+13.5991 0 TD
+0 Tw
+(f)Tj
+/TT6 1 Tf
+0.4738 0 TD
+(\()Tj
+/TT4 1 Tf
+0.458 0 TD
+(pi)Tj
+/TT6 1 Tf
+0.8138 0 TD
+0.1574 Tw
+[(\))-407.4(i)-1.6(nstead of)]TJ
+/TT4 1 Tf
+-15.1477 -1.2 TD
+0 Tw
+(f)Tj
+/TT6 1 Tf
+0.4738 0 TD
+(\()Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 81.9584 282.786 Tm
+<002f>Tj
+/TT6 1 Tf
+10 0 0 10 88.443 282.786 Tm
+(\).)Tj
+0.8557 -1.56 TD
+0.205 Tw
+[(A)-455(complete list of)]TJ
+8 0 0 8 179.6285 267.1859 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 200.6199 267.1859 Tm
+0.205 Tw
+(names appears in)Tj
+-12.862 -1.2 TD
+0.2815 Tw
+[(section 23.)-781.5(Kno)25(wledgeable users can also use)]TJ
+8 0 0 8 72 243.1859 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 102.9975 243.1859 Tm
+0.3919 Tw
+[(four)20(-character names for an)15(ything)]TJ
+8 0 0 8 257.1457 243.1859 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 72 231.1859 Tm
+0.0719 Tw
+[(doesn’)18(t)-321.8(k)-0.2(no)25(w)-321.8(about, lik)10(e)]TJ
+/TT4 1 Tf
+10.3717 0 TD
+0 Tw
+(\\\(bs)Tj
+/TT6 1 Tf
+1.8219 0 TD
+0.0719 Tw
+(for the Bell System)Tj
+-12.1936 -1.2 TD
+0 Tw
+(sign .)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(6. Spaces,)-250(Again)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.2066 Tw
+[(The only w)10(a)0(y)]TJ
+8 0 0 8 160.5833 179.586 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 181.5907 179.586 Tm
+0.2065 Tw
+(can deduce that some)Tj
+-10.9591 -1.2 TD
+0.2981 Tw
+(sequence of letters might be special is if that)Tj
+T*
+0.2021 Tw
+(sequence is separated from the letters on either)Tj
+T*
+0.0163 Tw
+[(side of it.)-516.3(This can be done by surrounding a spe-)]TJ
+T*
+0.2611 Tw
+[(cial w)10(ord by ordinary spaces \(or tabs or ne)25(w-)]TJ
+T*
+0 Tw
+[(lines\), as we did in the pre)25(vious section.)]TJ
+2.5 -1.56 TD
+0.0775 Tw
+[(Y)110(o)0(u)-327.5(can also mak)10(e)-327.6(s)-0.7(pecial w)10(ords stand out)]TJ
+-2.5 -1.2 TD
+0 Tw
+(by surrounding them with tildes or circum)Tj
+/TT9 1 Tf
+16.8862 0 TD
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(e)15(x)15(es:)]TJ
+-13.8424 -1.8 TD
+-0.0002 Tc
+[(x˜=˜2˜pi˜int˜sin˜\(˜ome)14.8(ga˜t˜\)˜dt)]TJ
+19.44 63.4014 TD
+0 Tc
+0.0646 Tw
+[(is much the same as the last e)15(xample, e)15(xcept that)]TJ
+0 -1.2 TD
+0.1061 Tw
+[(the tildes not only separate the magic w)10(ords lik)10(e)]TJ
+/TT4 1 Tf
+T*
+0.0975 Tw
+[(sin, ome)40(ga,)]TJ
+/TT6 1 Tf
+4.988 0 TD
+[(and so on, b)20(ut also add e)15(xtra spaces,)]TJ
+-4.988 -1.2 TD
+0 Tw
+(one space per tilde:)Tj
+/TT4 1 Tf
+5.3838 -2.1307 TD
+(x)Tj
+/TT8 1 Tf
+0.7769 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(2)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 380.0147 650.693 Tm
+<002f>Tj
+18 0 0 18 390.244 646.012 Tm
+<0030>Tj
+/TT6 1 Tf
+10 0 0 10 399.182 650.693 Tm
+0.03 Tw
+(sin \()Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 419.432 650.693 Tm
+0 Tw
+<0074>Tj
+/TT4 1 Tf
+10 0 0 10 429.7277 650.693 Tm
+(t)Tj
+/TT6 1 Tf
+0.6258 0 TD
+(\))Tj
+/TT4 1 Tf
+0.648 0 TD
+(dt)Tj
+/TT6 1 Tf
+-11.5066 -2.4707 TD
+0.3438 Tw
+[(Special w)10(ords can also be separated by)]TJ
+-2.5 -1.2 TD
+0.2195 Tw
+[(braces { } and double quotes "...", which ha)20(v)15(e)]TJ
+T*
+0 Tw
+(special meanings that we will see soon.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(7. Subscripts)-250(and )250(Superscripts)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.4017 Tw
+(Subscripts and superscripts are obtained)Tj
+-2.5 -1.2 TD
+0 Tw
+[(with the w)10(ords)]TJ
+/TT4 1 Tf
+6.1838 0 TD
+(sub)Tj
+/TT6 1 Tf
+1.6392 0 TD
+(and)Tj
+/TT4 1 Tf
+1.6938 0 TD
+(sup.)Tj
+/TT6 1 Tf
+-5.9169 -1.8 TD
+[(x)-250(s)0.2(up 2 + y sub k)]TJ
+-3.6 -1.8 TD
+[(gi)25(v)15(e)0(s)]TJ
+/TT4 1 Tf
+8.6841 -1.8432 TD
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 394.211 500.154 Tm
+(2)Tj
+/TT8 1 Tf
+10 0 0 10 400.411 495.954 Tm
+(+)Tj
+/TT4 1 Tf
+0.8428 0 TD
+(y)Tj
+7 0 0 7 413.8498 493.954 Tm
+(k)Tj
+/TT6 1 Tf
+8 0 0 8 302.4 477.954 Tm
+(EQN)Tj
+10 0 0 10 321.6714 477.954 Tm
+0.033 Tw
+[(tak)10(es care of all the size changes and v)15(ertical)]TJ
+-1.9271 -1.2 TD
+0.2465 Tw
+[(motions needed to mak)10(e)-496.6(t)-1.7(he output look right.)]TJ
+T*
+0.1952 Tw
+[(The w)10(ords)]TJ
+/TT4 1 Tf
+4.8794 0 TD
+0 Tw
+(sub)Tj
+/TT6 1 Tf
+1.8343 0 TD
+(and)Tj
+/TT4 1 Tf
+1.889 0 TD
+(sup)Tj
+/TT6 1 Tf
+1.8343 0 TD
+0.1951 Tw
+(must be surrounded by)Tj
+-10.4369 -1.2 TD
+0 Tw
+(spaces;)Tj
+/TT4 1 Tf
+3.2085 0 TD
+[(x)-320.9(s)-0.3(ub2)]TJ
+/TT6 1 Tf
+2.9751 0 TD
+0.0709 Tw
+[(will gi)25(v)15(e)15( )-15(you)]TJ
+/TT4 1 Tf
+5.777 0 TD
+0 Tw
+(xsub)Tj
+/TT6 1 Tf
+1.856 0 TD
+0.0709 Tw
+[(2)-320.9(i)-0.8(nstead of)]TJ
+/TT4 1 Tf
+5.206 0 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 497.4954 439.954 Tm
+(2)Tj
+10 0 0 10 501.4954 441.954 Tm
+(.)Tj
+-19.9095 -1.2 TD
+0.165 Tw
+[(Furthermore, don’)18(t)-415(f)-0.6(or)18(get to lea)20(v)15(e)15( )-15(a)15( )-15(space \(or a)]TJ
+T*
+0.2958 Tw
+[(tilde, etc.\))-795.9(to mark the end of a subscript or)]TJ
+T*
+0.0588 Tw
+[(superscript. )-250.1(A)-308.9(common error is to say something)]TJ
+T*
+0 Tw
+[(lik)10(e)]TJ
+3.6 -1.8 TD
+[(y)-250(=)-250(\()0(x)-250(s)0.2(up 2\)+1)]TJ
+-3.6 -1.8 TD
+(which causes)Tj
+/TT4 1 Tf
+8.1873 -1.8432 TD
+(y)Tj
+/TT8 1 Tf
+0.7558 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(\()Tj
+/TT4 1 Tf
+0.41 0 TD
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 409.193 343.722 Tm
+(2\))Tj
+/TT8 1 Tf
+0.833 0 TD
+(+)Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+10 0 0 10 302.4 321.522 Tm
+(instead of the intended)Tj
+/TT4 1 Tf
+7.76 -1.8432 TD
+(y)Tj
+/TT8 1 Tf
+0.7558 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(\()Tj
+/TT4 1 Tf
+0.41 0 TD
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 404.92 307.29 Tm
+(2)Tj
+10 0 0 10 408.92 303.09 Tm
+(\))Tj
+/TT8 1 Tf
+0.553 0 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0 TD
+(1)Tj
+-9.4738 -2.16 TD
+0.4707 Tw
+(Subscripted subscripts and superscripted)Tj
+-2.5 -1.2 TD
+0 Tw
+[(superscripts also w)10(ork:)]TJ
+3.6 -1.8 TD
+[(x)-250(s)0.2(ub i sub 1)]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+9.5973 -1.8 TD
+(x)Tj
+7 0 0 7 403.2484 213.49 Tm
+(i)Tj
+/TT6 1 Tf
+5 0 0 5 405.4453 212.09 Tm
+(1)Tj
+10 0 0 10 302.4 197.49 Tm
+0.0551 Tw
+[(A)-305.2(s)0.3(ubscript and superscript on the same thing are)]TJ
+0 -1.2 TD
+0.0311 Tw
+(printed one ab)Tj
+5.7824 0 TD
+-0.015 Tc
+0 Tw
+(ove )Tj
+1.6949 0 TD
+0 Tc
+0.0311 Tw
+(the other if the subscript comes)Tj
+/TT10 1 Tf
+-7.4774 -1.2 TD
+0 Tw
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+[(r)10(st:)]TJ
+/TT6 1 Tf
+3.1 -1.8 TD
+[(x)-250(s)0.2(ub i sup 2)]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+9.67 -1.8432 TD
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 404.07 123.258 Tm
+(2)Tj
+/TT4 1 Tf
+-0.0133 -0.9286 TD
+(i)Tj
+/TT6 1 Tf
+10 0 0 10 327.4 97.458 Tm
+0.2137 Tw
+(Other than this special case,)Tj
+/TT4 1 Tf
+12.5089 0 TD
+0 Tw
+(sub)Tj
+/TT6 1 Tf
+1.8529 0 TD
+(and)Tj
+/TT4 1 Tf
+1.9076 0 TD
+(sup)Tj
+/TT6 1 Tf
+-18.7693 -1.2 TD
+0.047 Tw
+(group to the right, so)Tj
+/TT4 1 Tf
+8.8454 0 TD
+0 Tw
+[(x)-250(s)-0.6(up y sub z)]TJ
+/TT6 1 Tf
+5.3528 0 TD
+(means)Tj
+/TT4 1 Tf
+2.9287 0 TD
+(x)Tj
+7 0 0 7 479.158 89.658 Tm
+(y)Tj
+5 0 0 5 482.7489 88.258 Tm
+(z)Tj
+/TT6 1 Tf
+10 0 0 10 485.7497 85.458 Tm
+[(,)-297(not)]TJ
+/TT4 1 Tf
+-18.258 -1.2 TD
+(x)Tj
+7 0 0 7 308.658 77.658 Tm
+(y)Tj
+0.5851 -0.8857 TD
+(z)Tj
+/TT6 1 Tf
+10 0 0 10 316.2651 73.458 Tm
+(.)Tj
+ET
+endstream
+endobj
+17 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+/TT10 18 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+20 0 obj
+<<
+/Length 8806
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-3-)Tj
+/TT2 1 Tf
+-20.767 -3.6 TD
+0 Tc
+0.25 Tw
+[(8. Braces)-250(f)25(o)0(r)-250(G)-0.6(r)18(ouping)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.1466 Tw
+[(Normally)65(,)-396.6(t)-0.6(he end of a subscript or super)20(-)]TJ
+-2.5 -1.2 TD
+0.0144 Tw
+[(script is mark)10(ed simply by a blank \(or tab or tilde,)]TJ
+T*
+0.0274 Tw
+[(etc.\) )-250(What)-277.4(if the subscript or superscript is some-)]TJ
+T*
+0.1577 Tw
+[(thing that has to be typed with blanks in it?)-657.7(In)]TJ
+T*
+0.0641 Tw
+(that case, you can use the braces { and } to mark)Tj
+T*
+0.1358 Tw
+[(the be)15(ginning and end of the subscript or super)20(-)]TJ
+T*
+0 Tw
+(script:)Tj
+3.6 -1.8 TD
+-0.001 Tc
+0.0026 Tw
+[(e)-251(sup {i ome)14(ga t})]TJ
+-3.6 -1.8 TD
+0 Tc
+0 Tw
+(is)Tj
+/TT4 1 Tf
+9.3519 -1.8278 TD
+(e)Tj
+7 0 0 7 170.146 570.322 Tm
+(i)Tj
+/TT7 1 Tf
+6.23 0 1.9413 6.23 172.0978 570.322 Tm
+<0074>Tj
+/TT4 1 Tf
+7 0 0 7 177.3448 570.322 Tm
+(t)Tj
+/TT6 1 Tf
+10 0 0 10 72 536.1219 Tm
+0.3139 Tw
+[(Rule: Braces)-313.9(can)]TJ
+/TT4 1 Tf
+7.4666 0 TD
+0 Tw
+(always)Tj
+/TT6 1 Tf
+3.0917 0 TD
+0.0639 Tw
+(be used to force)Tj
+8 0 0 8 246.2233 536.1219 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 265.8027 536.1219 Tm
+(to)Tj
+-19.3803 -1.2 TD
+0.2042 Tw
+[(treat something as a unit, or just to mak)10(e)-454.3(y)-2.5(our)]TJ
+T*
+0 Tw
+[(intent perfectly clear)55(.)-500(T)-2.2(hus:)]TJ
+3.6 -1.8 TD
+[(x)-250(s)0.2(ub {i sub 1} sup 2)]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+9.5973 -1.8432 TD
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 172.943 461.89 Tm
+(2)Tj
+/TT4 1 Tf
+-0.0133 -0.9286 TD
+(i)Tj
+/TT6 1 Tf
+5 0 0 5 175.0468 453.99 Tm
+(1)Tj
+10 0 0 10 72 439.49 Tm
+[(with braces, b)20(u)0(t)]TJ
+3.6 -1.8 TD
+[(x)-250(s)0.2(ub i sub 1 sup 2)]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+9.5973 -1.8 TD
+(x)Tj
+7 0 0 7 172.8485 383.19 Tm
+(i)Tj
+/TT6 1 Tf
+5 0 0 5 175.0453 385.71 Tm
+(2)Tj
+0.0005 -0.9 TD
+(1)Tj
+10 0 0 10 72 366.71 Tm
+[(which is rather dif)25(ferent.)]TJ
+2.5 -1.56 TD
+0.2592 Tw
+(Braces can occur within braces if neces-)Tj
+-2.5 -1.2 TD
+0 Tw
+(sary:)Tj
+3.6 -1.8 TD
+[(e)-250(sup {i pi sup {rho +1}})]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+9.0592 -1.967 TD
+(e)Tj
+7 0 0 7 167.219 287.64 Tm
+(i)Tj
+/TT7 1 Tf
+6.23 0 1.9413 6.23 169.3598 287.64 Tm
+<002f>Tj
+4.45 0 1.3866 4.45 174.244 290.23 Tm
+<006c>Tj
+/TT8 1 Tf
+5 0 0 5 177.0963 290.23 Tm
+(+)Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+10 0 0 10 72 265.4399 Tm
+0.1266 Tw
+[(The general rule is that an)15(ywhere you could use)]TJ
+0 -1.2 TD
+0.0007 Tw
+[(some single thing lik)10(e)]TJ
+/TT4 1 Tf
+9.0475 0 TD
+0 Tw
+(x,)Tj
+/TT6 1 Tf
+0.9445 0 TD
+0.0006 Tw
+(you can use an arbitrarily)Tj
+-9.992 -1.2 TD
+0.0092 Tw
+(complicated thing if you enclose it in braces.)Tj
+8 0 0 8 257.1266 241.44 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 72 229.44 Tm
+0.0641 Tw
+(will look after all the details of positioning it and)Tj
+T*
+0 Tw
+(making it the right size.)Tj
+2.5 -1.56 TD
+0.1476 Tw
+[(In all cases, mak)10(e)-397.6(s)-0.9(ure you ha)20(v)15(e)15( )-15.1(the right)]TJ
+-2.5 -1.2 TD
+0.0925 Tw
+[(number of braces.)-592.5(Lea)20(ving one out or adding an)]TJ
+T*
+0 Tw
+[(e)15(xtra will cause)]TJ
+8 0 0 8 137.099 177.84 Tm
+(EQN)Tj
+10 0 0 10 156.0404 177.84 Tm
+[(to complain bitterly)65(.)]TJ
+-5.904 -1.56 TD
+0.0931 Tw
+[(Occasionally you will ha)20(v)15(e)15( )-15.1(to)-343.2(print braces.)]TJ
+-2.5 -1.2 TD
+0.198 Tw
+[(T)80(o)80( )-80(do)-448(this, enclose them in double quotes, lik)10(e)]TJ
+T*
+0.1429 Tw
+[("{". )-249.9(Quoting)-392.8(is discussed in more detail in sec-)]TJ
+T*
+0 Tw
+(tion 14.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+(9. Fractions)Tj
+/TT6 1 Tf
+2.5 -1.56 TD
+0 Tw
+[(T)80(o)80( )-80(mak)10(e)-250(a)-250(f)-0.8(raction, use the w)10(ord)]TJ
+/TT4 1 Tf
+13.3402 0 TD
+[(o)10(ver:)]TJ
+/TT6 1 Tf
+10.7998 61.536 TD
+[(a+b o)15(v)15(e)0(r)-250(2)-0.3(c)-250(=)-0.2(1)]TJ
+-3.6 -1.8 TD
+[(gi)25(v)15(e)0(s)]TJ
+/TT4 1 Tf
+8.2595 -1.633 TD
+(a)Tj
+/TT8 1 Tf
+0.746 0 TD
+(+)Tj
+/TT4 1 Tf
+0.7958 0 TD
+(b)Tj
+/TT6 1 Tf
+-1.0233 -1.4 TD
+(2)Tj
+ET
+0 G
+1 J 1 j 0.4 w 10 M []0 d
+1 i 
+384.63 663.27 m
+405.63 663.27 l
+S
+BT
+/TT4 1 Tf
+10 0 0 10 395.38 653.67 Tm
+(c)Tj
+/TT8 1 Tf
+1.4265 0.7 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(1)Tj
+-11.5533 -2.161 TD
+0.1313 Tw
+(The line is made the right length and positioned)Tj
+0 -1.2 TD
+0.1097 Tw
+[(automatically)65(.)-609.7(B)-1.6(races can be used to mak)10(e)-359.8(c)-1.5(lear)]TJ
+T*
+0 Tw
+[(what goes o)15(v)15(e)0(r)-250(w)-0.1(hat:)]TJ
+3.6 -1.8 TD
+[({alpha + beta} o)15(v)15(e)0(r)-250({)-1.2(sin \(x\)})]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 391.12 562.97 Tm
+<005f>Tj
+/TT8 1 Tf
+10 0 0 10 400.3947 562.97 Tm
+(+)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 408.6529 562.97 Tm
+<0060>Tj
+/TT6 1 Tf
+10 0 0 10 391.165 548.97 Tm
+(sin\()Tj
+/TT4 1 Tf
+1.577 0 TD
+(x)Tj
+ET
+391.11 558.51 m
+415.23 558.51 l
+S
+BT
+/TT6 1 Tf
+10 0 0 10 411.905 548.97 Tm
+(\))Tj
+-10.9505 -1.627 TD
+0.1398 Tw
+(What happens when there is both an)Tj
+/TT4 1 Tf
+15.7242 0 TD
+0 Tw
+[(o)10(ver)]TJ
+/TT6 1 Tf
+2.1566 0 TD
+0.1397 Tw
+(and a)Tj
+/TT4 1 Tf
+-17.8808 -1.2 TD
+0 Tw
+(sup)Tj
+/TT6 1 Tf
+1.8412 0 TD
+0.202 Tw
+[(in the same e)15(xpression? )-250(In)-452(such an appar)20(-)]TJ
+-1.8412 -1.2 TD
+0.2012 Tw
+(ently ambiguous case,)Tj
+8 0 0 8 399.5248 508.7 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 420.4772 508.7 Tm
+0.2011 Tw
+(does the)Tj
+/TT4 1 Tf
+3.9569 0 TD
+0 Tw
+(sup)Tj
+/TT6 1 Tf
+1.8403 0 TD
+(before)Tj
+-17.6049 -1.2 TD
+(the)Tj
+/TT4 1 Tf
+1.4717 0 TD
+[(o)10(ver)111(,)]TJ
+/TT6 1 Tf
+2.1559 0 TD
+(so)Tj
+/TT7 1 Tf
+-0.0275 -1.8 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+[(b)-250(sup 2 o)15(v)15(e)0(r)-250(p)-0.1(i)]TJ
+-4.1488 -2.5432 TD
+(is)Tj
+/TT7 1 Tf
+1.2581 0.7 TD
+<003c>Tj
+/TT4 1 Tf
+0.5758 0 TD
+(b)Tj
+/TT6 1 Tf
+7 0 0 7 325.971 464.468 Tm
+(2)Tj
+ET
+315.03 455.91 m
+330.03 455.91 l
+S
+BT
+/TT7 1 Tf
+8.9 0 2.7732 8.9 319.191 446.268 Tm
+<002f>Tj
+/TT6 1 Tf
+10 0 0 10 335.882 453.268 Tm
+0.2211 Tw
+(instead of)Tj
+/TT7 1 Tf
+4.6078 0 TD
+0 Tw
+<003c>Tj
+/TT4 1 Tf
+0.5758 0 TD
+(b)Tj
+/TT6 1 Tf
+7 0 0 7 394.288 464.319 Tm
+(2)Tj
+ET
+0.28 w 
+393.75 461.19 m
+398.31 461.19 l
+S
+BT
+/TT7 1 Tf
+6.23 0 1.9413 6.23 393.739 454.519 Tm
+<002f>Tj
+/TT6 1 Tf
+10 0 0 10 404.3302 453.268 Tm
+0.2212 Tw
+(The rules which decide)Tj
+-10.193 -1.568 TD
+0.0531 Tw
+(which operation is done )Tj
+/TT9 1 Tf
+10.0435 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0531 Tw
+[(rst in cases lik)10(e)-303.1(t)-1.9(his are)]TJ
+-10.5996 -1.2 TD
+0.0981 Tw
+[(summarized in section 23.)-598.1(When in doubt, ho)25(w-)]TJ
+T*
+-0.025 Tc
+-0.215 Tw
+[(ev e)-25(r)15(,)]TJ
+/TT4 1 Tf
+2.3724 0 TD
+0 Tc
+0.2317 Tw
+[(use br)15(aces)]TJ
+/TT6 1 Tf
+4.9473 0 TD
+0.2316 Tw
+[(to mak)10(e)-481.6(c)-1.1(lear what goes with)]TJ
+-7.3197 -1.2 TD
+0 Tw
+(what.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(10. Squar)18(e)-250(R)0.3(oots)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0 Tw
+[(T)80(o)80( )-80(dra)15(w)-250(a)-250(s)-0.1(quare root, use)]TJ
+/TT4 1 Tf
+10.7626 0 TD
+(sqrt:)Tj
+/TT6 1 Tf
+-12.2626 -1.8 TD
+[(sqrt a+b + 1 o)15(v)15(e)0(r)-250(s)-0.2(qrt {ax sup 2 +bx+c})]TJ
+-1 -1.8 TD
+(is)Tj
+/TT7 1 Tf
+5.3766 -2.3332 TD
+<0033>Tj
+-0.0002 0 TD
+<007d>Tj
+/TT8 1 Tf
+-0.049 0 TD
+( )Tj
+/TT7 1 Tf
+0.147 0 TD
+<007d007d007d007d>Tj
+/TT4 1 Tf
+0.4842 0.0072 TD
+(a)Tj
+/TT8 1 Tf
+0.746 0 TD
+(+)Tj
+/TT4 1 Tf
+0.7958 0 TD
+(b)Tj
+/TT8 1 Tf
+0.743 0 TD
+(+)Tj
+/TT6 1 Tf
+3.4046 0.7 TD
+(1)Tj
+/TT7 1 Tf
+11 0 0 11 393.726 293.401 Tm
+<0033>Tj
+-0.0002 0 TD
+<007d>Tj
+/TT8 1 Tf
+-0.049 0 TD
+( )Tj
+/TT7 1 Tf
+0.5281 0 TD
+<007d007d007d007d007d007d007d007d>Tj
+/TT4 1 Tf
+10 0 0 10 400.095 293.542 Tm
+(ax)Tj
+/TT6 1 Tf
+7 0 0 7 410.0635 296.342 Tm
+(2)Tj
+/TT8 1 Tf
+10 0 0 10 416.2635 293.542 Tm
+(+)Tj
+/TT4 1 Tf
+0.7958 0 TD
+(bx)Tj
+/TT8 1 Tf
+1.2168 0 TD
+(+)Tj
+ET
+0.4 w 
+393.75 305.31 m
+449.07 305.31 l
+S
+BT
+/TT4 1 Tf
+10 0 0 10 444.285 293.542 Tm
+(c)Tj
+/TT6 1 Tf
+-14.1885 -1.5059 TD
+0.229 Tw
+[(W)80(arning — square roots of tall quantities look)]TJ
+0 -1.2 TD
+0.0219 Tw
+[(lousy)65(,)-271.9(because a root-sign big enough to co)15(v)15(e)0(r)-271.8(t)-1.6(he)]TJ
+T*
+0 Tw
+[(quantity is too dark and hea)20(vy:)]TJ
+3.6 -1.8 TD
+[(sqrt {a sup 2 o)15(v)15(e)0(r)-250(b)-250(sub 2})]TJ
+-3.6 -1.8 TD
+(is)Tj
+/TT7 1 Tf
+28 0 0 28 388.514 182.187 Tm
+<0033>Tj
+-0.0002 0 TD
+<007d>Tj
+/TT4 1 Tf
+10 0 0 10 406.421 197.404 Tm
+(a)Tj
+/TT6 1 Tf
+7 0 0 7 411.681 200.204 Tm
+(2)Tj
+/TT4 1 Tf
+10 0 0 10 406.406 183.404 Tm
+(b)Tj
+ET
+406.11 192.99 m
+415.71 192.99 l
+S
+BT
+/TT6 1 Tf
+7 0 0 7 411.636 181.404 Tm
+(2)Tj
+10 0 0 10 302.4 166.623 Tm
+0.21 Tw
+(Big square roots are generally better written as)Tj
+0 -1.2 TD
+0 Tw
+[(something to the po)25(wer)]TJ
+6 0 0 6 398.8004 157.423 Tm
+(1)Tj
+/TT9 1 Tf
+10 0 0 10 401.8004 154.623 Tm
+(Ú)Tj
+/TT6 1 Tf
+6 0 0 6 403.4703 154.623 Tm
+(2)Tj
+10 0 0 10 406.4703 154.623 Tm
+(:)Tj
+-1.9875 -1.988 TD
+(\()Tj
+/TT4 1 Tf
+0.366 0 TD
+(a)Tj
+/TT6 1 Tf
+7 0 0 7 395.515 138.943 Tm
+(2)Tj
+10 0 0 10 399.515 134.743 Tm
+(/)Tj
+/TT4 1 Tf
+0.3048 0 TD
+(b)Tj
+/TT6 1 Tf
+7 0 0 7 407.7933 132.743 Tm
+(2)Tj
+10 0 0 10 411.7933 134.743 Tm
+(\))Tj
+5 0 0 5 415.965 141.743 Tm
+(1)Tj
+ET
+0.28 w 
+415.95 140.79 m
+418.47 140.79 l
+S
+BT
+5 0 0 5 415.965 136.423 Tm
+(2)Tj
+10 0 0 10 302.4 116.743 Tm
+(which is)Tj
+3.6 -1.8 TD
+(\(a sup 2 /b sub 2 \) sup half)Tj
+ET
+endstream
+endobj
+21 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+23 0 obj
+<<
+/Length 10045
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-4-)Tj
+/TT2 1 Tf
+-20.767 -3.6 TD
+0 Tc
+0.25 Tw
+[(11. Summation,)-250(Integral, )250(Etc.)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.4327 Tw
+[(Summations, inte)15(grals, and similar con-)]TJ
+-2.5 -1.2 TD
+0 Tw
+(structions are easy:)Tj
+3.6 -1.8 TD
+(sum from i=0 to {i= inf} x sup i)Tj
+-3.6 -1.8 TD
+(produces)Tj
+/TT4 1 Tf
+7 0 0 7 161.467 629.322 Tm
+(i)Tj
+/TT8 1 Tf
+0.3138 0 TD
+(=)Tj
+/TT7 1 Tf
+9.1 0 0 9.1 167.5056 628.23 Tm
+<0027>Tj
+/TT4 1 Tf
+7 0 0 7 162.961 610.603 Tm
+(i)Tj
+/TT8 1 Tf
+0.3138 0 TD
+(=)Tj
+/TT6 1 Tf
+0.5488 0 TD
+(0)Tj
+/TT7 1 Tf
+15 0 0 15 163.288 617.035 Tm
+<0059>Tj
+/TT4 1 Tf
+10 0 0 10 176.4629 619.482 Tm
+(x)Tj
+7 0 0 7 181.443 623.682 Tm
+(i)Tj
+/TT6 1 Tf
+10 0 0 10 72 595.005 Tm
+0.104 Tw
+(Notice that we used braces to indicate where the)Tj
+0 -1.2 TD
+0.2969 Tw
+(upper part)Tj
+/TT4 1 Tf
+4.9263 0 TD
+0 Tw
+(i)Tj
+/TT8 1 Tf
+0.5938 0 TD
+(=)Tj
+/TT7 1 Tf
+13 0 0 13 135.49 581.445 Tm
+<0027>Tj
+/TT6 1 Tf
+10 0 0 10 150.2266 583.005 Tm
+0.2968 Tw
+[(be)15(gins and ends.)-796.8(No braces)]TJ
+-7.8227 -1.2 TD
+0.03 Tw
+[(were necessary for the lo)25(wer part)]TJ
+/TT4 1 Tf
+13.7048 0 TD
+0 Tw
+(i)Tj
+/TT8 1 Tf
+0.5938 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+0.03 Tw
+(0, because it)Tj
+-15.1275 -1.2 TD
+0.1006 Tw
+[(contained no blanks.)-600.6(The braces will ne)25(v)15(e)0(r)-350.5(h)-2.1(urt,)]TJ
+T*
+0.1543 Tw
+(and if the)Tj
+/TT4 1 Tf
+4.4893 0 TD
+0 Tw
+[(fr)45(om)]TJ
+/TT6 1 Tf
+2.2485 0 TD
+(and)Tj
+/TT4 1 Tf
+1.8481 0 TD
+(to)Tj
+/TT6 1 Tf
+1.1821 0 TD
+0.1544 Tw
+[(parts contain an)15(y)-404.4(b)-1.7(lanks,)]TJ
+-9.768 -1.2 TD
+0 Tw
+(you must use braces around them.)Tj
+2.5 -1.56 TD
+(The)Tj
+/TT4 1 Tf
+1.8435 0 TD
+[(fr)45(om)]TJ
+/TT6 1 Tf
+2.133 0 TD
+(and)Tj
+/TT4 1 Tf
+1.7326 0 TD
+(to)Tj
+/TT6 1 Tf
+1.0666 0 TD
+0.0387 Tw
+[(parts are both optional, b)20(u)0(t)]TJ
+-9.2757 -1.2 TD
+0 Tw
+[(if both are used, the)15(y)-250(h)-0.9(a)20(v)20( )245(e)-250(to occur in that order)55(.)]TJ
+2.5 -1.56 TD
+0.0463 Tw
+(Other useful characters can replace the)Tj
+/TT4 1 Tf
+16.0465 0 TD
+0 Tw
+(sum)Tj
+/TT6 1 Tf
+-18.5465 -1.2 TD
+[(in our e)15(xample:)]TJ
+3.6 -1.8 TD
+0.5 Tw
+(int prod union inter)Tj
+-3.6 -1.8 TD
+0 Tw
+[(become, respecti)25(v)15(ely)65(,)]TJ
+/TT7 1 Tf
+18 0 0 18 127.719 417.817 Tm
+<0030>Tj
+15 0 0 15 150.657 420.051 Tm
+<0057>Tj
+1.888 0.099 TD
+<0046>Tj
+1.888 -0.017 TD
+<0045>Tj
+/TT6 1 Tf
+10 0 0 10 72 401.391 Tm
+0.1217 Tw
+(Since the thing before the)Tj
+/TT4 1 Tf
+11.1328 0 TD
+0 Tw
+[(fr)45(om)]TJ
+/TT6 1 Tf
+2.2158 0 TD
+0.1216 Tw
+[(can be an)15(ything,)]TJ
+-13.3486 -1.2 TD
+0.2101 Tw
+[(e)25(v)25( )450.1(en)-460.1(something in braces,)]TJ
+/TT4 1 Tf
+11.4363 0 TD
+0 Tw
+[(fr)45(om-to)]TJ
+/TT6 1 Tf
+3.4152 0 TD
+0.2102 Tw
+(can often be)Tj
+-14.8515 -1.2 TD
+0 Tw
+[(used in une)15(xpected w)10(ays:)]TJ
+3.6 -1.8 TD
+(lim from {n)Tj
+/TT7 1 Tf
+5.0073 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+[(>)-250(i)-1.1(nf} x sub n =0)]TJ
+-9.1562 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+7 0 0 7 150.028 317.391 Tm
+(n)Tj
+/TT7 1 Tf
+0.524 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(>)Tj
+/TT7 1 Tf
+9.1 0 0 9.1 161.4855 316.299 Tm
+<0027>Tj
+/TT6 1 Tf
+10 0 0 10 152.205 323.391 Tm
+(lim)Tj
+/TT4 1 Tf
+1.8235 0 TD
+(x)Tj
+7 0 0 7 175.5604 321.391 Tm
+(n)Tj
+/TT8 1 Tf
+10 0 0 10 182.5284 323.391 Tm
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(0)Tj
+/TT2 1 Tf
+-11.8817 -3.4592 TD
+[(12. )-250(Size)-250(and F)25(ont Changes)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.274 Tw
+[(By def)10(ault, equations are set in 10-point)]TJ
+-2.5 -1.2 TD
+0.128 Tw
+(type \(the same size as this guide\), with standard)Tj
+T*
+0.5682 Tw
+[(mathematical con)40(v)15(entions to determine what)]TJ
+T*
+0.4839 Tw
+(characters are in roman and what in italic.)Tj
+T*
+0 Tw
+(Although)Tj
+8 0 0 8 115.4083 225.1989 Tm
+(EQN)Tj
+10 0 0 10 137.4797 225.1989 Tm
+0.313 Tw
+[(mak)10(es a v)25(aliant attempt to use)]TJ
+-6.548 -1.2 TD
+0.0679 Tw
+[(esthetically pleasing sizes and fonts, it is not per)20(-)]TJ
+T*
+0.1815 Tw
+[(fect. )-250(T)80(o)-431.5(change sizes and fonts, use)]TJ
+/TT4 1 Tf
+15.8528 0 TD
+0.1814 Tw
+(size n)Tj
+/TT6 1 Tf
+2.8628 0 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+-18.7156 -1.2 TD
+0.0177 Tw
+[(r)45(oman, italic, bold)]TJ
+/TT6 1 Tf
+7.7025 0 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+1.7116 0 TD
+(fat.)Tj
+/TT6 1 Tf
+1.8235 0 TD
+[(Lik)10(e)]TJ
+/TT4 1 Tf
+2.0903 0 TD
+(sub)Tj
+/TT6 1 Tf
+1.657 0 TD
+(and)Tj
+/TT4 1 Tf
+1.7116 0 TD
+(sup,)Tj
+/TT6 1 Tf
+1.907 0 TD
+(size)Tj
+-18.6035 -1.2 TD
+0.0127 Tw
+[(and font changes af)25(fect only the thing that follo)25(ws)]TJ
+T*
+0.0286 Tw
+[(them, and re)25(v)15(ert to the normal situation at the end)]TJ
+T*
+0 Tw
+(of it. Thus)Tj
+3.6 -1.8 TD
+(bold x y)Tj
+-3.6 -1.8 TD
+(is)Tj
+/TT2 1 Tf
+9.555 -1.8 TD
+(x)Tj
+/TT4 1 Tf
+0.574 0 TD
+(y)Tj
+/TT6 1 Tf
+-10.129 -1.8 TD
+(and)Tj
+26.64 62.0801 TD
+(size 14 bold x = y +)Tj
+0.75 -1.2 TD
+(size 14 {alpha + beta})Tj
+-4.35 -1.8 TD
+[(gi)25(v)15(e)0(s)]TJ
+/TT2 1 Tf
+14 0 0 14 370.024 653.274 Tm
+(x)Tj
+/TT8 1 Tf
+10 0 0 10 379.824 653.274 Tm
+(=)Tj
+/TT4 1 Tf
+0.9028 0 TD
+(y)Tj
+/TT8 1 Tf
+0.6958 0 TD
+(+)Tj
+/TT7 1 Tf
+12.46 0 3.8825 12.46 403.023 653.274 Tm
+<005f>Tj
+/TT8 1 Tf
+14 0 0 14 416.0075 653.274 Tm
+(+)Tj
+/TT7 1 Tf
+12.46 0 3.8825 12.46 427.5691 653.274 Tm
+<0060>Tj
+/TT6 1 Tf
+10 0 0 10 302.4 635.274 Tm
+0.2437 Tw
+[(As al)10(w)10(ays, you can use braces if you w)10(ant to)]TJ
+0 -1.2 TD
+0.124 Tw
+[(af)25(fect something more complicated than a single)]TJ
+T*
+0.0154 Tw
+[(letter)55(.)-515.5(F)14.4(or e)15(xample, you can change the size of an)]TJ
+T*
+0 Tw
+(entire equation by)Tj
+3.6 -1.8 TD
+(size 12 { ... })Tj
+-1.1 -2.16 TD
+-0.0002 Tc
+0.0609 Tw
+[(Le)14.8(gal)-310.9(s)-0.7(izes which may follo)24.8(w)]TJ
+/TT4 1 Tf
+12.5057 0 TD
+0 Tc
+0 Tw
+(size)Tj
+/TT6 1 Tf
+1.8108 0 TD
+0.0608 Tw
+(are 6, 7,)Tj
+-16.8165 -1.2 TD
+0.1592 Tw
+(8, 9, 10, 11, 12, 14, 16, 18, 20, 22, 24, 28, 36.)Tj
+T*
+0.0935 Tw
+[(Y)110(o)0(u)-343.5(can also change the size)]TJ
+/TT4 1 Tf
+12.2797 0 TD
+0 Tw
+(by)Tj
+/TT6 1 Tf
+1.2874 0 TD
+0.0001 Tc
+-0.2401 Tw
+[(a)-343.5(g)-1.7(i)25.1(v)25.1( en)-343.5(amount;)]TJ
+-13.5671 -1.2 TD
+0 Tc
+0.0294 Tw
+[(for e)15(xample, you can say)]TJ
+/TT4 1 Tf
+10.4058 0 TD
+0 Tw
+(size +2)Tj
+/TT6 1 Tf
+3.2041 0 TD
+0.0293 Tw
+[(to mak)10(e)-279.3(t)-2(he size)]TJ
+-13.6099 -1.2 TD
+0.2923 Tw
+[(tw)10(o)-542.3(points bigger)40(,)-542.4(o)-0.5(r)]TJ
+/TT4 1 Tf
+9.7024 0 TD
+0 Tw
+(size)Tj
+/TT7 1 Tf
+1.75 0 TD
+<003c>Tj
+/TT4 1 Tf
+0.5488 0 TD
+(3)Tj
+/TT6 1 Tf
+1.0424 0 TD
+0.2924 Tw
+[(to mak)10(e)-542.4(i)-1(t)-542.4(t)-0.3(hree)]TJ
+-13.0436 -1.2 TD
+0.1734 Tw
+[(points smaller)55(.)-673.5(T)-1(his has the adv)25(antage that you)]TJ
+T*
+0 Tw
+[(don’)18(t)-250(h)-0.2(a)20(v)20( )245(e)-250(to kno)25(w)-250(w)-0.1(hat the current size is.)]TJ
+2.5 -1.56 TD
+0.2534 Tw
+(If you are using fonts other than roman,)Tj
+-2.5 -1.2 TD
+0.1259 Tw
+(italic and bold, you can say)Tj
+/TT4 1 Tf
+11.9468 0 TD
+(font X)Tj
+/TT6 1 Tf
+2.9183 0 TD
+0 Tw
+(where)Tj
+/TT4 1 Tf
+2.8188 0 TD
+(X)Tj
+/TT6 1 Tf
+0.9867 0 TD
+0.1259 Tw
+(is a)Tj
+-18.6706 -1.2 TD
+0.0364 Tw
+(one character)Tj
+8 0 0 8 359.1973 448.074 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 386.6397 448.074 Tm
+0.0364 Tw
+(name or number for the font.)Tj
+-8.424 -1.2 TD
+0 Tw
+(Since)Tj
+8 0 0 8 329.5698 436.074 Tm
+(EQN)Tj
+10 0 0 10 350.9642 436.074 Tm
+0.2452 Tw
+(is tuned for roman, italic and bold,)Tj
+-4.8564 -1.2 TD
+0.0464 Tw
+[(other fonts may not gi)25(v)15(e)15( )-15(quite as good an appear)20(-)]TJ
+T*
+0 Tw
+(ance.)Tj
+2.5 -1.56 TD
+(The)Tj
+/TT4 1 Tf
+1.8573 0 TD
+(fat)Tj
+/TT6 1 Tf
+1.3583 0 TD
+0.0526 Tw
+[(operation tak)10(es the current font and)]TJ
+-5.7156 -1.2 TD
+0.0551 Tw
+[(widens it by o)15(v)15(erstriking:)]TJ
+/TT4 1 Tf
+10.6894 0 TD
+0 Tw
+[(fat gr)15(ad)]TJ
+/TT6 1 Tf
+3.4849 0 TD
+(is)Tj
+/TT7 1 Tf
+0.9721 0 TD
+<00a2>Tj
+0.0399 0 TD
+<00a2>Tj
+/TT6 1 Tf
+1.018 0 TD
+(and)Tj
+/TT4 1 Tf
+1.749 0 TD
+0.0552 Tw
+(fat {x)Tj
+-17.9533 -1.2 TD
+0 Tw
+(sub i})Tj
+/TT6 1 Tf
+2.5669 0 TD
+(is)Tj
+/TT4 1 Tf
+0.994 0 TD
+(x)Tj
+7 0 0 7 342.8843 370.474 Tm
+(i)Tj
+10 0 0 10 338.41 372.474 Tm
+(x)Tj
+7 0 0 7 343.2855 370.474 Tm
+(i)Tj
+/TT6 1 Tf
+10 0 0 10 345.9823 372.474 Tm
+(.)Tj
+-1.8582 -1.56 TD
+0.2372 Tw
+(If an entire document is to be in a non-)Tj
+-2.5 -1.2 TD
+0.2017 Tw
+[(standard size or font, it is a se)25(v)15(ere nuisance to)]TJ
+T*
+0.0812 Tw
+[(ha)20(v)15(e)15( )-15(to)-331.2(write out a size and font change for each)]TJ
+T*
+0.2342 Tw
+[(equation. )-249.9(Accordingly)65(,)-484.1(y)-1.1(ou can set a ‘)74(‘global’)74(’)]TJ
+T*
+0.059 Tw
+[(size or font which thereafter af)25(fects all equations.)]TJ
+T*
+0.0806 Tw
+[(At the be)15(ginning of an)15(y)-330.6(e)-1.1(quation, you might say)65(,)]TJ
+T*
+0 Tw
+(for instance,)Tj
+3.6 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+(gsize 16)Tj
+T*
+(gfont R)Tj
+0.25 -1.2 TD
+(...)Tj
+-0.25 -1.2 TD
+(.EN)Tj
+-3.6 -1.8 TD
+0.0931 Tw
+(to set the size to 16 and the font to roman there-)Tj
+0 -1.2 TD
+0.0252 Tw
+[(after)55(.)-525.2(I)-0.5(n)-275.2(place of R, you can use an)15(y)-275.2(o)-1.1(f)-275.3(t)-0.2(he)]TJ
+8 0 0 8 479.4224 188.874 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 302.4 176.874 Tm
+0.063 Tw
+[(font names.)-563(The size after)]TJ
+/TT4 1 Tf
+11.1714 0 TD
+0 Tw
+(gsize)Tj
+/TT6 1 Tf
+2.313 0 TD
+0.063 Tw
+[(can be a relati)25(v)15(e)]TJ
+-13.4844 -1.2 TD
+0 Tw
+(change with + or)Tj
+/TT7 1 Tf
+7.0063 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(.)Tj
+-5.0552 -1.56 TD
+[(Generally)65(,)]TJ
+/TT4 1 Tf
+4.3941 0 TD
+(gsize)Tj
+/TT6 1 Tf
+2.2667 0 TD
+(and)Tj
+/TT4 1 Tf
+1.7105 0 TD
+(gfont)Tj
+/TT6 1 Tf
+2.3224 0 TD
+0.0167 Tw
+(will appear at the)Tj
+-13.1937 -1.2 TD
+0.0406 Tw
+[(be)15(ginning of a document b)20(ut the)15(y)-290.6(c)-1.7(an also appear)]TJ
+T*
+0.1937 Tw
+(thoughout a document: the global font and size)Tj
+T*
+0.0558 Tw
+[(can be changed as often as needed.)-555.7(F)15(o)0(r)-305.7(e)13.5(xample,)]TJ
+T*
+0.0839 Tw
+[(in a footnote‡ you will typically w)10(ant the size of)]TJ
+ET
+0 G
+1 J 1 j 0.32 w 10 M []0 d
+1 i 
+302.43 91.23 m
+374.43 91.23 l
+S
+BT
+8 0 0 8 302.4 81.274 Tm
+0.0996 Tw
+[(‡Lik)10(e)-349.5(t)-0.7(his one, in which we ha)20(v)15(e)15( )-15(a)15( )-15(fe)25(w)25( )-25(random e)15(xpres-)]TJ
+0 -1.327 TD
+0.0583 Tw
+[(sions lik)10(e)]TJ
+/TT4 1 Tf
+4.2392 0 TD
+0 Tw
+(x)Tj
+6 0 0 6 340.2141 69.058 Tm
+(i)Tj
+/TT6 1 Tf
+8 0 0 8 344.9621 70.658 Tm
+(and)Tj
+/TT7 1 Tf
+7.12 0 2.2186 7.12 358.9138 70.658 Tm
+<002f>Tj
+/TT6 1 Tf
+6 0 0 6 364.1015 74.018 Tm
+(2)Tj
+8 0 0 8 367.5015 70.658 Tm
+0.0581 Tw
+[(.)-558.1(T)-1.5(he sizes for these were set by the)]TJ
+ET
+endstream
+endobj
+24 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+26 0 obj
+<<
+/Length 8682
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-5-)Tj
+-20.767 -3.6 TD
+0 Tc
+0.1506 Tw
+[(equations to match the size of the footnote te)15(xt,)]TJ
+0 -1.2 TD
+0.1863 Tw
+[(which is tw)10(o)-436.4(p)-0.2(oints smaller than the main te)15(xt.)]TJ
+T*
+0.0811 Tw
+[(Don’)18(t)-331.1(for)18(get to reset the global size at the end of)]TJ
+T*
+0 Tw
+(the footnote.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(13. Diacritical)-250(Marks)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.1051 Tw
+[(T)80(o)80( )-80(get funn)15(y)-355.1(m)-0.6(arks on top of letters, there)]TJ
+-2.5 -1.2 TD
+0 Tw
+[(are se)25(v)15(eral w)10(ords:)]TJ
+3.6 -1.8 TD
+[(x)-250(dot )]TJ
+/TT9 1 Tf
+7.3864 0 TD
+(ú)Tj
+/TT4 1 Tf
+-0.1094 0 TD
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+3.8306 Tw
+[(x)-250(dotdot ¨)]TJ
+/TT4 1 Tf
+7.277 0 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+5.1646 Tw
+[(x)-250(hat ˆ)]TJ
+/TT4 1 Tf
+7.277 0 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+[(x)-250(t)-0.2(ilde)]TJ
+/TT4 1 Tf
+7.3866 0 TD
+(˜)Tj
+-0.1096 0 TD
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+0.25 Tc
+[(xv)265(e)250(c)]TJ
+/TT7 1 Tf
+5 0 0 5 181.064 559.6 Tm
+0 Tc
+<0041>Tj
+/TT4 1 Tf
+10 0 0 10 180.77 554.4 Tm
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+[(x)-250(dyad)]TJ
+/TT7 1 Tf
+5 0 0 5 180.926 547.6 Tm
+<0043>Tj
+/TT4 1 Tf
+10 0 0 10 180.77 542.4 Tm
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+0.25 Tc
+(xb)Tj
+ET
+0 G
+1 J 1 j 0.4 w 10 M []0 d
+1 i 
+181.95 536.31 m
+185.07 536.31 l
+S
+BT
+10 0 0 10 120.5 530.4 Tm
+0 Tc
+(ar)Tj
+/TT4 1 Tf
+6.027 0 TD
+(x)Tj
+/TT6 1 Tf
+-7.277 -1.2 TD
+0.25 Tc
+(xu)Tj
+ET
+181.35 516.87 m
+184.47 516.87 l
+S
+BT
+10 0 0 10 120.5 518.4 Tm
+0 Tc
+(nder)Tj
+/TT4 1 Tf
+6.027 0 TD
+(x)Tj
+/TT6 1 Tf
+-10.877 -1.8 TD
+0.0864 Tw
+(The diacritical mark is placed at the right height.)Tj
+0 -1.2 TD
+0 Tw
+(The)Tj
+/TT4 1 Tf
+1.9185 0 TD
+(bar)Tj
+/TT6 1 Tf
+1.7531 0 TD
+(and)Tj
+/TT4 1 Tf
+1.8077 0 TD
+(under)Tj
+/TT6 1 Tf
+2.6969 0 TD
+0.1139 Tw
+(are made the right length for)Tj
+ET
+182.07 483.15 m
+217.95 483.15 l
+S
+BT
+10 0 0 10 72 476.4 Tm
+0.1462 Tw
+(the entire construct, as in)Tj
+/TT4 1 Tf
+11.0823 0 TD
+0 Tw
+(x)Tj
+/TT8 1 Tf
+0.7168 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8428 0 TD
+(y)Tj
+/TT8 1 Tf
+0.6958 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8208 0 TD
+(z)Tj
+/TT6 1 Tf
+0.4302 0 TD
+0.1461 Tw
+[(;)-396.1(o)-2.1(ther marks)]TJ
+-14.5888 -1.2 TD
+0 Tw
+(are centered.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(14. Quoted)-250(T)92(ext)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.1571 Tw
+[(An)15(y)-407.1(input entirely within quotes \()-166.6("..." )240.5(\))-407.2(i)0(s)]TJ
+-2.5 -1.2 TD
+0.0229 Tw
+[(not subject to an)15(y)-272.9(o)-1(f)-272.9(t)-0.2(he font changes and spacing)]TJ
+T*
+0.05 Tw
+[(adjustments normally done by the equation setter)55(.)]TJ
+T*
+0.0884 Tw
+[(This pro)15(vides a w)10(ay to do your o)25(wn spacing and)]TJ
+T*
+0 Tw
+(adjusting if needed:)Tj
+3.6 -1.8 TD
+(italic "sin\(x\)" + sin \(x\))Tj
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+7.2435 -1.8 TD
+(sin\(x\))Tj
+/TT8 1 Tf
+2.4969 0 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0 TD
+(sin\()Tj
+/TT4 1 Tf
+1.577 0 TD
+(x)Tj
+/TT6 1 Tf
+0.4968 0 TD
+(\))Tj
+-10.083 -2.16 TD
+0.0136 Tw
+(Quotes are also used to get braces and other)Tj
+8 0 0 8 72 289.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 90.9414 289.2 Tm
+[(k)10(e)15(yw)10(ords printed:)]TJ
+1.7059 -1.8 TD
+("{ size alpha }")Tj
+-3.6 -1.8 TD
+(is)Tj
+/TT4 1 Tf
+7.416 -1.8 TD
+[({)-250(s)0.1(ize alpha })]TJ
+/TT6 1 Tf
+-7.416 -1.8 TD
+(and)Tj
+3.6 -1.8 TD
+(roman "{ size alpha }")Tj
+-3.6 -1.8 TD
+(is)Tj
+7.3645 -1.8 TD
+[({)-250(s)0.1(ize alpha })]TJ
+-4.8645 -2.16 TD
+0.0088 Tw
+(The construction "" is often used as a place-)Tj
+-2.5 -1.2 TD
+0.0148 Tw
+(holder when grammatically)Tj
+8 0 0 8 184.9049 129.5999 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 203.9943 129.5999 Tm
+0.0148 Tw
+(needs something,)Tj
+-13.1994 -1.2 TD
+0.0627 Tw
+[(b)20(u)0(t)-312.8(y)-0.2(ou don’)18(t)-312.8(a)-0.3(ctually w)10(ant an)15(ything in your out-)]TJ
+0 -1.2432 TD
+0.2136 Tw
+[(put. )-250(F)15(or e)15(xample, to mak)10(e)]TJ
+7 0 0 7 192.27 109.368 Tm
+0 Tw
+(2)Tj
+10 0 0 10 196.27 105.168 Tm
+0.2136 Tw
+[(He, you can’)18(t)-463.7(j)-0.7(ust)]TJ
+-12.427 -1.2 TD
+0 Tw
+(type)Tj
+/TT4 1 Tf
+2.1145 0 TD
+0.1427 Tw
+[(sup 2 r)45(oman He)]TJ
+/TT6 1 Tf
+7.1925 0 TD
+(because a)Tj
+/TT4 1 Tf
+4.3938 0 TD
+0 Tw
+(sup)Tj
+/TT6 1 Tf
+1.7819 0 TD
+0.1427 Tw
+(has to be a)Tj
+ET
+0.32 w 
+72.03 83.19 m
+144.03 83.19 l
+S
+BT
+8 0 0 8 72 73.168 Tm
+0 Tw
+(command)Tj
+/TT4 1 Tf
+4.1934 0 TD
+(gsize)Tj
+/TT7 1 Tf
+2.25 0 TD
+<003c>Tj
+/TT4 1 Tf
+0.5488 0 TD
+(2.)Tj
+/TT6 1 Tf
+10 0 0 10 302.4 708 Tm
+(superscript)Tj
+/TT4 1 Tf
+4.6377 0 TD
+(on)Tj
+/TT6 1 Tf
+1.25 0 TD
+[(something. )-250(Thus)-250(you must say)]TJ
+-2.2877 -1.8 TD
+("" sup 2 roman He)Tj
+-1.1 -2.16 TD
+0.0267 Tw
+[(T)80(o)80( )-79.9(get a literal quote use ‘)74(‘\\"’)74(’.)]TJ
+8 0 0 8 456.2995 668.4 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 483.645 668.4 Tm
+[(char)20(-)]TJ
+-18.1245 -1.2 TD
+0.25 Tw
+[(acters lik)10(e)]TJ
+/TT4 1 Tf
+4.8211 0 TD
+0 Tw
+(\\\(bs)Tj
+/TT6 1 Tf
+2 0 TD
+0.25 Tw
+[(can appear unquoted, b)20(ut more)]TJ
+-6.8211 -1.2 TD
+0.3208 Tw
+[(complicated things lik)10(e)-570.8(h)-1.9(orizontal and v)15(ertical)]TJ
+T*
+0.1094 Tw
+(motions with)Tj
+/TT4 1 Tf
+5.7193 0 TD
+0 Tw
+(\\h)Tj
+/TT6 1 Tf
+1.1372 0 TD
+(and)Tj
+/TT4 1 Tf
+1.8032 0 TD
+(\\v)Tj
+/TT6 1 Tf
+1.0811 0 TD
+0.1093 Tw
+[(should al)10(w)10(ays be quoted.)]TJ
+-9.7409 -1.2 TD
+0.2048 Tw
+[(\(If you’)50(v)15(e)15( )-15.1(ne)25(v)25( )444.8(er)-454.9(heard of)]TJ
+/TT4 1 Tf
+11.2201 0 TD
+0 Tw
+(\\h)Tj
+/TT6 1 Tf
+1.2327 0 TD
+(and)Tj
+/TT4 1 Tf
+1.8987 0 TD
+[(\\v)74(,)]TJ
+/TT6 1 Tf
+1.3526 0 TD
+0.2049 Tw
+(ignore this)Tj
+-15.7042 -1.2 TD
+0 Tw
+(section.\))Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(15. Lining)-250(Up )250(Equations)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0508 Tw
+[(Sometimes it’)55(s)-300.9(n)-0.8(ecessary to line up a series)]TJ
+-2.5 -1.2 TD
+0.0866 Tw
+(of equations at some horizontal position, often at)Tj
+T*
+0.0839 Tw
+[(an equals sign.)-583.9(This is done with tw)10(o)-333.8(o)-0.9(perations)]TJ
+T*
+0 Tw
+(called)Tj
+/TT4 1 Tf
+2.6372 0 TD
+(mark)Tj
+/TT6 1 Tf
+2.3052 0 TD
+(and)Tj
+/TT4 1 Tf
+1.6938 0 TD
+(lineup.)Tj
+/TT6 1 Tf
+-4.1362 -1.56 TD
+0.2612 Tw
+[(The w)10(ord)]TJ
+/TT4 1 Tf
+4.6224 0 TD
+0 Tw
+(mark)Tj
+/TT6 1 Tf
+2.5665 0 TD
+0.2613 Tw
+[(may appear once at an)15(y)]TJ
+-9.6888 -1.2 TD
+0.0433 Tw
+[(place in an equation.)-543.3(It remembers the horizontal)]TJ
+T*
+0.0796 Tw
+[(position where it appeared.)-579.6(Successi)25(v)15(e)15( )-15(equations)]TJ
+T*
+0.1997 Tw
+[(can contain one occurrence of the w)10(ord)]TJ
+/TT4 1 Tf
+17.4079 0 TD
+0 Tw
+(lineup.)Tj
+/TT6 1 Tf
+-17.4079 -1.2 TD
+0.0152 Tw
+(The place where)Tj
+/TT4 1 Tf
+6.9025 0 TD
+0 Tw
+(lineup)Tj
+/TT6 1 Tf
+2.7647 0 TD
+0.0152 Tw
+(appears is made to line up)Tj
+-9.6672 -1.2 TD
+0.0869 Tw
+[(with the place mark)10(ed by the pre)25(vious)]TJ
+/TT4 1 Tf
+16.0962 0 TD
+0 Tw
+(mark)Tj
+/TT6 1 Tf
+2.3921 0 TD
+0.0868 Tw
+(if at)Tj
+-18.4883 -1.2 TD
+0 Tw
+[(all possible.)-500(Thus, for e)15(xample, you can say)]TJ
+3.6 -1.8 TD
+(.EQ I)Tj
+0 -1.2 TD
+(x+y mark = z)Tj
+T*
+(.EN)Tj
+T*
+(.EQ I)Tj
+T*
+[(x)-250(l)-0.2(ineup = 1)]TJ
+T*
+(.EN)Tj
+-3.6 -1.8 TD
+(to produce)Tj
+/TT4 1 Tf
+5.077 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7168 0 TD
+(+)Tj
+/TT4 1 Tf
+0.8428 0 TD
+(y)Tj
+/TT8 1 Tf
+0.7558 0 TD
+(=)Tj
+/TT4 1 Tf
+0.8808 0 TD
+(z)Tj
+-1.6573 -1.8 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(1)Tj
+-8.2217 -1.8 TD
+0.1364 Tw
+[(F)15(o)0(r)-386.4(r)0.2(easons too complicated to talk about, when)]TJ
+0 -1.2 TD
+0.1085 Tw
+(you use)Tj
+8 0 0 8 337.9001 283.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 357.9265 283.2 Tm
+0.1085 Tw
+(and ‘)Tj
+/TT7 1 Tf
+2.1354 0 TD
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+0.1084 Tw
+(ms’, use either)Tj
+8 0 0 8 449.114 283.2 Tm
+0 Tw
+(.EQ I)Tj
+10 0 0 10 470.0262 283.2 Tm
+(or)Tj
+8 0 0 8 481.9402 283.2 Tm
+(.EQ L)Tj
+10 0 0 10 501.491 283.2 Tm
+(.)Tj
+-19.9091 -1.2 TD
+0.1267 Tw
+(mark and)Tj
+/TT4 1 Tf
+4.2519 0 TD
+0 Tw
+(lineup)Tj
+/TT6 1 Tf
+2.8762 0 TD
+0.1267 Tw
+[(don’)18(t)-376.7(w)9.1(ork with centered equa-)]TJ
+-7.1282 -1.2 TD
+0.1265 Tw
+[(tions. )-250(Also)-376.5(bear in mind that)]TJ
+/TT4 1 Tf
+12.6467 0 TD
+0 Tw
+(mark)Tj
+/TT6 1 Tf
+2.4317 0 TD
+[(doesn’)18(t)-376.5(l)-1.5(ook)]TJ
+-15.0784 -1.2 TD
+(ahead;)Tj
+3.6 -1.8 TD
+[(x)-250(m)-0.2(ark =1)]TJ
+0.25 -1.2 TD
+(...)Tj
+-0.25 -1.2 TD
+(x+y lineup =z)Tj
+-3.6 -1.8 TD
+0.106 Tw
+[(isn’)18(t)-356(g)-0.2(oing to w)10(ork, because there isn’)18(t)-356(r)-1.2(oom for)]TJ
+0 -1.2 TD
+0 Tw
+(the)Tj
+/TT4 1 Tf
+1.5471 0 TD
+(x+y)Tj
+/TT6 1 Tf
+1.8879 0 TD
+0.0754 Tw
+(part after the)Tj
+/TT4 1 Tf
+5.5841 0 TD
+0 Tw
+(mark)Tj
+/TT6 1 Tf
+2.3806 0 TD
+0.0753 Tw
+(remembers where the)Tj
+/TT4 1 Tf
+-11.3997 -1.2 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+0.6938 0 TD
+(is.)Tj
+/TT2 1 Tf
+-0.6938 -2.4 TD
+0.25 Tw
+[(16. Big)-250(Brack)10(ets, )250(Etc.)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0144 Tw
+[(T)80(o)80( )-80(get big brack)10(ets [)-250(], braces {)-250(}, parenthe-)]TJ
+-2.5 -1.2 TD
+0.0763 Tw
+[(ses \()-250(\), and bars |)-250(|)-326.3(around things, use the)]TJ
+/TT4 1 Tf
+17.1112 0 TD
+0 Tw
+(left)Tj
+/TT6 1 Tf
+1.6036 0 TD
+(and)Tj
+/TT4 1 Tf
+-18.7149 -1.2 TD
+(right)Tj
+/TT6 1 Tf
+2.1948 0 TD
+(commands:)Tj
+ET
+endstream
+endobj
+27 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+29 0 obj
+<<
+/Length 9975
+>>
+stream
+BT
+/TT7 1 Tf
+10 0 0 10 277.51 744 Tm
+0 g
+/GS1 gs
+0 Tc
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.7988 0 TD
+(6)Tj
+/TT7 1 Tf
+0.75 0 TD
+<003c>Tj
+/TT6 1 Tf
+-18.4998 -4.2 TD
+[(left { a o)15(v)15(e)]TJ
+4.4202 0 TD
+0.25 Tc
+(rb+1r)Tj
+3.2308 0 TD
+0 Tc
+(ight })Tj
+-7.401 -1.2 TD
+[(˜=˜ left \( c o)15(v)15(e)0(r)-250(d)-250(r)-0.8(ight \))]TJ
+T*
+[(+)-250(l)-0.2(eft [ e right ])]TJ
+-3.85 -1.8 TD
+(is)Tj
+/TT7 1 Tf
+5.9935 -1.875 TD
+<00a8>Tj
+0 -1 TD
+<00a9>Tj
+T*
+<00aa>Tj
+/TT4 1 Tf
+0.647 1.865 TD
+(a)Tj
+ET
+0 G
+1 J 1 j 0.4 w 10 M []0 d
+1 i 
+138.03 635.55 m
+143.67 635.55 l
+S
+BT
+10 0 0 10 138.39 625.9 Tm
+(b)Tj
+/TT8 1 Tf
+0.8675 0.7 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0 TD
+(1)Tj
+/TT7 1 Tf
+0.5002 0.835 TD
+<00ac>Tj
+0 -1 TD
+<00ad>Tj
+T*
+<00ae>Tj
+/TT8 1 Tf
+0.774 1.165 TD
+(=)Tj
+/TT7 1 Tf
+0.829 0.55 TD
+<00a3>Tj
+0 -1.213 TD
+<00a4>Tj
+/TT4 1 Tf
+0.5985 1.363 TD
+(c)Tj
+ET
+180.99 635.55 m
+187.11 635.55 l
+S
+BT
+10 0 0 10 181.335 625.9 Tm
+(d)Tj
+/TT7 1 Tf
+0.697 1.25 TD
+<00a5>Tj
+0 -1.213 TD
+<00a6>Tj
+/TT8 1 Tf
+0.62 0.663 TD
+(+)Tj
+/TT6 1 Tf
+0.7688 0.007 TD
+([)Tj
+/TT4 1 Tf
+0.352 -0.007 TD
+(e)Tj
+/TT6 1 Tf
+0.4618 0.007 TD
+(])Tj
+-13.8332 -2.697 TD
+0.2351 Tw
+[(The resulting brack)10(ets are made big enough to)]TJ
+0 -1.2 TD
+0.5616 Tw
+[(co)15(v)15(e)0(r)-561.6(w)-0.1(hate)25(v)15(e)0(r)-561.6(t)-0.8(he)15(y)-561.6(e)-0.3(nclose. Other)-561.6(characters)]TJ
+T*
+0.0221 Tw
+[(can be used besides these, b)20(ut the are not lik)10(ely to)]TJ
+T*
+0.1699 Tw
+[(look v)15(ery good.)-669.9(One e)15(xception is the)]TJ
+/TT10 1 Tf
+16.4058 0 TD
+0 Tw
+(ß)Tj
+/TT4 1 Tf
+0.5 0 TD
+(oor)Tj
+/TT6 1 Tf
+1.809 0 TD
+(and)Tj
+/TT4 1 Tf
+-18.7147 -1.2 TD
+(ceiling)Tj
+/TT6 1 Tf
+2.9712 0 TD
+(characters:)Tj
+0.6288 -1.8 TD
+(left )Tj
+/TT9 1 Tf
+1.5825 0 TD
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(oor x o)15(v)15(e)0(r)-250(y)-250(r)-0.5(ight )]TJ
+/TT9 1 Tf
+7.219 0 TD
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(oor)Tj
+-9.9138 -1.2 TD
+[(<= left ceiling a o)15(v)15(e)0(r)-250(b)-250(r)-1.6(ight ceiling)]TJ
+-3.6 -1.8 TD
+(produces)Tj
+/TT7 1 Tf
+7.951 -1.875 TD
+<00b3>Tj
+0 -1 TD
+<00b3>Tj
+T*
+<0096>Tj
+/TT4 1 Tf
+0.581 1.865 TD
+(x)Tj
+ET
+156.51 485.55 m
+162.27 485.55 l
+S
+BT
+10 0 0 10 157.41 475.9 Tm
+(y)Tj
+/TT7 1 Tf
+0.608 1.535 TD
+<00b5>Tj
+0 -1 TD
+<00b5>Tj
+T*
+<0098>Tj
+0.664 1.165 TD
+<0029>Tj
+0.8288 0.335 TD
+<0095>Tj
+0.0002 -1 TD
+<00b3>Tj
+/TT4 1 Tf
+0.537 1.365 TD
+(a)Tj
+ET
+183.51 485.55 m
+189.03 485.55 l
+S
+BT
+10 0 0 10 183.775 475.9 Tm
+(b)Tj
+/TT7 1 Tf
+0.6475 1.035 TD
+<0097>Tj
+0 -1 TD
+<00b5>Tj
+/TT6 1 Tf
+-9.325 -2.385 TD
+0.4504 Tw
+[(Se)25(v)15(eral w)10(arnings about brack)10(ets are in)]TJ
+-2.5 -1.2 TD
+0.4115 Tw
+[(order)55(.)-911.5(First, braces are typically bigger than)]TJ
+T*
+0.12 Tw
+[(brack)10(ets and parentheses, because the)15(y)-370(a)-2(re made)]TJ
+T*
+0.0832 Tw
+(up of three, )Tj
+/TT9 1 Tf
+5.0811 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0831 Tw
+[(v)15(e, se)25(v)15(en, etc., pieces, while brack-)]TJ
+-5.6373 -1.2 TD
+0.0091 Tw
+[(ets can be made up of tw)10(o, three, etc.)-509.1(Second, big)]TJ
+T*
+0.0054 Tw
+[(left and right parentheses often look poor)40(,)-255.4(b)-2.1(ecause)]TJ
+T*
+0 Tw
+(the character set is poorly designed.)Tj
+2.5 -1.56 TD
+(The)Tj
+/TT4 1 Tf
+2.1598 0 TD
+(right)Tj
+/TT6 1 Tf
+2.5499 0 TD
+0.3552 Tw
+[(part may be omitted: a ‘)74(‘left)]TJ
+-7.2097 -1.2 TD
+0.0393 Tw
+[(something’)74(’)-289.4(n)-0.5(eed not ha)20(v)15(e)15( )-15(a)15( )-15(corresponding ‘)74(‘right)]TJ
+T*
+0.6088 Tw
+[(something’)74(’. If)-608.8(the)]TJ
+/TT4 1 Tf
+8.9726 0 TD
+0 Tw
+(right)Tj
+/TT6 1 Tf
+2.5537 0 TD
+0.3589 Tw
+(part is omitted, put)Tj
+-11.5263 -1.2 TD
+0.0786 Tw
+[(braces around the thing you w)10(ant the left brack)10(et)]TJ
+T*
+0.168 Tw
+[(to encompass.)-668(Otherwise, the resulting brack)10(ets)]TJ
+T*
+0 Tw
+[(may be too lar)18(ge.)]TJ
+2.5 -1.56 TD
+0.0808 Tw
+[(If you w)10(ant to omit the)]TJ
+/TT4 1 Tf
+9.9177 0 TD
+0 Tw
+(left)Tj
+/TT6 1 Tf
+1.6081 0 TD
+0.0807 Tw
+(part, things are)Tj
+-14.0258 -1.2 TD
+0.1366 Tw
+[(more complicated, because technically you can’)18(t)]TJ
+T*
+-0.015 Tc
+0.0702 Tw
+[(h)-15(a)5(ve a)]TJ
+/TT4 1 Tf
+2.8769 0 TD
+0 Tc
+0 Tw
+(right)Tj
+/TT6 1 Tf
+2.235 0 TD
+0.0401 Tw
+(without a corresponding)Tj
+/TT4 1 Tf
+10.0905 0 TD
+0 Tw
+(left.)Tj
+/TT6 1 Tf
+2.0674 0 TD
+(Instead)Tj
+-17.2699 -1.2 TD
+[(you ha)20(v)15(e)15( )-15(to)-250(say)]TJ
+3.6 -1.8 TD
+(left "" ..... right \))Tj
+-3.6 -1.8 TD
+0.0782 Tw
+[(for e)15(xample. )-250(The)]TJ
+/TT4 1 Tf
+7.5775 0 TD
+(left "")Tj
+/TT6 1 Tf
+2.7737 0 TD
+0.0783 Tw
+[(means a ‘)74(‘left nothing’)74(’.)]TJ
+-10.3512 -1.2 TD
+0.13 Tw
+(This satis)Tj
+/TT9 1 Tf
+3.9357 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.13 Tw
+(es the rules without hurting your out-)Tj
+-4.4918 -1.2 TD
+0 Tw
+(put.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+(17. Piles)Tj
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0548 Tw
+[(There is a general f)10(acility for making v)15(erti-)]TJ
+-2.5 -1.2 TD
+0.0069 Tw
+[(cal piles of things; it comes in se)25(v)15(eral )]TJ
+/TT9 1 Tf
+15.3448 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.2568 Tw
+[(a)20(v)20(ors. F)15(o)0(r)]TJ
+-15.9009 -1.2 TD
+0 Tw
+[(e)15(xample:)]TJ
+3.6 -1.8 TD
+[(A)-250(˜)0.2(=˜ left [)]TJ
+0.5 -1.2 TD
+(pile { a ab)Tj
+4.1172 0 TD
+-0.015 Tc
+0.03 Tw
+[(ove b a)-15(b)-15(ove c })]TJ
+-4.1172 -1.2 TD
+0 Tc
+0 Tw
+(˜˜ pile { x ab)Tj
+5.0894 0 TD
+-0.015 Tc
+0.03 Tw
+[(ove y a)-15(b)-15(ove z })]TJ
+-5.5894 -1.2 TD
+0 Tc
+0 Tw
+(right ])Tj
+19.44 63.24 TD
+[(will mak)10(e)]TJ
+/TT4 1 Tf
+8.0385 -3.21 TD
+(A)Tj
+/TT8 1 Tf
+0.8938 0 TD
+(=)Tj
+/TT7 1 Tf
+0.8292 1.335 TD
+<0095>Tj
+0 -1 TD
+<00b3>Tj
+T*
+<00b3>Tj
+T*
+<0096>Tj
+/TT4 1 Tf
+0.417 3.065 TD
+(a)Tj
+-0.0015 -1.4 TD
+(b)Tj
+0.0205 -1.4 TD
+(c)Tj
+1.144 2.8 TD
+(x)Tj
+0.009 -1.4 TD
+(y)Tj
+0.012 -1.4 TD
+(z)Tj
+/TT7 1 Tf
+0.476 2.735 TD
+<0097>Tj
+0 -1 TD
+<00b5>Tj
+T*
+<00b5>Tj
+T*
+<0098>Tj
+/TT6 1 Tf
+-11.8385 -1.525 TD
+0.0458 Tw
+[(The elements of the pile \(there can be as man)15(y)-295.8(a)-3.3(s)]TJ
+0 -1.2 TD
+0.1038 Tw
+[(you w)10(ant\) are centered one ab)]TJ
+12.5305 0 TD
+-0.015 Tc
+0 Tw
+(ove )Tj
+1.7675 0 TD
+0 Tc
+[(another)40(,)-353.7(a)-2.2(t)-353.7(t)-0.3(he)]TJ
+-14.298 -1.2 TD
+0.3476 Tw
+[(right height for most purposes.)-847.7(The k)10(e)15(yw)10(ord)]TJ
+/TT4 1 Tf
+T*
+0 Tw
+[(abo)10(ve)]TJ
+/TT6 1 Tf
+2.8095 0 TD
+0.1817 Tw
+(is used to separate the pieces; braces are)Tj
+-2.8095 -1.2 TD
+0.0212 Tw
+[(used around the entire list.)-521.2(The elements of a pile)]TJ
+T*
+0.0001 Tc
+0.0531 Tw
+[(can be as complicated as needed, e)25.1(v)15.1(en)-303(containing)]TJ
+T*
+0 Tc
+0 Tw
+(more piles.)Tj
+2.5 -1.56 TD
+0.0546 Tw
+[(Three other forms of pile e)15(xist:)]TJ
+/TT4 1 Tf
+13.0309 0 TD
+0 Tw
+(lpile)Tj
+/TT6 1 Tf
+2.0819 0 TD
+[(mak)10(es)]TJ
+-17.6128 -1.2 TD
+0.0443 Tw
+[(a)-294.3(p)-0.2(ile with the elements left-justi)]TJ
+/TT9 1 Tf
+13.3569 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ed;)Tj
+/TT4 1 Tf
+1.516 0 TD
+(rpile)Tj
+/TT6 1 Tf
+2.1829 0 TD
+[(mak)10(es)]TJ
+-17.6119 -1.2 TD
+[(a)-389.8(r)-0.1(ight-justi)]TJ
+/TT9 1 Tf
+4.7781 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.1398 Tw
+(ed pile; and)Tj
+/TT4 1 Tf
+5.3345 0 TD
+0 Tw
+(cpile)Tj
+/TT6 1 Tf
+2.3333 0 TD
+0.1399 Tw
+[(mak)10(es a centered)]TJ
+-13.0021 -1.2 TD
+0.1163 Tw
+[(pile, just lik)10(e)]TJ
+/TT4 1 Tf
+5.7827 0 TD
+0 Tw
+[(pile)15(.)]TJ
+/TT6 1 Tf
+2.3508 0 TD
+0.1163 Tw
+[(The v)15(ertical spacing between)]TJ
+-8.1336 -1.2 TD
+0.0746 Tw
+[(the pieces is some)25(what lar)18(ger for)]TJ
+/TT4 1 Tf
+13.8444 0 TD
+[(l-, r)20(-)]TJ
+/TT6 1 Tf
+2.2124 0 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+1.7685 0 TD
+(cpiles)Tj
+/TT6 1 Tf
+-17.8253 -1.2 TD
+(than it is for ordinary piles.)Tj
+1 -1.8 TD
+(roman sign \(x\)˜=˜)Tj
+0 -1.2 TD
+(left {)Tj
+0.75 -1.2 TD
+(lpile {1 ab)Tj
+4.2012 0 TD
+-0.015 Tc
+0.03 Tw
+[(ove 0 a)-15(b)-15(ove)]TJ
+/TT7 1 Tf
+5.0215 0 TD
+0 Tc
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1})Tj
+-9.7715 -1.2 TD
+(˜˜ lpile)Tj
+0.25 -1.2 TD
+({if˜x>0 ab)Tj
+4.1816 0 TD
+-0.015 Tc
+(ove )Tj
+1.6638 0 TD
+0 Tc
+(if˜x=0 ab)Tj
+3.7017 0 TD
+-0.015 Tc
+(ove )Tj
+1.6638 0 TD
+0 Tc
+(if˜x<0})Tj
+-13.211 -1.8 TD
+[(mak)10(es)]TJ
+5.476 -3.71 TD
+(sign\()Tj
+/TT4 1 Tf
+2.077 0 TD
+(x)Tj
+/TT6 1 Tf
+0.4968 0 TD
+(\))Tj
+/TT8 1 Tf
+0.613 0 TD
+(=)Tj
+/TT7 1 Tf
+0.8291 1.835 TD
+<00a8>Tj
+0 -1 TD
+<00ab>Tj
+T*
+<00a9>Tj
+T*
+<00ab>Tj
+T*
+<00aa>Tj
+/TT6 1 Tf
+0.494 3.565 TD
+(1)Tj
+0 -1.4 TD
+(0)Tj
+/TT7 1 Tf
+T*
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+1.0602 2.8 TD
+(if)Tj
+/TT4 1 Tf
+0.9678 0 TD
+(x)Tj
+/TT6 1 Tf
+0.7768 0 TD
+0.28 Tc
+(>0)Tj
+-1.7447 -1.4 TD
+0 Tc
+(if)Tj
+/TT4 1 Tf
+0.9678 0 TD
+(x)Tj
+/TT8 1 Tf
+0.7768 0 TD
+(=)Tj
+/TT6 1 Tf
+0.8288 0 TD
+(0)Tj
+-2.5735 -1.4 TD
+(if)Tj
+/TT4 1 Tf
+0.9678 0 TD
+(x)Tj
+/TT6 1 Tf
+0.7768 0 TD
+0.28 Tc
+(<0)Tj
+-13.3397 -2.29 TD
+0 Tc
+0.2733 Tw
+(Notice the left brace without a matching right)Tj
+0 -1.2 TD
+0 Tw
+(one.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+(18. Matrices)Tj
+/TT6 1 Tf
+2.5 -1.56 TD
+0.221 Tw
+[(It is also possible to mak)10(e)-471(m)-1.3(atrices. )-250(F)15(o)0(r)]TJ
+-2.5 -1.2 TD
+0 Tw
+[(e)15(xample, to mak)10(e)-250(a)-250(n)-1.6(eat array lik)10(e)]TJ
+/TT4 1 Tf
+8.7528 -1.8432 TD
+(x)Tj
+7 0 0 7 394.8035 254.368 Tm
+(i)Tj
+10 0 0 10 389.968 242.368 Tm
+(y)Tj
+7 0 0 7 394.7335 240.368 Tm
+(i)Tj
+10 0 0 10 408.273 256.368 Tm
+(x)Tj
+/TT6 1 Tf
+7 0 0 7 413.243 260.5679 Tm
+(2)Tj
+/TT4 1 Tf
+10 0 0 10 408.363 242.368 Tm
+(y)Tj
+/TT6 1 Tf
+7 0 0 7 413.123 246.568 Tm
+(2)Tj
+10 0 0 10 302.4 225.791 Tm
+0.0001 Tc
+-0.0001 Tw
+[(you ha)20.1(v)15.1(e)15.1( )-15(to)-249.9(type)]TJ
+3.6 -1.8 TD
+0 Tc
+0 Tw
+(matrix {)Tj
+0.5 -1.2 TD
+(ccol { x sub i ab)Tj
+6.5063 0 TD
+-0.015 Tc
+0.03 Tw
+(ove y )Tj
+2.4138 0 TD
+0 Tc
+0 Tw
+(sub i })Tj
+-8.9202 -1.2 TD
+(ccol { x sup 2 ab)Tj
+6.7285 0 TD
+-0.015 Tc
+0.03 Tw
+(ove y )Tj
+2.4138 0 TD
+0 Tc
+0 Tw
+(sup 2 })Tj
+-9.6424 -1.2 TD
+(})Tj
+-3.6 -1.8 TD
+0.5937 Tw
+[(This produces a matrix with tw)10(o)-843.6(c)-1.3(entered)]TJ
+0 -1.2 TD
+0.1463 Tw
+[(columns. )-249.9(The)-396.3(elements of the columns are then)]TJ
+T*
+0.0368 Tw
+(listed just as for a pile, each element separated by)Tj
+T*
+0.0901 Tw
+[(the w)10(ord)]TJ
+/TT4 1 Tf
+3.9471 0 TD
+0 Tw
+[(abo)10(ve)15(.)]TJ
+/TT6 1 Tf
+3.2028 0 TD
+0.0901 Tw
+[(Y)110(o)0(u)-340.1(c)-0.4(an also use)]TJ
+/TT4 1 Tf
+7.3045 0 TD
+0 Tw
+(lcol)Tj
+/TT6 1 Tf
+1.8396 0 TD
+(or)Tj
+/TT4 1 Tf
+1.1731 0 TD
+[(r)37(col)]TJ
+/TT6 1 Tf
+1.9139 0 TD
+(to)Tj
+-19.3811 -1.2 TD
+0.062 Tw
+[(left or right adjust columns.)-562(Each column can be)]TJ
+T*
+0.2797 Tw
+[(separately adjusted, and there can be as man)15(y)]TJ
+T*
+0 Tw
+[(columns as you lik)10(e.)]TJ
+ET
+endstream
+endobj
+30 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+/TT10 18 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+32 0 obj
+<<
+/Length 10228
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-7-)Tj
+-18.267 -3.6 TD
+0 Tc
+0.2416 Tw
+(The reason for using a matrix instead of)Tj
+-2.5 -1.2 TD
+0.0001 Tc
+0.1136 Tw
+[(tw)10.1(o)-363.6(a)-0.1(djacent piles, by the w)10.1(a)0.1(y)65.1(,)-363.6(is)-363.6(that if the ele-)]TJ
+T*
+0 Tc
+0.0671 Tw
+[(ments of the piles don’)18(t)-317.1(a)-1.4(ll ha)20(v)15(e)15( )-15(the same height,)]TJ
+T*
+0.0061 Tw
+[(the)15(y)-256.1(w)9.8(on’)18(t)-256.1(l)-0.3(ine up properly)65(.)-506.1(A)-256.6(matrix forces them)]TJ
+T*
+0.086 Tw
+(to line up, because it looks at the entire structure)Tj
+T*
+0 Tw
+(before deciding what spacing to use.)Tj
+2.5 -1.56 TD
+0.08 Tw
+[(A)-330(w)10.3(ord of w)10(arning about matrices —)]TJ
+/TT4 1 Tf
+15.7858 0 TD
+0 Tw
+[(eac)15(h)]TJ
+-18.2858 -1.2 TD
+0.0065 Tw
+(column must have the same number of elements in)Tj
+T*
+0 Tw
+(it.)Tj
+/TT6 1 Tf
+1.3057 0 TD
+[(The w)10(orld will end if you get this wrong.)]TJ
+/TT2 1 Tf
+-1.3057 -2.4 TD
+0.25 Tw
+[(19. Shorthand)-250(f)25(o)0(r)-250(I)0.6(n-line )250(Equations)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0318 Tw
+(In a mathematical document, it is necessary)Tj
+-2.5 -1.2 TD
+0.2715 Tw
+[(to follo)25(w)-521.5(m)-0.5(athematical con)40(v)15(entions not just in)]TJ
+T*
+0.031 Tw
+[(display equations, b)20(ut also in the body of the te)15(xt,)]TJ
+T*
+0.2937 Tw
+[(for e)15(xample by making v)25(ariable names lik)10(e)]TJ
+/TT4 1 Tf
+19.6602 0 TD
+0 Tw
+(x)Tj
+/TT6 1 Tf
+-19.6602 -1.2 TD
+0.0984 Tw
+[(italic. )-250(Although)-348.4(this could be done by surround-)]TJ
+T*
+0.2419 Tw
+(ing the appropriate parts with)Tj
+8 0 0 8 204.3391 508.8 Tm
+0 Tw
+(.EQ)Tj
+10 0 0 10 221.9222 508.8 Tm
+(and)Tj
+8 0 0 8 241.2797 508.8 Tm
+(.EN)Tj
+10 0 0 10 253.9437 508.8 Tm
+0.4919 Tc
+[(,t)490(h)491.9(e)]TJ
+-18.1944 -1.2 TD
+0 Tc
+0.1169 Tw
+(continual repetition of)Tj
+8 0 0 8 166.8693 496.8 Tm
+0 Tw
+(.EQ)Tj
+10 0 0 10 183.2024 496.8 Tm
+(and)Tj
+8 0 0 8 201.3098 496.8 Tm
+(.EN)Tj
+10 0 0 10 217.6429 496.8 Tm
+0.1169 Tw
+(is a nuisance.)Tj
+-14.5643 -1.2 TD
+0.0308 Tw
+(Furthermore, with ‘)Tj
+/TT7 1 Tf
+7.921 0 TD
+0 Tw
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(ms’,)Tj
+8 0 0 8 177.006 484.8 Tm
+(.EQ)Tj
+10 0 0 10 192.4781 484.8 Tm
+(and)Tj
+8 0 0 8 209.7246 484.8 Tm
+(.EN)Tj
+10 0 0 10 225.1967 484.8 Tm
+0.0307 Tw
+(imply a dis-)Tj
+-15.3197 -1.2 TD
+0 Tw
+(played equation.)Tj
+8 0 0 8 97 457.2 Tm
+(EQN)Tj
+10 0 0 10 117.4774 457.2 Tm
+0.1537 Tw
+[(pro)15(vides a shorthand for short in-line)]TJ
+-4.5477 -1.2 TD
+0.2907 Tw
+[(e)15(xpressions. )-250(Y)110(ou can de)]TJ
+/TT9 1 Tf
+10.7168 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.2906 Tw
+[(ne tw)10(o)-540.6(c)-0.4(haracters to)]TJ
+-11.273 -1.2 TD
+0.0058 Tw
+(mark the left and right ends of an in-line equation,)Tj
+T*
+0.1401 Tw
+[(and then type e)15(xpressions right in the middle of)]TJ
+T*
+0.0194 Tw
+[(te)15(xt lines.)-519.4(T)80(o)80( )-80(set both the left and right characters)]TJ
+T*
+0.0656 Tw
+[(to dollar signs, for e)15(xample, add to the be)15(ginning)]TJ
+T*
+0 Tw
+(of your document the three lines)Tj
+3.85 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+(delim $$)Tj
+T*
+(.EN)Tj
+-3.85 -1.8 TD
+[(Ha)20(ving done this, you can then say things lik)10(e)]TJ
+3.6 -1.8 TD
+0.207 Tw
+[(Let $alpha sub i$ be the primary v)25(ari-)]TJ
+0 -1.2 TD
+0.1997 Tw
+[(able, and let $beta$ be zero.)-699.7(Then we)]TJ
+T*
+0 Tw
+[(can sho)25(w)-250(t)-0.1(hat $x sub 1$ is $>=0$.)]TJ
+-3.6 -1.8 TD
+0.1065 Tw
+[(This w)10(orks as you might e)15(xpect — spaces, ne)25(w-)]TJ
+0 -1.2 TD
+0.0529 Tw
+(lines, and so on are signi)Tj
+/TT9 1 Tf
+10.1517 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0529 Tw
+[(cant in the te)15(xt, b)20(ut not)]TJ
+-10.7079 -1.2 TD
+0.035 Tw
+[(in the equation part itself.)-535(Multiple equations can)]TJ
+T*
+0 Tw
+(occur in a single input line.)Tj
+2.5 -1.56 TD
+0.083 Tw
+(Enough room is left before and after a line)Tj
+-2.5 -1.2 TD
+0.2296 Tw
+[(that contains in-line e)15(xpressions that something)]TJ
+0 -1.7235 TD
+0 Tw
+[(lik)10(e)]TJ
+/TT4 1 Tf
+7 0 0 7 94.702 194.013 Tm
+(n)Tj
+-0.437 -2.6467 TD
+(i)Tj
+/TT8 1 Tf
+0.3138 0 TD
+(=)Tj
+/TT6 1 Tf
+0.5488 0 TD
+(1)Tj
+/TT7 1 Tf
+15 0 0 15 91.97 181.918 Tm
+<0059>Tj
+/TT4 1 Tf
+10 0 0 10 103.6509 184.365 Tm
+(x)Tj
+7 0 0 7 108.5264 182.365 Tm
+(i)Tj
+/TT6 1 Tf
+10 0 0 10 115.9592 184.365 Tm
+0.2236 Tw
+[(does not interfere with the lines sur)20(-)]TJ
+-4.3959 -1.8456 TD
+0 Tw
+(rounding it.)Tj
+2.5 -1.56 TD
+[(T)80(o)80( )-80(turn of)25(f)-250(t)-0.5(he delimiters,)]TJ
+1.35 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+[(delim of)25(f)]TJ
+T*
+(.EN)Tj
+-3.85 -1.8 TD
+0.0255 Tw
+[(W)80(arning: don’)18(t)-275.5(u)-0.8(se braces, tildes, circum)]TJ
+/TT9 1 Tf
+16.4971 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0255 Tw
+[(e)15(x)15(es, or)]TJ
+-17.0532 -1.2 TD
+0 Tw
+(double quotes as delimiters — chaos will result.)Tj
+/TT2 1 Tf
+23.04 62.9691 TD
+0.25 Tw
+(20. De)Tj
+/TT11 1 Tf
+2.916 0 TD
+0 Tw
+(Ş)Tj
+/TT2 1 Tf
+0.5562 0 TD
+(nitions)Tj
+/TT6 1 Tf
+8 0 0 8 327.4 692.4 Tm
+(EQN)Tj
+10 0 0 10 348.1134 692.4 Tm
+0.1771 Tw
+[(pro)15(vides a f)10(acility so you can gi)25(v)15(e)15( )-15(a)]TJ
+-4.5713 -1.2 TD
+0.1527 Tw
+(frequently-used string of characters a name, and)Tj
+T*
+0.0553 Tw
+(thereafter just type the name instead of the whole)Tj
+T*
+0 Tw
+[(string. )-250(F)15(or e)15(xample, if the sequence)]TJ
+3.6 -1.8 TD
+[(x)-250(s)0.2(ub i sub 1 + y sub i sub 1)]TJ
+-3.6 -1.8 TD
+0.2148 Tw
+[(appears repeatedly throughout a paper)40(,)-464.9(y)-2(ou can)]TJ
+0 -1.2 TD
+0 Tw
+[(sa)20(v)15(e)15( )-15(re-typing it each time by de)]TJ
+/TT9 1 Tf
+13.0158 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(ning it lik)10(e)-250(t)-3.2(his:)]TJ
+-12.5719 -1.8 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne xy)Tj
+/TT7 1 Tf
+2.9438 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.2471 0 TD
+[(x)-250(s)0.1(ub i sub 1 + y sub i sub 1)]TJ
+/TT7 1 Tf
+11.1762 0 TD
+<0076>Tj
+/TT6 1 Tf
+-16.8671 -1.8 TD
+0.154 Tw
+[(This mak)10(es)]TJ
+/TT4 1 Tf
+5.1305 0 TD
+0 Tw
+(xy)Tj
+/TT6 1 Tf
+1.2917 0 TD
+0.154 Tw
+[(a)-404(s)-0.8(horthand for whate)25(v)15(e)0(r)-404(c)-0.9(harac-)]TJ
+-6.4222 -1.2 TD
+0.0412 Tw
+(ters occur between the single quotes in the de)Tj
+/TT9 1 Tf
+18.4902 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ni-)Tj
+-19.0464 -1.2 TD
+0.0987 Tw
+[(tion. )-250.1(Y)110(ou can use an)15(y)-348.7(c)-0.8(haracter instead of quote)]TJ
+T*
+0.1577 Tw
+(to mark the ends of the de)Tj
+/TT9 1 Tf
+11.3319 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.1577 Tw
+(nition, so long as it)Tj
+-11.8881 -1.2 TD
+0 Tw
+[(doesn’)18(t)-250(a)-0.3(ppear inside the de)]TJ
+/TT9 1 Tf
+11.1449 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(nition.)Tj
+-9.2011 -1.56 TD
+[(No)25(w)-250(y)0.3(ou can use)]TJ
+/TT4 1 Tf
+7.1397 0 TD
+(xy)Tj
+/TT6 1 Tf
+1.1377 0 TD
+[(lik)10(e)-250(t)-1.3(his:)]TJ
+-7.1774 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+(f\(x\) = xy ...)Tj
+T*
+(.EN)Tj
+-3.6 -1.8 TD
+0.224 Tw
+[(and so on.)-724(Each occurrence of)]TJ
+/TT4 1 Tf
+13.8938 0 TD
+0 Tw
+(xy)Tj
+/TT6 1 Tf
+1.3617 0 TD
+0.224 Tw
+[(will e)15(xpand)]TJ
+-15.2555 -1.2 TD
+0.1435 Tw
+[(into what it w)10(as de)]TJ
+/TT9 1 Tf
+8.1182 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.1435 Tw
+[(ned as.)-643.6(Be careful to lea)20(v)15(e)]TJ
+-8.6744 -1.2 TD
+0.0981 Tw
+[(spaces or their equi)25(v)25(alent around the name when)]TJ
+T*
+0.0267 Tw
+(you actually use it, so)Tj
+8 0 0 8 393.1637 412.8 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 412.3721 412.8 Tm
+0.0267 Tw
+(will be able to identify)Tj
+-10.9972 -1.2 TD
+0 Tw
+(it as special.)Tj
+2.5 -1.56 TD
+0.1893 Tw
+[(There are se)25(v)15(eral things to w)10(atch out for)55(.)]TJ
+-2.5 -1.2 TD
+0.017 Tw
+(First, although de)Tj
+/TT9 1 Tf
+7.0613 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5561 0 TD
+0.017 Tw
+[(nitions can use pre)25(vious de)]TJ
+/TT9 1 Tf
+10.8741 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ni-)Tj
+-19.0477 -1.2 TD
+(tions, as in)Tj
+3.85 -1.8 TD
+(.EQ)Tj
+0 -1.2 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne xi)Tj
+/TT7 1 Tf
+2.7217 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+[(x)-250(s)-0.1(ub i)]TJ
+/TT7 1 Tf
+2.9171 0 TD
+<0076>Tj
+/TT6 1 Tf
+-7.6358 -1.2 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne xi1)Tj
+/TT7 1 Tf
+3.2217 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+(xi sub 1)Tj
+/TT7 1 Tf
+3.417 0 TD
+<0076>Tj
+/TT6 1 Tf
+-8.6357 -1.2 TD
+(.EN)Tj
+/TT4 1 Tf
+-3.85 -1.8 TD
+[(don’)30(t)-672.9(d)-0.2(e)]TJ
+/TT10 1 Tf
+3.6978 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+0.4229 Tw
+[(ne something in terms of itself)-92(’)]TJ
+/TT6 1 Tf
+15.2392 0 TD
+0 Tw
+(A)Tj
+-19.4369 -1.2 TD
+[(f)10(a)20(v)20(orite error is to say)]TJ
+3.6 -1.8 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne X)Tj
+/TT7 1 Tf
+2.666 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+(roman X)Tj
+/TT7 1 Tf
+3.7769 0 TD
+<0076>Tj
+/TT6 1 Tf
+-12.0399 -1.8 TD
+0.3097 Tw
+[(This is a guaranteed disaster)40(,)-559.8(s)-1.3(ince X)]TJ
+/TT4 1 Tf
+17.2359 0 TD
+0 Tw
+(is)Tj
+/TT6 1 Tf
+1.2268 0 TD
+[(no)25(w)]TJ
+-18.4627 -1.2 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(ned in terms of itself.)-500(If you say)]TJ
+2.1 -1.8 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne X)Tj
+/TT7 1 Tf
+2.666 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+(roman "X")Tj
+/TT7 1 Tf
+4.5933 0 TD
+<0076>Tj
+/TT6 1 Tf
+-12.8563 -1.8 TD
+0.2567 Tw
+[(ho)25(we)25(v)15(e)0(r)40(,)40( )-40.1(the quotes protect the second X, and)]TJ
+0 -1.2 TD
+-0.24 Tw
+[(e)25(v)25( erything )-240(w)10(orks )]TJ
+/TT9 1 Tf
+7.1707 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ne.)Tj
+8 0 0 8 327.4 165.6 Tm
+(EQN)Tj
+10 0 0 10 348.1914 165.6 Tm
+0.185 Tw
+[(k)10(e)15(yw)10(ords can be rede)]TJ
+/TT9 1 Tf
+9.2104 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(ned.)-685(Y)110(o)0(u)-435(c)-0.4(an)]TJ
+-14.3457 -1.2 TD
+[(mak)10(e)-250(/)-250(m)-0.8(ean)]TJ
+/TT4 1 Tf
+5.3497 0 TD
+[(o)10(ver)]TJ
+/TT6 1 Tf
+2.0169 0 TD
+(by saying)Tj
+-3.7666 -1.8 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+(ne /)Tj
+/TT7 1 Tf
+2.2217 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+-0.015 Tc
+[(ove)-15(r)]TJ
+/TT7 1 Tf
+1.9969 0 TD
+0 Tc
+<0076>Tj
+/TT6 1 Tf
+-9.8156 -1.8 TD
+(or rede)Tj
+/TT9 1 Tf
+2.8037 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ne)Tj
+/TT4 1 Tf
+1.1938 0 TD
+[(o)10(ver)]TJ
+/TT6 1 Tf
+2.0169 0 TD
+(as / with)Tj
+-2.9706 -1.8 TD
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+[(ne o)15(v)15(e)0(r)]TJ
+/TT7 1 Tf
+3.6907 0 TD
+0 Tw
+<0076>Tj
+/TT6 1 Tf
+0.4971 0 TD
+(/)Tj
+/TT7 1 Tf
+0.5278 0 TD
+<0076>Tj
+/TT6 1 Tf
+-7.3156 -2.16 TD
+0.0015 Tw
+[(If you need dif)25(ferent things to print on a ter)20(-)]TJ
+-2.5 -1.2 TD
+0.0367 Tw
+[(minal and on the typesetter)40(,)-286.8(i)-2.1(t)-286.8(i)-0.3(s)-286.8(s)0.3(ometimes w)10(orth)]TJ
+ET
+endstream
+endobj
+33 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+/TT10 18 0 R
+/TT11 34 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+36 0 obj
+<<
+/Length 9143
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-8-)Tj
+-20.767 -3.6 TD
+0 Tc
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.1728 Tw
+[(ning a symbol dif)25(ferently in)]TJ
+8 0 0 8 209.5355 708 Tm
+0 Tw
+(NEQN)Tj
+10 0 0 10 235.9812 708 Tm
+(and)Tj
+8 0 0 8 254.6467 708 Tm
+(EQN)Tj
+10 0 0 10 271.0881 708 Tm
+(.)Tj
+-19.9088 -1.2 TD
+0.0044 Tw
+(This can be done with)Tj
+/TT4 1 Tf
+9.1031 0 TD
+0 Tw
+(nde)Tj
+/TT10 1 Tf
+1.4438 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+(ne)Tj
+/TT6 1 Tf
+1.1983 0 TD
+(and)Tj
+/TT4 1 Tf
+1.6983 0 TD
+(tde)Tj
+/TT10 1 Tf
+1.2217 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+[(ne)15(.)]TJ
+/TT6 1 Tf
+1.6833 0 TD
+0.2545 Tc
+[(Ad)252.8(e)]TJ
+/TT9 1 Tf
+1.9222 0 TD
+0 Tc
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(-)Tj
+-19.827 -1.2 TD
+0.1012 Tw
+(nition made with)Tj
+/TT4 1 Tf
+7.3304 0 TD
+0 Tw
+(nde)Tj
+/TT10 1 Tf
+1.4438 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+(ne)Tj
+/TT6 1 Tf
+1.2949 0 TD
+0.1011 Tw
+[(only tak)10(es ef)25(fect if you)]TJ
+-10.5691 -1.2 TD
+0.1431 Tw
+(are running)Tj
+8 0 0 8 123.1774 672 Tm
+0 Tw
+(NEQN)Tj
+10 0 0 10 145.3962 672 Tm
+0.1432 Tw
+[(;)-393.2(i)-0.5(f)-393.2(you use)]TJ
+/TT4 1 Tf
+5.295 0 TD
+0 Tw
+(tde)Tj
+/TT10 1 Tf
+1.2217 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+[(ne)10(,)]TJ
+/TT6 1 Tf
+1.577 0 TD
+0.1432 Tw
+(the de)Tj
+/TT9 1 Tf
+2.5587 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(ni-)Tj
+-19.0482 -1.2 TD
+0.2049 Tw
+(tion only applies for)Tj
+8 0 0 8 163.5163 660 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 179.9577 660 Tm
+0.2048 Tw
+[(.)-704.8(N)-0.7(ames de)]TJ
+/TT9 1 Tf
+5.131 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.2048 Tw
+(ned with)Tj
+-16.4829 -1.2 TD
+0 Tw
+(plain)Tj
+/TT4 1 Tf
+2.2495 0 TD
+(de)Tj
+/TT10 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5 0 TD
+(ne)Tj
+/TT6 1 Tf
+1.1938 0 TD
+(apply to both)Tj
+8 0 0 8 176.1455 648 Tm
+(EQN)Tj
+10 0 0 10 195.0869 648 Tm
+(and)Tj
+8 0 0 8 212.0254 648 Tm
+(NEQN)Tj
+10 0 0 10 234.2441 648 Tm
+(.)Tj
+/TT2 1 Tf
+-16.2244 -2.4 TD
+0.25 Tw
+[(21. Local)-250(Motions)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0 Tw
+(Although)Tj
+8 0 0 8 137.5053 608.4 Tm
+(EQN)Tj
+10 0 0 10 156.6737 608.4 Tm
+0.0228 Tw
+(tries to get most things at the)Tj
+-8.4674 -1.2 TD
+0.0341 Tw
+[(right place on the paper)40(,)-284.1(i)-1.8(t)-284.1(i)-0.3(sn’)18(t)-284.1(perfect, and occa-)]TJ
+T*
+0.0652 Tw
+[(sionally you will need to tune the output to mak)10(e)]TJ
+T*
+0.0569 Tw
+[(it just right.)-556.9(Small e)15(xtra horizontal spaces can be)]TJ
+T*
+0.0847 Tw
+(obtained with tilde and circum)Tj
+/TT9 1 Tf
+12.5576 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0847 Tw
+[(e)15(x. )-250(Y)110(ou can also)]TJ
+-13.1137 -1.2 TD
+0 Tw
+(say)Tj
+/TT4 1 Tf
+1.593 0 TD
+[(bac)20(k)-260(n)]TJ
+/TT6 1 Tf
+2.8877 0 TD
+(and)Tj
+/TT4 1 Tf
+1.7038 0 TD
+0.01 Tw
+(fwd n)Tj
+/TT6 1 Tf
+2.4648 0 TD
+-0.015 Tc
+0.025 Tw
+[(t)-15(o)-15( m)-15(ove )]TJ
+3.4895 0 TD
+0 Tc
+0.01 Tw
+(small amounts hori-)Tj
+-12.1389 -1.2 TD
+0 Tw
+[(zontally)65(.)]TJ
+/TT4 1 Tf
+3.915 0 TD
+(n)Tj
+/TT6 1 Tf
+0.7588 0 TD
+-0.015 Tc
+0.0238 Tw
+[(i)-15(s)-15( h)-15(o)10(w)-273.8(f)-5.6(a)-15(r)-15( t)-15(o)-15( m)-15(ove )-15(i)-15(n)-273.8(1)]TJ
+9.2656 0 TD
+0 Tc
+0 Tw
+[(/100’)55(s)-258.8(o)0(f)-258.9(a)-0.1(n)-258.9(e)-0.2(m)]TJ
+-13.9394 -1.2 TD
+0.0385 Tw
+[(\(an em is about the width of the letter ‘m’.\))-538.5(Thus)]TJ
+/TT4 1 Tf
+T*
+0 Tw
+[(bac)20(k)-274.1(5)-0.3(0)]TJ
+/TT6 1 Tf
+3.4162 0 TD
+0.0241 Tw
+[(mo)15(v)15(e)0(s)-274.1(b)-0.2(ack about half the width of an m.)]TJ
+-3.4162 -1.2 TD
+0.138 Tw
+(Similarly you can m)Tj
+8.5517 0 TD
+-0.015 Tc
+0 Tw
+(ove )Tj
+1.8018 0 TD
+0 Tc
+0.138 Tw
+[(things up or do)25(wn with)]TJ
+/TT4 1 Tf
+-10.3535 -1.2 TD
+0.1257 Tw
+(up n)Tj
+/TT6 1 Tf
+2.2514 0 TD
+0 Tw
+(and)Tj
+/TT4 1 Tf
+1.8195 0 TD
+0.1257 Tw
+(down n.)Tj
+/TT6 1 Tf
+3.9184 0 TD
+(As with)Tj
+/TT4 1 Tf
+3.6406 0 TD
+0 Tw
+(sub)Tj
+/TT6 1 Tf
+1.7649 0 TD
+(or)Tj
+/TT4 1 Tf
+1.2088 0 TD
+(sup,)Tj
+/TT6 1 Tf
+2.015 0 TD
+0.1258 Tw
+(the local)Tj
+-16.6185 -1.2 TD
+0.0284 Tw
+[(motions af)25(fect the ne)15(xt thing in the input, and this)]TJ
+T*
+0.17 Tw
+(can be something arbitrarily complicated if it is)Tj
+T*
+0 Tw
+(enclosed in braces.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(22. A)-250(Lar)10(ge )250(Example)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.2021 Tw
+(Here is the complete source for the three)Tj
+-2.5 -1.2 TD
+0 Tw
+(display equations in the abstract of this guide.)Tj
+8 0 0 8 74 378.8 Tm
+(.EQ I)Tj
+0 -1.25 TD
+(G\(z\)˜mark =˜ e sup { ln ˜ G\(z\) })Tj
+T*
+[(˜=˜ e)15(xp left \()]TJ
+T*
+[(sum from k>=1 {S sub k z sup k} o)15(v)15(e)0(r)-250(k)-250(r)-0.1(ight \))]TJ
+T*
+[(˜=˜ )-250(prod)-250(from k>=1 e sup {S sub k z sup k /k})]TJ
+T*
+(.EN)Tj
+T*
+(.EQ I)Tj
+T*
+(lineup = left \( 1 + S sub 1 z +)Tj
+T*
+[({)-250(S)-250(s)0.3(ub 1 sup 2 z sup 2 } o)15(v)15(e)0(r)-250(2)0(!)-250(+)-250(... right \))]TJ
+T*
+[(left \( 1+ { S sub 2 z sup 2 } o)15(v)15(e)0(r)-250(2)]TJ
+T*
+0.25 Tc
+-0.25 Tw
+[(+{Ss)250.3(u)250(b)250( 2)250( )]TJ
+4.739 0 TD
+0 Tc
+0 Tw
+[(sup 2 z sup 4 } o)15(v)15(e)]TJ
+7.616 0 TD
+0.25 Tc
+-0.25 Tw
+[(r{2s)250.1(u)250(p)250( 2)250( )]TJ
+4.452 0 TD
+0 Tc
+0 Tw
+(cdot 2! })Tj
+-16.807 -1.25 TD
+[(+)-250(... right \) ...)]TJ
+T*
+(.EN)Tj
+T*
+(.EQ I)Tj
+T*
+[(lineup =)-500(sum from m>=0 left \()]TJ
+T*
+(sum from)Tj
+T*
+[(pile { k sub 1 ,k sub 2 ,..., k sub m)-500(>=0)]TJ
+T*
+-0.015 Tc
+[(a)-15(b)-15(ove)]TJ
+T*
+0 Tc
+[(k)-250(s)0.2(ub 1 +2k sub 2 + ... +mk sub m =m})]TJ
+T*
+[({)-250(S)-250(s)0.3(ub 1 sup {k sub 1} } o)15(v)15(e)0(r)-250({)0.1(1)-250(s)0.2(up k sub 1 k sub 1 ! } ˜)]TJ
+T*
+[({)-250(S)-250(s)0.3(ub 2 sup {k sub 2} } o)15(v)15(e)0(r)-250({)0.1(2)-250(s)0.2(up k sub 2 k sub 2 ! } ˜)]TJ
+T*
+(...)Tj
+T*
+[({)-250(S)-250(s)0.3(ub m sup {k sub m} } o)15(v)15(e)0(r)-250({)-0.2(m)-250(sup k sub m k sub m ! })]TJ
+T*
+(right \) z sup m)Tj
+T*
+(.EN)Tj
+/TT2 1 Tf
+10 0 0 10 72 104.8 Tm
+[(23. )-250(K)25(eyw)10(ords, Pr)18(ecedences, Etc.)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0637 Tw
+[(If you don’)18(t)-313.7(u)-0.1(se braces,)]TJ
+8 0 0 8 196.6432 89.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 216.2226 89.2 Tm
+0.0638 Tw
+(will do opera-)Tj
+-14.4223 -1.2 TD
+0 Tw
+[(tions in the order sho)25(wn in this list.)]TJ
+/TT4 1 Tf
+24.54 62.48 TD
+(dyad vec under bar tilde hat dot dotdot)Tj
+0 -1.2 TD
+0.25 Tw
+[(fwd bac)20(k)-500(d)-0.5(own up)]TJ
+T*
+[(fat r)45(oman italic bold size)]TJ
+T*
+[(sub sup sqrt o)10(ver)]TJ
+T*
+[(fr)45(om to)]TJ
+/TT6 1 Tf
+-1.5 -1.8 TD
+0 Tw
+(These operations group to the left:)Tj
+/TT4 1 Tf
+3.6 -1.8 TD
+0.25 Tw
+[(o)10(ver sqrt left right)]TJ
+/TT6 1 Tf
+-3.6 -1.8 TD
+0 Tw
+(All others group to the right.)Tj
+2.5 -1.56 TD
+0.3353 Tw
+[(Digits, parentheses, brack)10(ets, punctuation)]TJ
+-2.5 -1.2 TD
+0.2745 Tw
+[(marks, and these mathematical w)10(ords are con-)]TJ
+T*
+0 Tw
+[(v)15(erted to Roman font when encountered:)]TJ
+3.6 -1.8 TD
+0.25 Tw
+(sin cos tan sinh cosh tanh arc)Tj
+0 -1.2 TD
+[(max min lim log ln e)15(x)0(p)]TJ
+T*
+(Re Im and if for det)Tj
+-3.6 -1.8 TD
+0.3504 Tw
+(These character sequences are recognized and)Tj
+0 -1.2 TD
+0 Tw
+[(translated as sho)25(wn.)]TJ
+3.6 -2.4 TD
+(>=)Tj
+/TT7 1 Tf
+7.2 0 TD
+<002a>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(<=)Tj
+/TT7 1 Tf
+7.2 0 TD
+<0029>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(==)Tj
+/TT7 1 Tf
+7.2 0 TD
+<003e>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(!=)Tj
+/TT7 1 Tf
+7.2 0 TD
+<0026>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(+)Tj
+/TT7 1 Tf
+0.564 0 TD
+<003c>Tj
+/TT8 1 Tf
+6.6358 0 TD
+(±)Tj
+/TT7 1 Tf
+-7.1998 -1.2 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(>)Tj
+/TT7 1 Tf
+6.6512 0 TD
+<0041>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(<)Tj
+/TT7 1 Tf
+0.564 0 TD
+6.087 Tc
+<003c0040>Tj
+/TT6 1 Tf
+-0.564 -1.2 TD
+0 Tc
+5.822 Tw
+[(<< <)199.9(<)]TJ
+T*
+[(>> >)199.9(>)]TJ
+T*
+0 Tw
+(inf)Tj
+/TT7 1 Tf
+13 0 0 13 410.4 354.84 Tm
+<0027>Tj
+/TT6 1 Tf
+10 0 0 10 338.4 344.4 Tm
+(partial)Tj
+/TT7 1 Tf
+7.2 0 TD
+<002c>Tj
+/TT6 1 Tf
+-7.2 -1.2232 TD
+(half)Tj
+7 0 0 7 411.6 336.168 Tm
+(1)Tj
+ET
+0 G
+1 J 1 j 0.4 w 10 M []0 d
+1 i 
+411.63 334.71 m
+415.11 334.71 l
+S
+BT
+7 0 0 7 411.6 328.568 Tm
+(2)Tj
+10 0 0 10 338.4 320.068 Tm
+(prime)Tj
+/TT7 1 Tf
+7.2 0 TD
+<0076>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(approx)Tj
+/TT7 1 Tf
+7.2 0 TD
+<0035>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(nothing)Tj
+T*
+(cdot)Tj
+/TT7 1 Tf
+7.2 0 TD
+<0075>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(times)Tj
+/TT8 1 Tf
+7.2 0 TD
+(×)Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(del)Tj
+/TT7 1 Tf
+7.2 0 TD
+<00a2>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(grad)Tj
+/TT7 1 Tf
+7.2 0 TD
+<00a2>Tj
+/TT6 1 Tf
+-7.2 -1.2 TD
+(...)Tj
+7.2 0.2155 TD
+0.17 Tc
+(...)Tj
+-7.2 -1.4155 TD
+0 Tc
+(,..., )Tj
+7.2 0 TD
+0.17 Tc
+(,...,)Tj
+-7.2 -1.2 TD
+0 Tc
+(sum)Tj
+/TT7 1 Tf
+15 0 0 15 410.4 209.621 Tm
+<0059>Tj
+/TT6 1 Tf
+10 0 0 10 338.4 193.761 Tm
+(int)Tj
+/TT7 1 Tf
+18 0 0 18 411.336 189.08 Tm
+<0030>Tj
+/TT6 1 Tf
+10 0 0 10 338.4 176.654 Tm
+(prod)Tj
+/TT7 1 Tf
+15 0 0 15 410.4 174.207 Tm
+<0057>Tj
+/TT6 1 Tf
+10 0 0 10 338.4 164.654 Tm
+(union)Tj
+/TT7 1 Tf
+15 0 0 15 410.4 163.692 Tm
+<0046>Tj
+/TT6 1 Tf
+10 0 0 10 338.4 152.654 Tm
+(inter)Tj
+/TT7 1 Tf
+15 0 0 15 410.4 151.437 Tm
+<0045>Tj
+/TT6 1 Tf
+10 0 0 10 327.4 125.054 Tm
+0.1467 Tw
+[(T)80(o)80( )-79.9(obtain Greek letters, simply spell them)]TJ
+-2.5 -1.2 TD
+0 Tw
+[(out in whate)25(v)15(e)0(r)-250(c)-0.9(ase you w)10(ant:)]TJ
+1.44 -2.4 TD
+[(DEL)92(T)93(A)]TJ
+/TT7 1 Tf
+5.04 0 TD
+<0036>Tj
+/TT6 1 Tf
+5.04 0 TD
+(iota)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 467.53 89.054 Tm
+<0066>Tj
+/TT6 1 Tf
+10 0 0 10 316.8 77.054 Tm
+(GAMMA)Tj
+/TT7 1 Tf
+5.04 0 TD
+<004b>Tj
+/TT6 1 Tf
+5.04 0 TD
+(kappa)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 467.44 77.054 Tm
+<0067>Tj
+/TT6 1 Tf
+10 0 0 10 316.8 65.054 Tm
+[(LAMBD)40(A)]TJ
+/TT7 1 Tf
+5.0405 0 TD
+<0052>Tj
+/TT6 1 Tf
+5.0395 0 TD
+(lambda)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 468.29 65.054 Tm
+<0068>Tj
+ET
+endstream
+endobj
+37 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+/TT10 18 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+39 0 obj
+<<
+/Length 10644
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 279.67 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+(-9-)Tj
+-19.327 -3.6 TD
+0 Tc
+(OMEGA)Tj
+/TT7 1 Tf
+5.04 0 TD
+<0031>Tj
+/TT6 1 Tf
+5.04 0 TD
+(mu)Tj
+/TT8 1 Tf
+8.9 0 2.7732 8.9 238.28 708 Tm
+(µ)Tj
+/TT6 1 Tf
+10 0 0 10 86.4 696 Tm
+(PHI)Tj
+/TT7 1 Tf
+5.04 0 TD
+<005c>Tj
+/TT6 1 Tf
+5.04 0 TD
+(nu)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 236.91 696 Tm
+<0069>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 684 Tm
+(PI)Tj
+/TT7 1 Tf
+5.04 0 TD
+<0057>Tj
+/TT6 1 Tf
+5.04 0 TD
+-0.002 Tc
+[(ome)13(ga)]TJ
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.25 684 Tm
+0 Tc
+<0074>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 672 Tm
+(PSI)Tj
+/TT7 1 Tf
+5.04 0 TD
+<005e>Tj
+/TT6 1 Tf
+5.04 0 TD
+(omicron)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.24 672 Tm
+<006b>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 660 Tm
+(SIGMA)Tj
+/TT7 1 Tf
+5.04 0 TD
+<0059>Tj
+/TT6 1 Tf
+5.04 0 TD
+(phi)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.32 660 Tm
+<0071>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 648 Tm
+[(THET)93(A)]TJ
+/TT7 1 Tf
+5.04 0 TD
+<004f>Tj
+/TT6 1 Tf
+5.04 0 TD
+(pi)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.52 648 Tm
+<002f>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 636 Tm
+(UPSILON)Tj
+/TT7 1 Tf
+5.0407 0 TD
+<00af>Tj
+/TT6 1 Tf
+5.0393 0 TD
+(psi)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 236.69 636 Tm
+<0073>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 624 Tm
+(XI)Tj
+/TT7 1 Tf
+5.04 0 TD
+<0055>Tj
+/TT6 1 Tf
+5.04 0 TD
+(rho)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 238.29 624 Tm
+<006c>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 612 Tm
+(alpha)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 136.46 612 Tm
+<005f>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 612 Tm
+(sigma)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.23 612 Tm
+<006d>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 600 Tm
+(beta)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 137.37 600 Tm
+<0060>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 600 Tm
+(tau)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.15 600 Tm
+<006f>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 588 Tm
+(chi)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 137.78 588 Tm
+<0072>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 588 Tm
+(theta)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.07 588 Tm
+<0065>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 576 Tm
+(delta)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 136.47 576 Tm
+<0062>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 576 Tm
+(upsilon)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.05 576 Tm
+<0070>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 564 Tm
+(epsilon)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 136.81 564 Tm
+<00a1>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 564 Tm
+(xi)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.4 564 Tm
+<006a>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 552 Tm
+(eta)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 136.3 552 Tm
+<0064>Tj
+/TT6 1 Tf
+10 0 0 10 187.2 552 Tm
+(zeta)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 237.1 552 Tm
+<0063>Tj
+/TT6 1 Tf
+10 0 0 10 86.4 540 Tm
+-0.001 Tc
+(gamma)Tj
+/TT7 1 Tf
+8.9 0 2.7732 8.9 136.38 540 Tm
+0 Tc
+<0061>Tj
+/TT6 1 Tf
+10 0 0 10 97 512.4 Tm
+0.3608 Tw
+[(These are all the w)10(ords kno)25(wn to)]TJ
+8 0 0 8 257.1492 512.4 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 72 500.4 Tm
+0.0903 Tw
+[(\(e)15(xcept for characters with names\), together with)]TJ
+0 -1.2 TD
+0 Tw
+[(the section where the)15(y)-250(a)-1.4(re discussed.)]TJ
+1.44 -2.4 TD
+-0.015 Tc
+[(a)-15(b)-15(ove )]TJ
+5.0397 0 TD
+0 Tc
+[(17, 18)-2540.3(lpile )-3012(17)]TJ
+-5.0397 -1.2 TD
+2.902 Tw
+[(back 21)-4040.3(mark )167(15)]TJ
+T*
+3.513 Tw
+[(bar 13)-4040.1(matrix )1334(18)]TJ
+T*
+3.012 Tw
+[(bold 12)-4040.2(nde)]TJ
+/TT9 1 Tf
+11.5238 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+1.846 Tw
+(ne 20)Tj
+-12.08 -1.2 TD
+3.124 Tw
+[(ccol 18)-4040.5(o)15(v)15(e)0(r)-3293(9)]TJ
+T*
+3.568 Tw
+[(col 18)-4040.3(pile )278(17)]TJ
+T*
+2.846 Tw
+[(cpile 17)-4040.6(rcol )-389(18)]TJ
+T*
+0 Tw
+(de)Tj
+/TT9 1 Tf
+0.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+2.346 Tw
+[(ne 20)-4040.2(right )-555(16)]TJ
+-1.5 -1.2 TD
+2.512 Tw
+[(delim 19)-4040.7(roman )277(12)]TJ
+T*
+3.512 Tw
+[(dot 13)-4040.2(rpile )555(17)]TJ
+T*
+2.234 Tw
+[(dotdot 13)-4040.3(size )-1001(12)]TJ
+T*
+2.593 Tw
+[(do)25(wn 21)-4039.8(sqrt )-697(10)]TJ
+T*
+2.846 Tw
+[(dyad 13)-4040.2(sub )-555(7)]TJ
+T*
+3.401 Tw
+[(f)10(a)0(t)-3995(1)-0.3(2)-4040(s)0.2(up 7)]TJ
+T*
+3.179 Tw
+[(font 12)-4040.2(tde)]TJ
+/TT9 1 Tf
+11.3017 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+2.068 Tw
+(ne 20)Tj
+-11.8578 -1.2 TD
+2.846 Tw
+[(from 11)-4040.2(tilde )-166(13)]TJ
+T*
+3.235 Tw
+[(fwd 21)-4039.8(to )-777(11)]TJ
+T*
+2.679 Tw
+[(gfont 12)-4040.2(under )166(13)]TJ
+T*
+2.735 Tw
+[(gsize 12)-4040.3(up )-1055(21)]TJ
+T*
+3.568 Tw
+[(hat 13)-4040.3(v)15(e)0(c)-3667(1)-0.3(3)]TJ
+T*
+0 Tw
+[(italic )-2790(12)-4041(˜, ˆ)-3874(4, 6)]TJ
+T*
+3.29 Tw
+[(lcol 18)-4040.5({)-250(})-250( )-40(8)]TJ
+T*
+3.457 Tw
+[(left 16)-4040.5("..." )233(8,)-250(14)]TJ
+T*
+2.29 Tw
+(lineup 15)Tj
+/TT2 1 Tf
+-1.44 -3.6 TD
+0.25 Tw
+[(24. T)74(r)18(oubleshooting)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.1108 Tw
+[(If you mak)10(e)-360.9(a)-360.9(m)-0.8(istak)10(e)-360.9(i)-0.7(n)-360.9(a)-0.2(n)-360.8(e)-0.2(quation, lik)10(e)]TJ
+-2.5 -1.2 TD
+0.0552 Tw
+[(lea)20(ving out a brace \(v)15(ery common\) or ha)20(ving one)]TJ
+T*
+0.2001 Tw
+[(too man)15(y)-450.2(\()-0.5(v)15(ery common\) or ha)20(ving a)]TJ
+/TT4 1 Tf
+16.5418 0 TD
+0 Tw
+(sup)Tj
+/TT6 1 Tf
+1.8393 0 TD
+(with)Tj
+-18.3811 -1.2 TD
+0.2643 Tw
+(nothing before it \(common\),)Tj
+8 0 0 8 198.3777 100.8 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 219.9621 100.8 Tm
+0.2643 Tw
+(will tell you)Tj
+-14.7962 -1.2 TD
+0 Tw
+(with the message)Tj
+/TT4 1 Tf
+24.04 61.32 TD
+[(syntax err)45(or between lines x and y)55(,)]TJ
+/TT10 1 Tf
+14.1187 0 TD
+(Ş)Tj
+/TT4 1 Tf
+0.5013 0 TD
+(le z)Tj
+/TT6 1 Tf
+-15.62 -1.8 TD
+(where)Tj
+/TT4 1 Tf
+3.1967 0 TD
+(x)Tj
+/TT6 1 Tf
+1.1975 0 TD
+(and)Tj
+/TT4 1 Tf
+2.1975 0 TD
+(y)Tj
+/TT6 1 Tf
+1.1975 0 TD
+0.5037 Tw
+(are approximately the lines)Tj
+-7.7893 -1.2 TD
+0.1074 Tw
+(between which the trouble occurred, and)Tj
+/TT4 1 Tf
+17.1654 0 TD
+0 Tw
+(z)Tj
+/TT6 1 Tf
+0.7466 0 TD
+0.1074 Tw
+(is the)Tj
+-17.912 -1.2 TD
+0.0027 Tw
+(name of the )Tj
+/TT9 1 Tf
+4.9783 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0026 Tw
+[(le in question.)-502.7(The line numbers are)]TJ
+-5.5345 -1.2 TD
+0.1863 Tw
+[(approximate — look nearby as well.)-686.3(There are)]TJ
+T*
+0.215 Tw
+[(also self-e)15(xplanatory messages that arise if you)]TJ
+T*
+0.2195 Tw
+[(lea)20(v)15(e)15( )-15(out a quote or try to run)]TJ
+8 0 0 8 440.6852 624 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 461.8226 624 Tm
+0.2196 Tw
+(on a non-)Tj
+-15.9423 -1.2 TD
+0 Tw
+[(e)15(xistent )]TJ
+/TT9 1 Tf
+3.3454 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(le.)Tj
+-1.4015 -1.56 TD
+0.2511 Tw
+[(If you w)10(ant to check a document before)]TJ
+-2.5 -1.2 TD
+0 Tw
+(actually printing it \(on)Tj
+8 0 0 8 394.6021 584.4 Tm
+(UNIX)Tj
+10 0 0 10 417.0982 584.4 Tm
+(only\),)Tj
+-7.8698 -1.8 TD
+(eqn )Tj
+/TT9 1 Tf
+1.9438 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les)-250(>/de)25(v/null)]TJ
+-6.1 -1.8 TD
+0.0046 Tw
+[(will thro)25(w)-254.6(a)14.5(w)10(a)0(y)-254.6(t)-0.2(he output b)20(ut print the messages.)]TJ
+2.5 -1.56 TD
+0.2188 Tw
+[(If you use something lik)10(e)-468.8(d)-1(ollar signs as)]TJ
+-2.5 -1.2 TD
+0.0219 Tw
+[(delimiters, it is easy to lea)20(v)15(e)15( )-15(one out.)-521.9(This causes)]TJ
+T*
+0.1395 Tw
+[(v)15(ery strange troubles.)-639.5(The program)]TJ
+/TT4 1 Tf
+15.2611 0 TD
+0 Tw
+[(c)15(hec)20(k)10(e)0(q)]TJ
+/TT6 1 Tf
+3.5637 0 TD
+(\(on)Tj
+8 0 0 8 302.4 496.8 Tm
+(GCOS)Tj
+10 0 0 10 323.7398 496.8 Tm
+0.272 Tc
+[(,u)272.4(s)272(e)]TJ
+/TT4 1 Tf
+2.1266 0 TD
+0 Tc
+[(./c)15(hec)20(k)10(e)0(q)]TJ
+/TT6 1 Tf
+3.9742 0 TD
+0.0221 Tw
+(instead\) checks for misplaced)Tj
+-8.2348 -1.2 TD
+0 Tw
+(or missing dollar signs and similar troubles.)Tj
+2.5 -1.56 TD
+0.564 Tw
+(In-line equations can only be so big)Tj
+-2.5 -1.2 TD
+0.0435 Tw
+[(because of an internal b)20(u)0(f)25(fer in)]TJ
+8 0 0 8 431.7231 457.2 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 456.3015 457.2 Tm
+0.0435 Tw
+[(.)-543.5(I)-1.3(f)-293.5(you get)]TJ
+-15.3902 -1.2 TD
+0.1318 Tw
+[(a)-381.9(m)-0.3(essage ‘)74(‘)0(w)10(ord o)15(v)15(e)0(r)]TJ
+/TT9 1 Tf
+9.3615 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.1318 Tw
+[(o)25(w)0(’)74(’, you ha)20(v)15(e)15( )-15(e)15(xceeded)]TJ
+-9.9177 -1.2 TD
+0.0271 Tw
+[(this limit.)-527.1(If you print the equation as a displayed)]TJ
+T*
+0.0876 Tw
+[(equation this message will usually go a)15(w)10(ay)65(.)65( )-314.9(The)]TJ
+T*
+0.486 Tw
+[(message ‘)74(‘line o)15(v)15(e)0(r)]TJ
+/TT9 1 Tf
+8.6981 0 TD
+0 Tw
+(ß)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.0001 Tc
+0.4859 Tw
+[(o)25.1(w)0.1(’)74.1(’)-735.9(indicates you ha)20.1(v)15.1(e)]TJ
+-9.2542 -1.2 TD
+0 Tc
+0.0056 Tw
+[(e)15(xceeded an e)25(v)15(en)-255.6(bigger b)20(u)0(f)25(fer)55(.)-505.6(T)-0.6(he only cure for)]TJ
+T*
+0.2576 Tw
+[(this is to break the equation into tw)10(o)-507.7(s)-1.9(eparate)]TJ
+T*
+0 Tw
+(ones.)Tj
+2.5 -1.56 TD
+0.3282 Tw
+(On a related topic,)Tj
+8 0 0 8 416.8844 357.6 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 439.1068 357.6 Tm
+0.3281 Tw
+(does not break)Tj
+-13.6707 -1.2 TD
+0.145 Tw
+(equations by itself — you must split long equa-)Tj
+T*
+0.1183 Tw
+(tions up across multiple lines by yourself, mark-)Tj
+T*
+0.1098 Tw
+(ing each by a separate)Tj
+8 0 0 8 398.6761 321.6 Tm
+0 Tw
+(.EQ)Tj
+10 0 0 10 414.9382 321.6 Tm
+(...)Tj
+8 0 0 8 426.0362 321.6 Tm
+(.EN)Tj
+10 0 0 10 442.2982 321.6 Tm
+(sequence.)Tj
+8 0 0 8 487.5417 321.6 Tm
+(EQN)Tj
+10 0 0 10 302.4 309.6 Tm
+0.0716 Tw
+[(does w)10(arn about equations that are too long to )]TJ
+/TT9 1 Tf
+19.3243 0 TD
+0 Tw
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+(t)Tj
+-19.8805 -1.2 TD
+(on one line.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+0.25 Tw
+[(25. Use)-250(on )250(UNIX)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.207 Tw
+[(T)80(o)80( )-80(print a document that contains mathe-)]TJ
+-2.5 -1.2 TD
+0 Tw
+(matics on the)Tj
+8 0 0 8 358.2203 246 Tm
+(UNIX)Tj
+10 0 0 10 380.7164 246 Tm
+[(typesetter)40(,)]TJ
+-4.2316 -1.8 TD
+(eqn )Tj
+/TT9 1 Tf
+1.6938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | trof)25(f)]TJ
+-5.85 -1.8 TD
+0.1313 Tw
+[(If there are an)15(y)]TJ
+8 0 0 8 370.793 210 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 399.1844 210 Tm
+0.1312 Tw
+[(options, the)15(y)-381.2(g)-1.2(o)-381.2(a)-0.2(fter the)]TJ
+8 0 0 8 302.4 198 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 329.4784 198 Tm
+[(part of the command. F)15(or e)15(xample,)]TJ
+0.8922 -1.8 TD
+(eqn )Tj
+/TT9 1 Tf
+1.6938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | trof)25(f)]TJ
+/TT7 1 Tf
+3.8129 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(ms)Tj
+-10.2117 -1.8 TD
+0.0152 Tw
+[(T)80(o)80( )-79.9(run the same document on the)]TJ
+8 0 0 8 439.0155 162 Tm
+0 Tw
+(GCOS)Tj
+10 0 0 10 463.0074 162 Tm
+[(typesetter)40(,)]TJ
+-16.0607 -1.2 TD
+(use)Tj
+3.6 -1.8 TD
+(eqn )Tj
+/TT9 1 Tf
+1.6938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | trof)25(f)]TJ
+/TT7 1 Tf
+3.8129 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+[(g)-250(\()-0.3(other options\) | gcat)]TJ
+-7.7117 -2.16 TD
+0.1676 Tw
+[(A)-417.6(compatible v)15(ersion of)]TJ
+8 0 0 8 433.3728 110.4 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 453.9902 110.4 Tm
+0.1675 Tw
+(can be used)Tj
+-15.159 -1.2 TD
+0.0857 Tw
+[(on de)25(vices lik)10(e)-335.7(t)-1.1(eletypes and)]TJ
+8 0 0 8 423.8071 98.4 Tm
+0 Tw
+[(D)40(ASI)]TJ
+10 0 0 10 445.5121 98.4 Tm
+(and)Tj
+8 0 0 8 463.3086 98.4 Tm
+(GSI)Tj
+10 0 0 10 479.5572 98.4 Tm
+(termi-)Tj
+-17.7157 -1.2 TD
+0.3196 Tw
+[(nals which ha)20(v)15(e)15( )-15.1(half-line forw)10(ard and re)25(v)15(erse)]TJ
+T*
+0.221 Tw
+[(capabilities. )-250(T)80(o)-471(print equations on a Model 37)]TJ
+T*
+0 Tw
+[(teletype, for e)15(xample, use)]TJ
+ET
+endstream
+endobj
+40 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT8 8 0 R
+/TT9 14 0 R
+/TT10 18 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+42 0 obj
+<<
+/Length 4152
+>>
+stream
+BT
+/TT6 1 Tf
+10 0 0 10 277.17 744 Tm
+0 g
+/GS1 gs
+0.25 Tc
+0 Tw
+[(-1)250(0-)]TJ
+-16.917 -4.2 TD
+0 Tc
+(neqn )Tj
+/TT9 1 Tf
+2.1938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | nrof)25(f)]TJ
+-6.35 -1.8 TD
+0.1479 Tw
+(The language for equations recognized by)Tj
+8 0 0 8 251.3623 684 Tm
+0 Tw
+(NEQN)Tj
+10 0 0 10 72 672 Tm
+0.0754 Tw
+(is identical to that of)Tj
+8 0 0 8 160.4722 672 Tm
+0 Tw
+(EQN,)Tj
+10 0 0 10 182.1685 672 Tm
+0.0755 Tw
+(although of course the)Tj
+-11.0169 -1.2 TD
+0 Tw
+(output is more restricted.)Tj
+2.5 -1.56 TD
+0.158 Tw
+[(T)80(o)80( use )80(a)]TJ
+8 0 0 8 134.9169 644.4 Tm
+0 Tw
+(GSI)Tj
+10 0 0 10 151.0876 644.4 Tm
+(or)Tj
+8 0 0 8 162.6976 644.4 Tm
+[(D)40(ASI)]TJ
+10 0 0 10 184.3256 644.4 Tm
+0.0779 Tw
+(terminal as the output)Tj
+-11.2326 -1.2 TD
+0 Tw
+[(de)25(vice,)]TJ
+3.6 -1.8 TD
+(neqn )Tj
+/TT9 1 Tf
+2.1938 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+[(les | nrof)25(f)]TJ
+/TT7 1 Tf
+4.0351 0 TD
+<003c>Tj
+/TT6 1 Tf
+0.5488 0 TD
+(T)Tj
+/TT4 1 Tf
+0.6108 0 TD
+(x)Tj
+/TT6 1 Tf
+-11.5447 -1.8 TD
+(where)Tj
+/TT4 1 Tf
+2.6954 0 TD
+(x)Tj
+/TT6 1 Tf
+0.6963 0 TD
+0.0025 Tw
+(is the terminal type you are using, such as)Tj
+/TT4 1 Tf
+-3.3917 -1.2 TD
+0 Tw
+(300)Tj
+/TT6 1 Tf
+1.75 0 TD
+(or)Tj
+/TT4 1 Tf
+1.083 0 TD
+(300S.)Tj
+/TT6 1 Tf
+8 0 0 8 97 568.8 Tm
+(EQN)Tj
+10 0 0 10 118.0344 568.8 Tm
+(and)Tj
+8 0 0 8 137.0659 568.8 Tm
+(NEQN)Tj
+10 0 0 10 163.8776 568.8 Tm
+0.2093 Tw
+(can be used with the)Tj
+8 0 0 8 258.4823 568.8 Tm
+0 Tw
+(TBL)Tj
+10 0 0 10 72 556.8 Tm
+0.1198 Tw
+(program[2] for setting tables that contain mathe-)Tj
+0 -1.2 TD
+0.25 Tw
+(matics. Use)Tj
+8 0 0 8 123.6553 544.8 Tm
+0 Tw
+(TBL)Tj
+10 0 0 10 141.2646 544.8 Tm
+(before)Tj
+8 0 0 8 169.3018 544.8 Tm
+([N]EQN)Tj
+10 0 0 10 196.8486 544.8 Tm
+[(,)-250(l)-0.9(ik)10(e)-250(t)-0.5(his:)]TJ
+-8.8849 -1.8 TD
+(tbl )Tj
+/TT9 1 Tf
+1.5557 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+[(les | eqn | trof)25(f)]TJ
+-2.1118 -1.2 TD
+0 Tw
+(tbl )Tj
+/TT9 1 Tf
+1.5557 0 TD
+(Ş)Tj
+/TT6 1 Tf
+0.5562 0 TD
+0.25 Tw
+[(les | neqn | nrof)25(f)]TJ
+/TT2 1 Tf
+-5.7118 -3 TD
+[(26. Ackno)10(wledgments)]TJ
+/TT6 1 Tf
+2.5 -1.56 TD
+0.0022 Tw
+[(W)80(e)80( )-80.1(are deeply indebted to J. F)80(.)-252.2(Ossanna, the)]TJ
+-2.5 -1.2 TD
+0.2852 Tw
+(author of)Tj
+8 0 0 8 116.5809 457.2 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 141.1594 457.2 Tm
+0.2852 Tw
+[(,)-535.2(for his willingness to e)15(xtend)]TJ
+8 0 0 8 72 445.2 Tm
+0 Tw
+[(TR)40(OFF)]TJ
+10 0 0 10 99.5484 445.2 Tm
+0.0469 Tw
+[(to mak)10(e)-297(o)-0.4(ur task easier)40(,)-296.9(a)-0.8(nd for his contin-)]TJ
+-2.7548 -1.2 TD
+0.5238 Tw
+[(uous assistance during the de)25(v)15(elopment and)]TJ
+T*
+-0.245 Tw
+[(e)25(v)25( olution )-395.8(of)]TJ
+8 0 0 8 125.6695 421.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 142.1109 421.2 Tm
+0.1508 Tw
+[(.)-650.8(W)79.3(e)-400.8(a)-0.3(re also grateful to A. V)129(.)]TJ
+-7.0111 -1.2 TD
+0.0242 Tw
+(Aho for advice on language design, to S. C. John-)Tj
+T*
+0.524 Tw
+(son for assistance with the)Tj
+8 0 0 8 206.2312 397.2 Tm
+-0.12 Tc
+-0.05 Tw
+[(YA C)-120(C)]TJ
+10 0 0 10 234.9168 397.2 Tm
+0 Tc
+0 Tw
+[(compiler)20(-)]TJ
+-16.2917 -1.2 TD
+0.029 Tw
+[(compiler)40(,)-279(a)-1(nd to all the)]TJ
+8 0 0 8 168.0302 385.2 Tm
+0 Tw
+(EQN)Tj
+10 0 0 10 187.2616 385.2 Tm
+0.029 Tw
+[(users who ha)20(v)15(e)15( )-15(made)]TJ
+-11.5262 -1.2 TD
+0 Tw
+(helpful suggestions and criticisms.)Tj
+/TT2 1 Tf
+0 -2.4 TD
+[(Refer)18(ences)]TJ
+/TT6 1 Tf
+0 -1.92 TD
+1.084 Tw
+[([1] J.)-423.6(F)80(.)80( )830.5(Ossanna, )910.5(‘)74(‘)]TJ
+8 0 0 8 165.6613 330 Tm
+0 Tw
+[(NR)40(OFF/TR)40(OFF)]TJ
+10 0 0 10 222.1664 330 Tm
+[(User’)55(s)-423.5(M)1.7(an-)]TJ
+-12.5166 -1.2 TD
+0.066 Tw
+[(ual’)74(’, Bell Laboratories Computing Science)]TJ
+T*
+0 Tw
+[(T)70(echnical Report #54, 1976.)]TJ
+-2.5 -1.56 TD
+0.0281 Tw
+[([2] )-1055.9(M.)-278.2(E. Lesk, ‘)74(‘)0(T)80(yping Documents on)]TJ
+8 0 0 8 245.1814 290.4 Tm
+0 Tw
+(UNIX)Tj
+10 0 0 10 265.1775 290.4 Tm
+-0.074 Tc
+[(’’)-74(,)]TJ
+-16.8177 -1.2 TD
+0 Tc
+(Bell Laboratories, 1976.)Tj
+-2.5 -1.56 TD
+0.0246 Tw
+[([3] )-1059.4(M.)-274.6(E. Lesk, ‘)74(‘)]TJ
+8 0 0 8 153.0968 262.8 Tm
+0 Tw
+(TBL)Tj
+10 0 0 10 170.9521 262.8 Tm
+0.0246 Tw
+[(—)-274.6(A)-274.6(P)-0.1(rogram for Setting)]TJ
+-7.3952 -1.2 TD
+0.0998 Tw
+[(T)80(ables’)74(’, Bell Laboratories Computing Sci-)]TJ
+T*
+0 Tw
+[(ence T)70(echnical Report #49, 1976.)]TJ
+ET
+endstream
+endobj
+43 0 obj
+<<
+/ProcSet [/PDF /Text ]
+/Font <<
+/TT2 4 0 R
+/TT4 5 0 R
+/TT6 6 0 R
+/TT7 7 0 R
+/TT9 14 0 R
+>>
+/ExtGState <<
+/GS1 9 0 R
+>>
+>>
+endobj
+9 0 obj
+<<
+/Type /ExtGState
+/SA false
+/SM 0.02
+/OP false
+/op false
+/OPM 1
+/BG2 /Default
+/UCR2 /Default
+/HT /Default
+/TR2 /Default
+>>
+endobj
+46 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 701
+/CapHeight 0
+/Descent -298
+/Flags 4
+/FontBBox [-167 -299 1094 827]
+/FontName /LHEFAD+Symbol
+/ItalicAngle 0
+/StemV 0
+/FontFile2 47 0 R
+>>
+endobj
+47 0 obj
+<<
+/Filter /FlateDecode
+/Length 28809
+/Length1 50284
+>>
+stream
+H‰äW}tÕ¿ovgvfwv9œ
+UH8‡ÖÊGÃG¨XRœ˜rc –C9Ìî¾ÍÌ~03›lh…”Hù )RÑZšZM)MiJ-Rhù[T¤å# *¥ ÓHï›İèñÔúgŞ;3¿÷»÷¾7÷Ş÷ŞÌ  pŞœıĞ#÷Ü{faa9 ¹¥óü†¦ò=¼ÊÍÜïÈâä{¸‰¡ (8|ëŒeT(^øöÊÈGT>Š—EZ†¿Ñğø6´‡2­2Ô»ô0Àú¡ ÃS%xbÇºF€½c°ÿ¸0
+ä}Ü3 ‹Ñ††#fr½»¤
+ùÛ ÜÇ†I\U,é@½¦ÅJÁ´1‹ šÑ?òTDIÆÅ£Òë8^ÔçF¨©¼•ø‚P7G•Í©}`O6Ú;â:_Êí×
+°mÄËq=¯<0w@mê¿g-Y<8¹ÜJqu
+Éq¸:¡WA?Ì'ó>è_âñJİ lwtóu×ê „M\¥±W—Ü›øç(à ÜË`7	fA3Ì…ó¤&«`$YÚû`4B+^ãa$ÌƒzG3tÁaØ×n?öÁhÈ5Ãt(E«:à¸A\åëI3ø¸I\ÙuÜbò<Ì†¸ËÙWàQØæˆ@¼ÈÍ…ÇœK9pğöÊ&z0™›ÎqÒ¸êSù9°¶B=Dg¹¹®Bè 	Ãq8ca<ç‡5àçVÀN8LšÈò)áÁÒE’"Õp;FÒÌ7ÁÜÀ%wÀ$p:Rú"ÔçÀİè?»Bû~~Æ?ƒ\À^£a#¬CùF(â·"Ûà‰äÁûPŒõnäUóÅ°„8ÌÏ†:ôğqa¥kr4’<lUó­„ñ€~ğ$L€!Î»¸¹Â2k+?w„«€j¸ÊUóÛÈIXÃ×c>ú‘:¾šó“TN¦C	¿
+5ı13CçàŒäÀ¾^!#¹lœ›—2¹y•?ËÉÜT!çù¤ƒÜ#|Ih$<pÕĞLÆ
+÷CÉv’	‚Oãsı˜Á¥ßí^¼pûÃÀ&aĞ³¡Váâ	œ„ã˜¸A×'àn:	_ƒí5ÈW”…MÖ®ša†¸õM¦ˆÅ… D-d­X/ØtÜK	K7.~W-îSx¤2âiĞİG‹çD&#>€l|§xwBŸÍFªä<›ÉI?\z-¸p&÷õœÌ8É	î¬±lLëë9	i™œ¸&—HÅ}='ÆàLN |s‰Ö÷õœàG)	ÏYxn”fôõœ¤N’î‡?ßç7›}Ó1•¼®23»O­_¶˜zú¤I€Ì¼ş2™É¾ùXÖI ŸÌægw.îc|§á¿€ø=Äw>~põâZÎ”k¥ŸäßÆy'‚ÉTkÜÏX€¤ÏXªª„hÌÒĞ÷m\bcµOØ¸ÔÆØ¸ÌÆå6®°q¥«l\mãkl|ÒÆµ6®³ñ)Ÿ¶±ÖÆÚ¸ŞÆglÜ`ãlÜhãm¬³ñY7ÙøœÏ;§$ôØOÄ™qCÕbÑÑ/5š0éO%]P´ÍbHW¦‹şLT£!5ªš•õBH‹éjôçÎ€–ğ¿è
+ªJÿà~Áão˜n¾Äq%H_–]Uøcf¸!ÕÔhÈü¥Ëj&â[ÜVCWñøø«”>«ˆn‚´L§ô×R\KÌ£Q0h ‡ÿŒ
+Å¤ºå×61’ĞL5®UşVf¿_1ù¨hM8ú *ZP…~'øšFÍíBP-Wƒô÷"ÆmuÅƒ –+è<JÇHZš"Õ4büÑc¹UNu“&wÊ	cÜir—/€TUÊĞ3¡Gwó8R<Ü,>ˆÙš’?‰%vk§‚ªT7L]1Œ½¾€ª4šöıÏîgÁ¶ˆ47+j¶ÊjãÄ°YLm|"Šğª…‰Ò»QsŸO§!&Ó|¿„±	?6ÈiSÆÊiCÆ^sQ|<š‡Ü,©öë¼-Óè_Ä2]	ª(ø«W§eªa9¡«¡Ã¾ şàZseñ7|MF}¾Åßtáƒ‰€ù–‹P´#®`ÌŒ(føm·+c|ÚÑt[‰ÿ&Ùí˜ş÷Tjƒ~-–cÆÖËqwš%â'¼é¶åÉÉŒ![8í.-¶FËè)ÉŠ…u>-g¢P¢Æ;Ş ¾ëí‰é{’‘ˆ Ã˜é3l	Ñ(ÁŒŸí!4y®‡øÍ÷½~Üó©™2ü 7¥É{S¿yŞÃ(M™şCÎˆ¼Ğ£ò›ÿtY„&/ò¸&5zÉmEcyı‘È–N‘vÙn™ñ+™6Mş+Óö›WeËW«§ÿ¸£É^ÌoşÛg»jÛvŞÀiò“¸ßìJ¹o[_óö0Œæz/¥ßìv}5õ¦I¿Á¥½+€Ó–+7jn®©NàK=aÄ6o©¬»¾”/eÌi]NÛ·T§ò6V]_Û<5îO´Oj‘ÇIõ¾Ô= e¾¯yj<5r±ç˜xFJJ-·K‹İ%òv©…/õ¾†vËq´B÷ k¤s.Aœ%ÔJõ|¡TÏ$R¾8Ëz
+Ş¥z— å{ÂîN×»xsmqŒqmAù§Fø¿TÏ9é¼ãŠØÆ5°,ÈvÉnÈÚ'Õ³K‰mB-óÃÆçÎIÅ-¶eƒTŸîåŞîNy{Ö>¹X.ö`wO¸we\Ş,oö}İ;‚eÔ–ê±gf|×9¾éåZOXÚSñYV•7ó…N¿»“Õ[õ©y\kÂ × ²ø7ñ»ï@Y	|ö’Óş_„¹·HğG© ‡‘O27<ë†Ö­í
+ÚZŞ¥g]ü?\Ä’ù7‹
+z;d•;mUa­z-ŞÍní¶qàÙˆ9§÷*ò7ö;U´ºX|y÷”E—GZò§ó/>”óñD4i'YÇä´ættåmÒÜqö¹Ë‡víº´[Î9z¨N¡ÁÀªis »µ[ÃçÃòpØíd3«x Æá®-øõeÛÄyÆñçı°}1—øìx`RFÎÎ¬(Xi—‘‹ã‡Ñ’QPi×‰$|j]Û4-%ç`¨¡A$!”PP)›Ô¡2ºVÕPéä|” ÚÒJ0MºRFº­É0ö;Û$Et€„„ö¾º¿Ï{Ïóû?ïÇSŒDêú1Ş™ÓôVuFàÂ%YM1“UŠ½T©t×ˆ%A;¿¡\t‘İëÙD?Á>–éÏ¶)üşº/\æ¼B¥œ$w´Î:2fQtïnm²4ëµQàF_’¦ŒN=ÌÃ½« ¿Õ‚F£^* |¡g!5ÈÈv­Ï,,8„‘Ê!¯ã÷²š21°İÏ‘ñ5ŠÁè dTüÄƒ_§2ác5¿Sg¤AÅÊ="ùÇÉ•í-~¿¢ÌWš7:F»&Œ\wŒƒÃâ8¬nVígH©ø‚ÎØd¤Ç7··_æH›Aàr›òåÎ4#T‚Éîù|Gö"ë®*n2JÖ¶ÜuùµËsBÈÈG>­>Ø¥jÚO°¦>ôÇeRÅµ²ıÕÊüñsgq{–
+6*.dÌú´úàÅI¿êuÛ'º>¢íƒmüğ‚ªˆŒµîj	E¹T€B¼HkÔı»<gæ{ŠÔâÎÅâuÓ×ve‡²M¥B·PÏ¡’˜ìÊV¥¹İ`ìL2:Ä&ëÚ3c­#dW”÷ÏXZ
+UãºgtĞ-íù¹Ç6‡Cï5WæOøì0·¨[ÖE|:cNÓ§³Ç¿ùNÙ“3íÒÅŠØÕ9›òìn% Pì½«jWôGpÌ‘V­ƒÌì÷÷KÙ±ˆÎø¥ø™²x’ËÛ¥Ê²ÃšÚ(!#ß&ÏÕ ÓNÌãz¹{«Ü¼u:c™˜SÚd¥?ZnFF‡CÈ)mğë\*÷Õıíù’£jÙŠy|"È¹¬†4Í§µ]j.wTxoµ®j	K”zÏÒ~UtÔÈµ×úÀ¯¿ƒT
+ö–×‘Xr>N3Ïñ×<t¦> Ê’è eûØ‘¦³»}mìD[üñÄ‡vß¹ÙŒJ’Ñ×àm*¦ãMÏI7;$\J¡†0Ï¾Ø­øü…ËQµ4Uæç;dD:LÁøzYóLOÅDÇ càÜ½Tæ)ÌûCâÚ5ÜˆC‰2†}¾âxŞµF’ˆ3uürñ¤‘ÂÈè!€¬8Ö {3Üc ŠyüÍÏ|[yìKæÑ%Z´"hvèy”mç‚¡æÄEÈ¸ ×ÌF;ßÕ¤¯	'x’±¡ÜŒìv“7Íøõ°¨
+{zóâß\Oç‘À‡ŠIŒëc]ßĞé˜ÒztŒ	v«c@Ö¬£AFÍjÏ3òxb“§ep}>.H¯™ª “n<¹IÔ……[çœÈ|ç£*(Ëòó½‚äÿëHj<{O»š«äub—>îz~üÏ¼Š=—-ùé¡¯;Çnô5ƒë»tí…ù©ù¨/{ócRi¿P
+$ŞsşÔÔÖãK2á@Xv”à|ì@¯r	X¥c>¾¬ï= èŒ³Ï'scAgİ†—#cõWñèÓ«-Õ¸®gÇêzë=£¦ÅV´m9Úß³kÅÉâ“YY_'ÎuÅºŠ£ v>Ücö,EşÖYtüòë®_÷^YUÛ‡{O¤8¸ ÔäºöøëH\`š¤2B sjõYÛØ[r“ëº.´":£(„uM¹-Éµ·F,ïÜë)–Û¢©í^|“İ¸¹¹ä¨ïvR!PN±AJmth3”o;€TŞô´§@ºh©KmdHİen?2ª¼ÛƒŒBÚœîƒ77—Œ!ŒŠ:cÁFE®H2’AF;õM‘f´õIÜ2Œd<ÛRcU9$G,—Ò†ğw)YúÉ[¤ê#Ü`œ&×ö'a´AFuğéTç‚Û†1Ü	k3Â/e;\uhwRXÁ#0Çã`"L‚)ğ0òyñ•=ƒ¹ğ$,€Åğ~×¬„5€—!› 	Z¡öÂ>xŞ‡nøœ‚³p.Ãø7Ä‰…8È$üL!/© sÈ|RC!+ÉKD#!ò
+i!;Édy›$&]äù˜œ&½ä¹D®’ÿPB-ÔF4‡ºéú }ˆª´œÎ¦óèSôç´Š.¹õ9º’¾@tİB_¥môwô-úí¢ŸĞ3ôúÚGûi‚™Y&û{€Él,›È¦²"6ƒùÙl[Êg«Y={…µ°6ö&{‡b²“ì4‹°‹ì
+à”‹|8wó	|2ŸÂÂËø£ü)¾”?Ç_äõ|#ßÌ·ó=|—ÿ‰äğŞÉócüÿ„Ÿâ½<ÂÿÎ/ñË<ÊÿÉÿÅøu7Q“Ù”aÊÄê$<qSI·àûá
+áÌD2ˆ…
+8s‡3EçÔBÊŒƒ£ÅBŒJoœŠ¢ÁJÍx£Æ‘‘ºCÔJ¬4ï­Æ!èVlµaKïeÂV±=R†îÇÚŒ}Ğ1áUHÖ”E¿ê–aèÍ¢ûÁÊôö;QxıÈ…*ñ/©NC‡1¬ÅF²]¡[0ì–4³™2ˆX™ˆJD=w˜=ûèÊ‡¨Ø°#»ˆZô(z&ÿTaA½†û™+ÇX+ÚL„›­fôFÍ&Ã¦Ÿ	ÚğY ˜ƒF}' OWÀ.ëv<›±mÉ=Ú#îK1ã¦ØW/—ä `ü½ïE¸}—¡}-uo¶E]¨er'Ï|n‹ıßiqÕ"È¨e^'—ªZD~Ÿ´ğoıº-!Z²„µøKQKÃ½Ñ’ÛÓnmÒ/û›Ë]j!‰HºÏÂ!Z†ëZ,à÷ïJË¨ÿmö-5¬ŸS?`˜Fn­2¥%e48YWÏwû‡ÓZÚñËW£FØ]K–ì÷ú’Z"Âö¦ßc<ZÚÎ‹.ı¦GÃ_«@(şh”T×Õ•¸ó¬í—j-Ñ5EÅñÑ¹_%}a[O¢¸8¡6‚†ÿ2_ÿ±M\w À¿ï½‹}ÀÅ9'©wÏ¹ü E«Î1
+AÍğ%„nÙ
+ÒúcÒVÆFÁ¬İˆ¦(¹„ÄI&‡$¥“œA™ø£[»Ê¦­ıcœcƒS-lZ'&MÅV$˜R=ÁFPİÜŞ;Û!”_ÚVi{–,û|wï>~ïû}ßçÔ­®°ÆŞİ¹/´vƒ«Ñ8:<¡;,¹ú¶ı¶eûøİÖUİúòKÌÈ˜‡CÌ`sl {Qú†[a¹ebUÀ¦Òú (š¼¦u¦‡³{˜lxé2/*±şX´ZREÉ!‰qA
+†ëí~Mo8°yvà¼EÒe«/Ë"êK™f51İ”ÁÉ¥ç£G¹˜€¥áa·-ôøtØl/“ p!%.ü ò1K­~he–«mÍ59ËqÂQË,´û¢³İÚeÂ{º5Ëâ‘:Åe[ZEı’ŞàqxœıÉ8ç·ù| lÀ‘í;—,,³(ì¿°›,^PT€H-º&xBÖ¯f©d§Ûn[º3õÔB;*ÌzÕ²Tc­ËæüŠaÈË,Cœ1'´útf9{óÂ’åÒõÇzÛÁ™ò	V9%x%9‹À,JƒâÒcSGÜĞàq•;!"éô.ŠÏ’`ÎÈYĞ¹D§­1D6éóB0÷N&í×/î#gÑ…!j‘OÅÔ’ñn^Èˆ"Ÿ“dÇ1Ÿ·ô„ªëùF}²´È>æøBÅ|¶ïØ1}~®æÛ»¸ŠnZ‡ø£m‰­ÛfIš#K–ÙJÙÑfo¬+=N-‚¡Ä÷%Ú‹½60ŠµRğøzŸoL9¿Ú].WÌ¹§»CY]‘rósFÂÆ,¤öâá’®×ŠÏİlLGb§ûN¾sìæklZräûÔ¢~AóIe[2/ÒıeÈh€‡ÍHÿT6gyn¤s³x¾*(ğÑtmZérôJ“ÎÃPéÔbWÑod´ÔWµu»æ•¦m&ßÖ\.j‡,Ë£FK$—Û°,•—µ½Zu´×m*«j+£=@-f4î¡–Ú2f9³+¥)^Es/<ß?hYlåç\îô£c£›´t$˜şCàÂÅwË\Dm~È,‚¥ôLß™³*'ÃˆÙ¦3èLv¥ÇPÂ²<iÓ6úìåAA<¹t7ÑS›u£‚¥/0«úL~bGin™P¨¥u›ÉY–ÑGM2ï?"z™¥L0Ôm½²m.¥ ÂI3¾lK4ş#,«uf–.PAV|4hÍ1›'îRÒ¯OM¹uj	¾¤d2»‰«:ÑmYÌÁ£âğ^ZÛ.êXeQÄ‘E~¼.™7X–gô¿ÎÎï»&/]Dı"µÃì!7züq1å-ìb/#;<Ì"ÑqIZÙf©İ?½¸ú[&µèÌz¥ıJL"CŸäÓÂJÎ²ÂeµâakN-b%/.gáã‚òÖë;¨%6ñ[–`Şb«Ş¯
+0ÇMóÒM«XçûÌ„*ƒÖ,&ÍÌp–%ŞEõ£Á¿aÕ˜e€ZúÌA˜¥sŒ®/³ÃæË[éÌòW§é£ÙaÈŠ—ËÂâgø=û¯g‚K:.ÍšBuö äWÂVìGãî~ì<'şŞŠ}ÔÂ·`Á–·HÔ’¶,ÁéH]ğÍeTsÈ n”ZúÆ¯Æ¥F—‘ÎÆ¥$?ÇŒı)Éß¬
+®ìWW"ÈYÔ6B_;ÑA>KWÉuùq‰'ÛhíÒ_dYmÍBŞ2 òs¡„KÒu¨äg<Êj	ê-§¡?Zç#¹œ—b„Zö[9sŠ ´ÏQ‹³”Ç%j©›rúËÆ<ÁÓÛON4USKp„ÅK;8B©q3`ïañÂ~dr&é°æ2®IÕÒ >YFÔUdÜÂâ¥M„ÍÉK!^†Dš“iºg–³Ë,1¬ò‘©z	Â&µ½­A¡ÓKó˜‚Pt§›Ğµ’Zº¤"†EÅZ+íYE¨è1Á£u°<¶ör¹»ãÕÊ±ŸùÖTŒ{ü/üù­hl¾úéo?w*FsrhÑ1¼×Kt¥"ºtĞ¡ÿB;´g‰@KÃÓë›?:B×—°º"šm§@ó˜"ƒL»¤?Ï ÄÄ|+Â<]+n„®•,'ª¡5o»5ìx|F¤–ÔuóŠ±ë`Ì>ç¥}ùÍƒæï¦Çæ³½æxöXVlôz+Æ³Ù€=k.*²Z§i šùËGc¨2’ŒUÿ“÷Ç7Ú!‹ø†çS§k¥@#­•4¶DĞ}{–ËÕc–EmÜ=ÚlOt«|w_a}1dZÃä,Mb~}Á˜÷¢Ø?²,ø¶™åö^‹€—Ë?ß§é`!¹3: ™=,O¶ğçO’õ5…óé#±ÇºG+Ô­?&ç¿ tê¬Ú§ä³œ g[7³ˆKZıW–õ¡–ûßênK‰IÇËÔå{^¨ã×¦¨GÁ9¢
+ºÑ–[¸»N~P³ßi	ê÷² ”¾)o)~À½
+––‡öšo¹N©%`‚ÌSK_–,VÍÿï4{î]÷B •¿Z½Ûbè¡…ÜGÇîU°ÜgGww+XÖÉªe)MXfù_¶‡î+ïİ­P©xÕñÿcùâø¼Eø-˜†Ã#ğiZÍ×Ãç¡	¶ÒãSğİÌt@ì…¡!/ÃQ8¯Áiø%ü
+ÎÀ,\€?Áûğ7¸‹h*E^ô(ªCõ¨	}	}íFßEhA'ĞÏÑ¯Ñz½‡.¡«èè&ØKñ¼+¸7ã'ğ“øiüuÜ…¿…¿ƒ{ñ0ÀSxÿ¿‰ßÆ	ü[üGœÂWñu¼HŠÈJ²ŠˆDú^Uä³ä1ROHi'Ï’ò<9@FH”L“Sämò’$ï’÷Èûä¯ärƒd¹"ÎÁ¹¸n-·‘kæ¾È=Å¹}Ü÷¸!n’{…û	÷ÎøíUÕu…Ï½ï¾·wpß.¤¬–™}»,
+6*¢m!RÙğ£µ£­‘!V2LDmZY`£»Q@%‘PÓJgíL˜´5#:“IíŒHkLÚ±c'ÊøózîeÁ¿µcîÙóŞ¾ûsÎwÏııØûì#ö	û»Än¨\MPuŠ:C-Pg«%êBu±Z¥†Ô¨úººSíTßRßUªªıê§êyõ‚ú¥zYRohDS5Msk‰Z’æÓüÚm’6Y›®=¥ÍĞÖ
+´"mÊs âeåjìæC$P©FâÀJlÄIÆ 'è˜XÁF5©*–Xá6_D¥*ØÀ†m8±Aq ;>Ç;ªvœSqàÂÿc@¨sìX‡cı8ˆ¦èÈhÑ"lY¥-5E{‘c)
+æpiU´p+µF±íÃôğıDoQCÇH§nÌC%ß\"øå?‰º™(w(N‡-Ü¢¯"‚(Øw"…¢ˆo8ÁÆĞ
+µS;‰ÇõbTŒ§‹S±)
+ÆYAÁ¯¶ÔU–É§UÔÀMÁnšb›âX3/c„\êvü/Í‚Ç²CüÿÉã@6E}z$ü­¹xğíà’Ü©‰~Û¹ô $œ-ò}}šÒ¼Ö>Š§œ{]ß‘µ”?	‘Ï@IfCÑİœâŠ®Óï×àÖMp4… ªäÉã€ØÍB—f‘
+eÀÕÛÜ¸^çúSw©®‘¯¥àö‰÷Â†<_¤C IìYpa”3Hœ™óÃ³H/|Î½ÕYæÚ9oÏö&}6Ô×euÂ«<ˆ$Â„!qm‘÷5©ì¶ìbPx0ÔÌx“-vN2 }_£±p(¹¹jõ¥v:_vö¥›Û	ïH1é)Îˆ&51ğ|Ş[•ÿ<†hn+ûôú@‘‘7ÖêvJš#z×®ö —HÈ-$Î¼¨¦ÍÕÖ} #­J8hÔĞˆäè¸¥Á’ŠôâXÜ(­¿ºÈ7Š¤47wQ."™|N"‰ÿëÕŒzºµ<má½¡ºÇÃi¸ÈXS›’ÌİSoKH(ÔKÊwÕæ!’%ôOkÿå*RŞØQĞ÷—]…­)VCçÚ¤¦C­'7Ù©	Å{s(F™,iY²á™ŠôMïyû]¾|¥Ÿ¬Ì˜ïc(ÔCâ.=Ğ2ßçiÈËù¯D’ØñìØ!{×mícg¶«<¯ÓõëlÙÍuçZC{±=ña¾^jadókó*ê;×¶¯X›QÚ’QŞi_ñd¬>Úß_mš.3âpìJ6{¯ƒÅ¬ÉLZÕ”¿l_Bªnòğ‚9¹%¾%f`ñ¹ÛlnØİ^âò4ÌË9(,MÜ\ì?¾ÃÙ©š/ê¿"¿=—?Ëh®DƒEmOü-¬ûÅ^.F'-Ü]Vÿ{-PV:kª.‘¤5rmŞV< ÚDLŠ¤ç—]åDŒÎBÇ‹mÇ+2<]÷r§©§­Ì½ÖJJÛ4Ò²í`1‘HÖ%l¾š2U±2Hİeù$ê×+Ï–Ş"—o"ñ¹‹Æáèpİ¯‡˜.‘D"‡Ëê;£·¸ôNº¯ôu5Šy2‘@÷Î†}97qt|s/Î=]1]"‰pj¤ÍÉ ß’•e»[À%|9<cyqJFG$¿ëZï7<àâ¶v½6Ğär[ÅŒué~«6Î¼‚-‘È…õE@é‘XL^ÁÄËë¿	†t–D€è,¤‹µS]y¡²×Nj‚aÂÌÒÔÃağé$ê•£ãÏÍ1O¦ÏØ±‘ŸŸx…ƒQY9yEÒq€	×«ß5Í¬£kŸïêòF>Ë:™“¹ü€¹!çÌ²A¨Ø7{Z$º"ıäM3Nò¥l_~Ì°l÷vë5Tì¸Ç:nr±ŠyçWyÓëÜú^|Ÿ˜±ƒº©¯Z…H ÊÅŒuø³³!‘ŒïHb{lãÈîtŸ1(Tl5Aâá†\“"Ÿi²¡~o3ÛJFóW†à¶<3÷XŞ‘ç‹ÆÎFéë¾I²<‰¤¶øÑ”8Åïn«B6°&×ù†¶Áí¾1•{œİPk G$Áfíoã~H”ˆ;’k€_yº&ôPõ¿½D\ÃHj‚×8ˆ‡ïB2L@F5	2 f «ÊÅc¡™U	<‹0ö?‡_À2äV/Ã¯á¨ƒ(¼›au@'ìƒ·‘_†Ğ'Ö§ğ|7ˆŠ÷f7ñ/O&"ÓÊ"¹¸qÍ!Ï’ùäg¤‚¼@ªÈËd©!¯’zd^[È6ÒJv’=ä-ò'òé!GÈûä4ùˆœ%ÿ$ÿ&ÉWä1)PFmAÜÔƒŒÎG“éD:‰N§3$¯›OËi%]NWÑ5´Fèº…¶"³ÛÜn/İOÿLÓ#ô4=Cûéy:H‡Šì.AIRÊ“Êt%[2³RäfåJ¥²ÙYU•&äh­J‡òå€Ò¥WN!K;£ OT®(×©cÈÖ¬ÌÁœÌÍâYó2?Ï&°ï±),Mg™,‹ıˆY›…2”{ØòH\J¡LÜçÁ‚,ÁŠÜ	!È/&UÁ›¾w	Q0_Şê±oõÈ7¬8‹8Ú± 2ßÈ†™—Èå¢\03æ&’¨'ìqÉoj6Â'Ğ“ğ1Ì/Ti[´à¾—âh[ô†"›C9,’µYˆcØ¯TÑOÁ3cØˆC±`aşgC#9ÜÅ;cıbÇšû û#íKÕ0^#,U½%Èc5ª	F+F„q†<TE–É§(ÓpıZF¹²*ó¦à­ÊhOl|Ù·Ìü†² ¸<Ë¤m¹!+QY)ëRoØñ”7ôµUïMŠ<;Òc_xl[Fš©Ã>úuîÇ7¿­¡åªô; ıæü$c¬'¥~ÓxO¨gÁßuÊ“-á‹ºt'|b¨ïÊ?~•¼ñã‹c~aÙø’Yg «bÃT„½ß©âGjùŸC¤>$ÏH§AfÕàØ¡C;:tì¥áøõ3ÛÑ¯;Uúí(^–ŠÄvÚ›s›)‘Ÿ.Om(w|ÿ#¿|€£¨î8ş{ïmv/¸æ6!È3Ş4Q´k@Iÿ˜l02I„š©úo	(­eœ Œ¢òÈÙP#†šÀ´à(öíİË9L˜f:ÚêHË`ÇjĞvz‘xÛßÛ½$—ÄN©Úé8¾wû÷ıùı~Ÿ·¿½ï¶ı~ÎO_W©í"h7,hb Ø·œ›jOà‡jĞ—âÜÑa¡Í2Ü.{°ÚWXpiÆ¤Ğâú—K7}$·jkmWIŞ½Ea÷`ââÃõPß²øø¢9†µ¢næe7¾U°¨¨îÖ½¹µ»¥¢sfhCv^»«ëï–TÕ\=¸üÃÇ
+4z|¥†™jEËt0µ'âù¦äG5˜|ã59û
+‹ûÊËekßËô¿±»ş2™£ñî‚Ç®:°¸ª«¤xíÎÔyÇ¢×~i<	õ‘§JtòºŞœÕeÕû…İoşºå+¾ùL$·î½û}îÕš’ç»
+­è†Ú=5uaëÙµ}9(ZyÃöûÇÒ`Jô‘™ß_S‡Ìõ9ÚÖ;w×çğ)S“Ï¿ÿÂŞWv•T»¡NŞ‘¨é8q°¾u]É–Ó œ9ã­.Š¬Ş–[»SÊVm)í†öŞ·»f_nuı®‚e‡7ÔöµÓ-Õ"İ“·qí|”kGŠ÷¶éAóå0s‚[·}ùÎœ¯öÈĞuìæ9n¼C=n¼¾Úš~c=li¯,Ùbé„HÑÎª–‚êP$´}ÎO†²s÷·Ì@»×l¹ûéš½»«ñäJ´[Û£h°9òÏ¯ñr Ûª$jìıïï™RéÈ5ÃEæú\ó®»i64<#â}äÊ&
+Û¼µŞú¶ŞvlîaZ±ÙÙĞ¿¹Ã°~wâÏÎà+œyàÄó‡ß}oÕ»¥ÇQŞ”€×Š»zo¾¯aõæ§Ï\»ıú¥m=PZ¾yšXßœ]ñ!Ó* ?0ˆ|Cİs¥+ßš¼Ã]ßdCÈvçáúN—BU|úÖ’¼â¢È®B/3S¹øq
+	³ B“Š Å“YbD6í‘<5‰ê«‰4«ò„˜&šIŒ+¥Ã3MŞåh—ÛU¨¹wä”İô|.8'iVlüÛvmÏîÊ¬FÑf¤òˆÚ¾YÎÉĞ¸™DëãeSiÕÉØëc,}‚â)©Èƒ j©B(†Yp-ª©¹PŠzªõÔ|¨[`Ü†zê{°–Áİ°V¢zš`#ü¶@'ü‚=°ÀK¨©¹Šê8œ†·QS} 	p#—l2UÕtÔUEäjTVsÉ¤‚Ì'5ä¨®n'ß!¹‹Üƒúê~ò0i"-¤•´‘ÇPam#;Iy– ¿B…õ[rÄ>ƒz˜! "o’Sä,y‡œJfP?Í¥W ¾*¤WQƒ^G¿JMZI«èBZOo£ß¦Ké2z/]M¦a¡íô	úsÔYÏÒô74JûèúGú&Ó³ôoôïôË`—²É¨µ¦± ª­kØ\T[7±VÇneßbìÖÈV±Õ¨¹b³u¨¼ZØ&ÖÊ~‚ê«õW*°n¶“=Åa=lj±Ø‹X_"”ÔğrQJŠ ÄÿöÔ>÷(¡FÅ+Jİ‘¼Wq„ƒº‚zã¼±Ãg¢MÔIî]¯Ev[2\!	£
+ÅÍÏ³áîE•¼£ĞKi-%Ÿ×íRaûÓ+)¡Ğc\
+è•[Ñ÷IØ‚•F<RÒ|”i&í^|>šéúæUe¸º3yPq‰¸iŠf‚˜{RÊºhG2T­máS“AO&)’˜Qbúâí3D‚A»Èc¦áîmĞ!]SİÑÆÏæñù+VUgø¿	â‡jùR‚bã£×å¬MC%¨p;ìğóà$¾0,ja,‹ıACÏ…|	ïÛ÷¹bÁ?ÅØVÃ‚AÃ'XHoGş¿,¬ÿzÿäÆˆP‡ãXhªFì‹æÿ%‹¦(6øG¬çOèa§>PÿM1'Şò&#	ÖÅ8àğ4uÌÄdê±`\
+òÖ±,Ô‹˜|¤Œ(éÿPT²íá˜ÊRcã#ÍÇSñ[?RaÆQº-Üİ+NùÔä„‘£E—Ó¿22 …ß9å±P E-Ìû’“¿Fá »İfØÍv#a‰ü¦G™òµ×¦ÓZ é:ß¡KÏ'$…â%ê$ıÍÉrT±8¬ó;'MN~ä9¡ °(ğÌqoÀ+Š@³¼]tùÁ"Ö½BóX¤‘O±PNŸÅ³!b¤{æx ùBs§œşõ’)qÁ‚qXàõëa™ÇB–EË0‹˜$«ÚU¿»D)\òèÉS®6#å=c	·5Yf`õ3•¶%oHºaá/ÖéWgsNb:G­ı²ê}äY'ŞAÖGÜÃÿ’Ù'E–è´,- )¸Íói!÷b”`AÃ*«ˆ¡À"ƒãK—,Ëj¨nÖÇ°H½/øFõÙòXüã-ÉeqÖIƒ¡Û ¹ØgÍn]•¯H%ûû´”÷Œ†ÍKeˆ[\v±g•J†né–m“ÕlÎY¸n_Ò­¦³ÈÏBòüó;\Ä±&¯Óßˆ‹N+Ò
+ñ4£ô„ƒ¬¹O6cèÙxmÄ‡›hjzğÙ>Û°Š›…6EØœO6’õ¹uÜc1ùÂûXôZº0¢bĞ‚ëÚKT¿J83^ãòå½‚Å(•a©n©L%z”{,,êÑCTÕ¢(Û®³Hè³›³”“áz¥3¨¥uÃˆ7½£–*ƒõœ6İ6bAdÁTÃM$ë
+0WÚ–ëy¥é²@8“¾f‹Ø9É:\…~£×ù 1g“ãO–ŸNbVfò<®§±ğ|@,$ú{skmŸËbªó!²X?Ìâ¬CƒäeSçr°B»=êåøNuYè`)ù_§¶`±@†˜ê±ˆA±fÍfÃwo”œÅUÒ—p#Å‚µ¬YSÔUwD/œÉûÀß,ë³uç5¸àœ,Tuuyç!YHÔp«ââ©åï%ˆÑ¥É1,NSû™ÙXeÔÒìp+h¸nª¤c.Ùª‚Vvù¿È¯¿Ø82 àßìnw×éÚ·ç³&×ÜÆ	Q‘"“’¸Rª[»!aD
+©ë$J@Bí¥/QÙs¾ÓùÜÆ®hPûZxAìõR_+™´}³Ô>œ1(å¡ÊFä"¾owïk'm@HÌƒ÷|·;;û›Ùïûf`¨2ù´p©|Ğlvdá¹n¥tª25¼ìw,6ú-şÌ²M¶Œ‚â×M,œ#Y´xt%ÀQ9hhñy´0‹Yğ•UØÍüéCZ û£ÂªVq–Î§³û,´\=©®ıjõ¹Ñ_¤Ñ‚/.N\=;³¤s=k^%BÇ÷¿™c7åÍ¦‰C&á5ğ!Éc°İÉd¡„kÖÄº}ëç\ÛkÑ†€­˜ï.p)yşğhy´ÔgáRdáº%{¹4®/óØ"+«šWP:R4İCóª÷io¶‚üœºêYÇa”]ĞÂçş§ ¬u²˜=³†|ú@d±<]ZX`F±ÎğÈBWfó‡×µ/sïuİqF¬ñ¥”šÇØ¶¢r[k-L¼sw9õ¶|¿eƒëÑ£{>¤oâãÜ:ÈëZb1»heŞ±xØBs¾ƒ§y°Œ'zNğ±Ñ2/M¦ÑWÛ.Óœ—yyS›—¡[JÛ¥qKÛNd±'+ƒ’ˆ,ZL)Ú—ä%ÈdÔ sAdáÏÖàº¥§LG7dAø`ú¹ eã6Z¤¤µ2±Ğb‰,^X«	ß‚GLfÚC!èZ¬óÃëÖÉdá‘Åa}ü²d×÷×÷‹~l‘ká”.W¼`ŸñOy«íR§Iô8šşPJHµÁ¬$©ÏY×,/?{L¾lï‡ÑÂßö@ …‹),´>A=Òº0İÊ@baÙdq>¶`dá£Å¤†ëBÍ\pú,‹pAÓ÷.MP÷=09÷-¦vÖ…“iÁş‚³Ô±hƒgÁq›,ÔZ@ÇÂ9Ì¿—XˆAİ±Ğb)ÅÜ÷ÃZlÎÄ•Ónuí†Dr;^oÓºĞ•‚YLI*Pí|bñèf=#"×Á,³ÅBg*«smë·ÖÒ@=’…æVvÙM´°mİNÖEãDb!:úÓ5;|á‰–Ñ"À9ª[ãµuŠêN½mãrA‹$^8ÎµÈÂ½¿#Eu‡,ğ™èX¨+Î„Ñ:9FÁv‹ -Ò?’¯×áŠëÖŞ“m‰ÔJ9Ù$VPĞSR†“’²'ş"”7À€úC§wÄëZ¸d!e[C‹½hAu§_”2­aÁ¦ÇªûÓaZQIâE3±ˆâ…WÉ…L;W¸¢bìdÎ¨±…ßàÑºmò‰C
++'yÄqêàU­%÷|;d¡DÙ@…-¸.†É¢á”}z›ÅÌ¢ñ‡f¼.j2²øÀºXPtÊ#Œ$^¨u¡ŠúCüÅN±Õ/2ÁZ-;%²ÀÁÜ…ı½uqåW{Ğƒ)˜öÃ‰ÅA±Àº¦`VMj0‘Eêïó(^àŸ8@q}á85áU-÷‘8§JdA
+àë=ÇÉû³ÖÉ=d‘ßÙ"]‰bçŒ]ñjïİjÍ¿!;ñâà	|HG›z€,zñÂVkõ}ù×1§~£Å”@/¶Àìi¿2{n/^ø¯41§â”Ù±Å'eØo§ÑÂyU4k|¡ká³x—â¢Åd	V©î$^DÕ°ÜLb¡‘…Ã ‚­k¡ı¼ì¨«ÖxéAæºşÌË“b#”SGS†¨®m6s—Ÿêä‘©SQÙo–Y]a2ŒãW7°TòÖ°Öº†Yd¨‚_öâ<"\0ÕZd±-¼I¯/NX¥µ<N™{gûÕ_cA…7Sp¸†¥ò³ZT1Ğkbq^ Ü …Éƒ†˜!‹¸L-2f!ÆØ®Åïø›îíZ|óH†Í)–­™ŸíU¹~|åññzŞÂ²&®µµ°X˜5ìÔ…ÓÕáœºÖ­µæÛáuñÂâµÉ2Öàe¬.v£=Ö"ª/Å ªÁû,zõEšMaé^l±›bg)±°Ô†‹¼)÷éxE†ô™ËÿXR'jøøµEª;ñ^Å/‰×à‚[X~pI`-áZñŞ,È¶Ğ"u½vC>Î>[¢±³g[ù7ùÚÈ´é{şÈ?ƒÍ#e'˜Íe^ÊÍÍ—×çâœ6+h!ğ»u'Kª;±Ö‹nªh]@øÔÆçŒŸÓK}U ]TwŠ¨î¤Ù\Ğ>YhÔ«+zuç.X ËH•$‹tlQ"Ù$‹EéçŸ±šØ
+Cj]ŞÕ,„<ûœAÁ
+ê2ÌÉú&ñvªÚÌ¥¤Z¼)7å+¹¦fT›s©b˜kå`N½…ø»\e—e¯Ë¿]]N›gLçˆQ3ü£«L4‚êæ¬|(µoèx¶æ¢½Y‹²&9Ú}ôjp¬/ª_?Öè·°1Ü´uuwZĞ²Û&Øs©¾ıˆ”-²‚6R]‹Ş~Dƒ]FÅÈb—ı¾(‰w#œºßS[›€Ñ’ù£xpØ2Ş6ÄàHıêÉ#õ.ÀJäù•Î?¬ÿ^ÚÎwHN9pà¿$Wú¾rôzè—'‹`I„‘…²eh¸‘¸/;9ö,TúÊËÜÉÂ»GØn±CÛÑ"éÂá˜›Íó¦¬Âd1³eh¶Øâ
+°æ®-zpj}¦¸›E°Åh_ÓKiü+Û[¾œË
+ØŞâïRdáÚ¸•cYuëĞvÀGmj˜|èYè)q‹”RËÿ†ûûúP‹C÷:J/9Úûc…,–·Yì¸¦>zëÄ8hÂ3¸Yt÷;ÅL~CFç¢ß]›è~ÊÜë(½äø!ÿÁÖgq?MÜnr´İ+‘…FWş›ÿ;ÍM¶ë÷,‚ÿO‹N³İø²ÿNCßC¸Q:§à4|¾çàIÈcà˜ÃZöYø	ü^‚ßÀï¡oÁÛğ¸…¿1ÆÙ'X–qö›fßbÙ÷± ş1[a/²ß²WÙ:{—İReDS>«W¾¢|]9¯<»×eå_´WPT×şÏã>@`waQCïò0H–F¡š¢mYp1‚¯Áìš±.DIœ¦-_KÖjyhScŒ0N7N¤kÓÖG´õ1*jÕŸIãXq¬HpûŸË¢–©ÆÓı÷?÷œÿ?çûÎÎ½÷üw}›n [èz€¢_Ğk´ƒqf`}Y"KaCXË\ÌÍ~Ææ±E¬­aØf¶ƒµ±OØEvı›µ³ ı¤ç‰üiÆGğqüşŸÅ=üŞÌ7óİü ?ÆÏó/ù5~G
+—zKšd•‘FHã¤biªT!-–¥·¥ÍÒGÒQé‚tCæ²YNÓä,Ù!O‘_–ËåÅòò¹UŞ+Ÿ”ÿ!_”o)L‰P(?Rr•)Ê+Êle®²DY­¼§|¨ìÄ´vŸrD9ªœRÎ)_(ÿT.+*SUÕ¨šÔ¾ª†_xÉê u°š¡fª#Ô\”B=~İ<á‡°*1A	gfE{•¨T´T@%
+Áô¢Š²KpWBz‘p0#˜À@$’D ª`@D#íõH¥[Â†½£ˆQW•Gc?£@E@
+Ó±B‰ù#tl,u„B"˜°Ÿ‰†á%†³|”ş#j 22Hø„ÑH©k?)ùQ	òÒP}‚;¬{^4FB?¹ífƒQE³±©[(ŠŞ¾ŞÔáR8‰D>ô#1©Ğ0\q\#ˆÂş!B@	c”PĞ‡»€w€W-D	!èSDôéuD P'ã „în‚Ø··pµÄÛ!ıñ_êC|ƒŠÛ >1Wû¿±P¯oƒ„'|;‹áà¶°èÉ¶¦³lv·ÑŸ®ßŸù­,8ªòŞéÁîŠş÷Xl¯ÛîŸÖ9Q:h¥Îrxıºõûï.ZYYÖ•KNôÀòg[Ç7vŞZ]ÿëáÛænëˆøæ·g÷ £brı{…T® ¿xSÏÊR`\é,åK×ƒâÇ%5œû÷,áş˜ÖW\Y˜æ>œïŞ?øoòWU@ú†Éñ¥Y!Ó³ì[“ëóŒ'—çW—¶üÜÛl¼2Ö“ejëŸ™?)ZY’lÚuR€çå%{~Ù§F…‰…›.~ö½Š+sO›§VÏÊHÔñ‹¢/¤¹,[Ç¿&W@ZÕFÿª²¶wj6VŒIn.Èßâ¨ª§ëì£`fÉ»¥ûZsGg¼T¶äxtŠ:®ı`G-¾×Æ_ruÎ ¤3å•»¦9ªã7m™5ê,|îzKë±Ãi%SVÄ»÷½ßœ½é/ÏÊ¯™ç~wıÓùQëÕ†KÉµ?È¯®«ª·ìÂX–·¼X˜âÏµ^*Í-{oRâ	5ub ĞV§J[|^àw{TZò«—o#Kİâ;Ù›>àyy•GÄåÖ¶4÷™"–¨ó¯ü5òòJ³oÈBóVµ!×^kÎ¯N¬òÖÔlG–†’Ü”šÍ-:K4wô«ò@`ï³¶œ¡‹!ğÉŞ±å/–ªäJK·Ë‰Ë×‹Œ&dÑW¬¾¨qX–ñ@gíÊ¾Íê¶m4®i_såLã‡sÿ|ğùöC‡ÀLÓêÚ¤£q·V-Ÿ˜±‚4Í1VYŒu*Ïºz«’>»ëMš1tHÓ—ë®à¾œi›Ãíú¾X"+Î&à¾àŠéw2µÿ÷¯aömLTÍ£ve\u…X`÷Ü—»€9øœ ˆ³ú,š™)î¶¤ÄéûÅHâÑôîÆ,ÅøßqÆÜca¦ep/Á»Ç¢3ÎÃÏ•û3ü§Ìó%ıpz‡û÷÷`¯“´W?z|¿(zá»(b!C‡$|j­0ãûø?l	y0ò1ßšÏÃ‹¸Tnx	Ê0óš¯ÃB¨‚ZX†¹×*Xï@3üZ1Û	{à ã˜‡…pş7 :*Îj<#¢I_GâII!ß'éd(N2‰ä’±d™D&“"2”’2ò*™M*ÈÌÚªÉ"RK–~Ò@~CV’&²†¬Ã<p#ña.øG²“ì#‡È	ò)9C>Ç¼ğ2¹Fn’vò%TÂ3/œši4}3ÅdšJÓé0šIí4ÇœÑE‹è4:ÎÄÜ±œÎÇü±†.£ËéjºVÏ"7RõÓít7æ’Gè1ú1=M?§—èz~MoÒvz›vÒ #ŒaÊÂ1ÏŒdQ¬ëÇbY³°x–ÄdÙS(ƒ(ë™!t[è#åSi˜‚QI"K¢œ2´ˆ£cz)ÑÂ‚}P¹>Nî&j
+‘u›J1yÔQÅ(Ñƒ{È8^Õû	9ˆËƒ-v×r¿ğ †EuË#ÅøĞø&ÅH¨ÀeJ—è™¬+r#/ë®‰ØC¸ˆ°+……è£ºÆÊÿ%]+ØW¥—‚V/éÊQºVIÖëAaºr®ï	•dIŒÂBì(…q|~¥@À¦È°U3úhR®Ûg›àÔö¸,©ÖMÍ¨h>pøÂ+4 àpòXÉå“úûX’êãI	çä<—jípj~¢äØƒ°9Åv4NtbU´ĞŒö{ªëh?Èçû„,sùI Úö'¶âk†M)B·jÕ´œv)ÆFˆ)¬…Zµ‘H52ß™àÒ¼š7×íÕFjÓ§ºqbú%^×Ó8Å‰ÎX8->›+önµÄå†8½×q¼.D("”éĞ‰Â¬£5àpNpú<öXŸÍîŠµX´ßv‡Ó·İkq¹°Wøİ™âuşŒ˜àœ#pÎá)X1t¡àØb}àòz»Z	ŸÇëõbÁ¶¶÷0èi°~ĞYRŸxºË“`‰†K‚çé‹lkŸƒ3µ¸RÅÑ#5u6á©1éNKÇ§jeW¦xßo? ¥zí6³x¡-ğ‡Àm¹*å(Ævj1wÃdô;QkiFà:ŞbÃQ×¢ş8XOG}
+µ 55uÍ€µ¨8^`8Å•-…ùˆY ¹¾b'à-²
+ÖŠ+K‡Šÿ°]-¡ncgX÷a'´¥‹0‹–iB	é`Š%Ùò½^„A²õ°lËWGÒ9Òa(•%Ë²%ùqm_?è%¡‹.B¥iY•¡‹ÒN!…BÚE:tJézí¢:„JÁı}s†¡†ÏÿÑ9ÿûÿÎÑÁûÌûÀ÷Nî1“íì^Ê¹‡™/˜»0¯ç€İùÆ>·Õò·˜æşzn?}ÿ‚ù‡Ï˜œ•ßÉL~2GÌôRWvAŸî]¿òŒ™í°_ÅÌ/@ÏèûÉ¹ó}”;g~{²}™Ãwø”?fŞÚ!÷„)äC>~ÎTaü6ğ]¿rèævî-f
+ƒâáğ;æÈÜÌ}y3ÿ&£ÀÚWóï0ûğå£€ß?Ğ™}ğQÜ×óŸ2aíË»á™9ø„¹	c	p<ÚÁ=Æ>¸·ıËáÃí+X/Áü¹óí+ğCÙÕhï?Ì=ĞûÃ|™n>¼ñ}xÈ>ù7À¿[;ìr±‹ûó ; 7õvcÈÏy®Îè—k?¼ò÷óÿØkA=NvùÊ?Ø»}pùàïî üØĞ¡à"Í;@ì×r·/AÇğ%xï_âÖWí½}ğbï7úš^Œ£OéáK¨õÓıo]e¶w/åÀæŞA­»;\¹±' Õ. 3€ü|r¿ëËyîÅöœŸ\ôşçß0ëËó…‹ÿòÅ¼°à‹uw?z½v s_cşÈ@x»“ãòöôÿ~ûj÷>åØnÿYº÷¹oî¸ıÉ$}=Î·;HC ï½öì5ßW.™/­î§=»³™­:N²ÂDˆ‡±Ä`D1ÒèÌ#Ûæ³Q6.ÔâJÜì–Ò_Z›ş •èuª`M­öİhÏ#­Wê–&VÌõ¬p¢X¶[m‚WD	=ÛÃ±ï(›„Hóˆ%¬q¬/ûe9Œ§“ÆYç¤îé±†FXé4t¸EÆ[OÈˆ¶ˆËñ¢,0YHæÃñìTØ&+k«€"ÊE1ì'úqíÕäEdkóØSQÏ’Wœ‹¹³L\”à#¬®ÍÈQ#“×³ˆK«ÛX©ıÆ¼»i$©Ÿê7LS$â8©Ûu[â¡«zH¬µ+üâÌÔDÃÓ™X³Êvnrª"Õ	ñÍpš4ÄX´£o×$ù¤Ç.‘°x,ÇYG×Å’†£38¢gˆ6uQ”aO2©n™òP®ÏêO|~0j¸%“S_]WÁÍ”[­(Ïf¼î9²ØmŸ™²F»#ñV5Eƒ-rsO N§JšÒ8V×sìT¥^…;A#åØNìLT_‹QwD“Lè á:a{´Zö«­æÊ]ahv²3Î,]ašÄÙÌÁÈÑª]4AI0ºbo¶ê%q
+óf­n®ÕÕÌõ¹˜§*Ô•ã¤@ŸZ>¯ˆ>Ç¡øZeBKqËæW\WF$V›5/i¦cÉ)õˆ¾*‘ñÒWŠëµêµò™œ¦†§ÌËAê[©L©=BS·9¯8rxìqt4ô&KìT 	UèÀ2V—³•„ã8óÖŞ¸3\)=qœuä½’ê*‰—&FƒªÊ:L…jª„k¯1Ñ«´ùÎ¬Í·ì2nl\\°ú‹k(‹Agz†e:¦lUğ‰3Y,yş”˜nÚ ¬ŞôëfRÇ§òª¯´7å	o•³9AmË¥®¥®úé¡ªr>6]UPYšÅ­¸éSoÑ62©9Í„D›D^š,ÛÂñQÄÎ?¤€ÓiX6ŒÊFHÒ•ïñ†âãĞOX¥F‡ı…¼nÏ8èœÄâ¬†ı¨¤Î1¯eÎõ07õJÍE Òa×•‚õz$„8"jsqÑ•cİMw¹txÅtc3nF>Fo4Vªf²T@­')N1'#µÃC3ZwìiÜêÕJÄº«™¬áñs¯—£^fÅµ24Cı[‚š·ÂLÁ˜T\—êD«™¨4KVâŠ‘,Ì"ñ¸t2`KÄQ{”kƒå¼×T:İÑ m9t1„=õGA	—iZ[„ZÚ‹Ô*²“5V«¬}Mê{şh²pH¼PìÓªd·%³¤¸¶Ì¯û4Ä¶n™SuårÚêáÔM:é¡C¸x1¢Šì(\qda^&îÌkJ,/¥R—Ú‚.l¡.Ôµæ`œaµWŒtT3³JHycM“ÀoÌåZWR‡–piƒô˜°H¹¥Jf“nšJº©	rÒŠUÂ„V’Lğ¼%uCB'İDÅ¥–Çl¸,§¦N[QúÇ~Ãéëa»xâÒy'HŠË¡¦ĞäHlÎÔ†Ù¶Tæ´õ™j Z}[8KÄRè¡M4eä‚Keèƒ¬"™²Q!DªT)ÎV:¼›†Ñ¤WsœöèŠ“ãÄ–J¬*ÇÔ7MµÖw#l,QbX7D¡…)7)ö*P^?Å‘çR/Â¸e&FQ6İ¶:ˆ-¤
+4…xyçÎã¯?xõáı«ûÓç÷ô¼ÿï??:øåoe}ÑıÒİá?ÿÇ{™ÇEu]qü¼y³0Ì3Ãª(:"PYÄ‘	‚–h
+‘T)â‚@¬KJŒ(Uë‚²Ñâ®QAM‚éGT@	j¤Š¨U>q7.ˆQI´BÏûAÌ'öß~2÷ó¾ïÜß]Î}÷Ü{ß›¬ä-ãŠ&í÷Ó‚\oí;—ÆZ~+_Ş1şğw­Zbnå¶jóûòÇ5‰—íG]Ô	ÅÏÜN¶Ö?^X6Ò¢*h«Õ×‡MKÿK@çäş¼vDª¢’6L/É)ßêo8»µ¶}~BRTBå¢ºYÿˆw>³ñ^óÍ,7“ß¬onë«fŒ,ØßøÈ§~ÙP÷J›âÔEåO‹ëÓw·ÛÿyLıü`Ö%åÓÏò·êríŞÖÕ3=ÓÄ¹ª®	¿x9WøÂ²4qç™ÔóAk·L°ÏişlŞ‡ÏK>.˜ëú°Wî”ğèK®8ÜœPÜú‰å¦Æãg¦,¬Tx7î¹çÜùøé›ïV·¥…s÷öü·]ÙN‡«Çv,4f¿\—òaÌ¹Å%'S|štI§§Ø0z÷©ÃGç—…¦\u}PØêıÄÛU~ÿÅ"Óú‡M»ò2Cßwª2íIm[!»^ä=4¨¨üÑèìw>—Ùİ¨lœé_8|ğ~G¬ÏŞq$öNç"U”²ïß:¥<íİz7àñnÇÉ%W?˜"÷[¼ÍsÅÄÇ#×LvÛò¢âÇĞmÉ+t>aÁª Ê…gO™Qxûé¦ª°¨˜k_ÅOMæİy1ñ%-3]f^<ôÄÑ¼âì7Ùï¯l‰ÖT”åÔê²–G+R­®å¿q^B©kR{	U‚¢è2‘õäOk¯*Á@÷¨
+i*…u+6”ğF[2Ó r¥^¤ëVìÈïW
+U	n(u”òº#-¤|šÇ]{v+=hÍ¡h
+~­XÑ²7kŠ{Ã½ÆıJ¡
+Á?ß¬¼ÊË®t¡²TAA$
+rPäaˆ‚¶ ’Dê;ÀW`;øøğ%øüülŸƒÏÀ§à÷à°|¶€ğÉùöºO&ß¥œd‹ôì{à]ğx¼Ş¯ƒß‚Íà5ğ*ø/ğ
+x¼DSöv‰\8÷5´¯Ù–ÓEØİ””°Ïƒõà9:Ãü
+öYğx¬ÃØ¿„]kÀ*ğx<V‚t”"y\]¹Îö/)"•Ó²â’r²G.•KPº+P"2CX+ÃGıaòe¢tC;y©íâ5©àûV¢^)<”`¬Åt€=*ø.ih?-àœ¤I9ÉÓşî¤‘)õğ…³½mŠÀÏÁÏĞç§4œ¹öè»á½JAw49©?Ii'Úí Pæ'‘¶£õ6xÛ
+{¸YZÇ´‰†17BÙ ®Gù(ı;¸>×¢4W²HkP'¥9àjÄtêdƒ+ùï
+³ó{Û
+(Y`f÷ÚÉä)Â)ƒgZzÔÈ@ÜÒñ<i<Í\’†’4ªæ’TZÎ^(™Ò/çÍnfM*™ÒŒHŠ´[¥–KÁ%´µ–tåàg1j-‚ò7p!¸ O=?´k_'óaÆ-“»rh))"Í¥$D.J’øÈ‘¢Ÿ„è'alsè#ÀÚDÆ&)"%¢Í,p&8œÆSÁXp
+8™&a¯OFnÆ9v8ŒÿFã©q°ß#Á±à»`é¼Á#şß†ò{ìèQ°G‚¡`fì`ğ-ĞÃA·yÍIv èú¾àÖDò=zƒ¿£1L/Ø 8ÜÙ‡‚ïRÎ+t l7Ğ•¬™.äÄìÏ+^$#ô~<G"õE}g(}`÷B»ÖA/°'|;¢–hÚuSÇ³cKzö¨à»¤ÙgSÁwÉ£¡»Ì€İ(Ù"·é ¥¶ÖØ]VPz€ZPZ‚jĞTQ SÉ§«HxGŞQ$‚2ì-z0şx~úxVS¹÷µ|íâ«˜¯j¾T$™¹B²×oò£ßÆÍÿó×GzİO%ñ¤*y9Vó¤E0Ñ–<Ñr–ôRQğ„ªX· ½†ƒ¦î«árKÖ5œT<áZ®ë€W#'/®\Ò‹z4&'¶{Sog‡«ÛÎäÌıô¥¾ÜO?N^¾F®ÙŸ“†—µ×tå¤à¥ïÆÊ@N
+Ş8læD¼Å|ØöçD¼%Ø6ã0Ã›UC³ù;ˆøXúˆí¿ò!E4Ÿ“†Cé8ÛÅG£†_4¬WñKHÃÏ.=}'â—õIVNó«›:ù‡ù™Ñ±Q>C±‹Ô!D-'¥`¡Éip}sıÒ5Õ7ÕûØèz7£Ş8CNíÉ¢Sûİ*«—Ïæ)=ó<…Üäb!oĞ7µ­ÒÆÀ‹9ÇJf©ÌÑÊWÛêÅ*ƒ•¥ÚBNZ…`­±Õ5™k}Lì İÜâÛÌ—®Ú¤7˜L>‚ŸQeäË=Ğ%ÀhäËA[ÑqaƒP÷ªæYÌæJÁocG ,äé$YqF~Æ³I›A)²³éâmñ:?£Ïdpˆ+i]åÖ¢ºÎú´»ñŒxÚ®ÎÛi»–X5(ƒ=ÁÎoùèÚZšZôK›¹¥Eºôˆ³àç;4À€K¥jÀ´³µg%ĞŠíşCı|í‚¹½­’Qç·*æƒ¬Å3#W–ûåD³•¾3l{BfÅ§™ñùæĞ	™G÷~œ°Aæ—7w^v~àÔø¼¹I9YBúÒ+û—d¤¥\.Ü×˜‚¸ÄğœjÅ}8N‚B\‡©Ç¨cÔ¢¥…J!WŒPê/•²Òô‚F®VY¤Ñµİñõ5LCb9níMwbù)bİx… ØÉµíâ¡W!²êö±b©Ûj!÷Zà‘)xä½áÏâò‹?e·?…äO¦Tr2[(ÉÙ|Ç÷½é… ov×å­=BVój„xˆ½Et\Î»öm^Çe<ßòÎ»bŠÂ–cåA¾!Z%•ºJíœÜ•¥F'O­µÚÚYttõÔ5Õò
+¬ÕKá©mj©ÕÕµêZõŸÃÁâ(t…éç¸ìtô:F2íì•Ç'æL\ÚC:p™Ÿ‹Ç¢ÿ²]5°M]WøŞûî}ÏqíØ!vŒí'‰ãÄ‰ã„â&Yó´ª4¡1ÊO([iš&P¤ĞQ
+*M u[$~Ön¡…,lª:@ƒ6í4d+©(êÖá1U²Ò®K#ÎÍÎ{U5UïùéŞç'}÷Üóï;·õ÷øôÅ¾áÏ·í Wïöìº¡wÏ‹Á×~úÔ!ïüªş9çïğúOş8|wMŠãŞÙÜmª(ÏË
+!›_¬
+ºÜi²QŠ”‡İš·èå‚ª·ÂÁl¹kIßSHó\z‚Òár)b³D,…éÔE	ÍrÉy8o‰<ƒøb‰s%pNáÄMÄ!Ò&>’/^Tª~&õ_%òItâKSÔ3•™#E8O&0®Æ¥*q-
+m½
+?)ÌàíK«ˆ˜STYÉJ·<Û½F$¾—b±Æ†² ÷ñ‡Y`ùj}P:ø?ùj}]ğ§[,V’4¹?o[yªíù^İà‘71raa0Ïåº{ò*JgqOyyÿ³iN'·¬‘Å³ü ùJ4‚¾Õ<duƒÒfÁ,c0GÁ,WµP|“¹Qò<™ŒË<nRÔàAuysQÒaéÅW²”Gì8²“ú¦öppñbç¦tJtAñÑÕM±²âÅÕ®õfk‹Ëª‹ÊöÌìİİÈÿÁb/.¯”î&¿ŞV]xÃS» Ç›bØ&`dk4`‘ÒüÙ°¶Á›`G'r:3˜İ‘	ÌòTç¤>Ùiuùü>ÑåğY€¦	•#wà6©ÉR
+ß™¥Ê*Y„€|JÖ@NÊBº8¦³*ÎEá2äq#k’¬ôÂæ)8sı7ç¾¹zå›?½9s=(6lN~Ë§ğ\¶OıçlÓf>€;]÷ÏİÀ„Ï~v~ÚÍáMÍ/bÛß¦p!Ÿú+ÿªğ…Ã³·goĞKb/TxYÔ©¥z	ÖJD;¬g¢V#Q`	|Q© I4«l‘ï¤Ñ—”çÓâRz©{æµüRov`DèŸEçôy¡+ğØú™*Ö¥Ô·Ò‡É=Èpjˆút9°[¬7eHtş<©ßèëŸwÔÑŸcê7¥şùºŠñƒ¢ÄCŠéÄ·“	yB¾¨2¿2µ{Å‘ğ>G¬
+ Çó~äë©#KÛ±»ªrÿÆ'~ÙTËoµ/îûÙšcËÚ±wQÕË­¯7Ôó/VÖî=¬¯i~£*¼vÉÛÇª+ÖV-;¾¨|í"eıÑØZµƒØµø	bè¸ 2‚“•äqyD-Ø`¸Z¼tUk´¤™ì$¯Át'ÄŸz(eÄ‚(–&š™S¬gKÅn¶—‰çDILN$$9¡IàŠµE<ZìÁ¥ï‘$ßC^¹ßAÂvaøş]XŠªC­ø85|¥ej@’û g¤²Z7ÉD1ıM	/>Ş§v;­h¯êïz”µ ~¢ë×ˆı„öÀµÀ¤ÊÎ'?NŞ‚}/VtüÁEÉfáİ¿Á¾mp¥ÖÒ…=R—pº¦Òh6DJÓ\£câ¨N+RLª•êH½œ)>g÷‰d¢rÎé%_Ø—ÉÀëÉİÀÌIÒàí¢kúK¼¿ƒáC]ÿ‡‰Î©Ä6&]#chT'1‚¨ˆk…:M# Lş eN7ÇaV–!‰¯ñX€´ÎœàßMÿ“¼5ô=FÃ€38éè±hP¢DK™nĞaš†4Â»¦Gci£²˜¦×P­ddĞÁ§ÓZ\gjµ26¤BÏ	x2‚Û4§èÅ8Ïæâõ±•Ê
+ğoï½3C¤"gKøá¬º¹e©ñ€&`pÉZZÀÅâïÓë0)@hôËÍĞÀL&©™TÚ˜blòšÊÀş²"'ì@ÿîŞ4ÿ®¯Âà:øqrs&ÜœÄ”''•ÎÁËù™Şì¿/xş¨MÅ’H3€= ß‚æÅC
+¢ÅTjÊ@¥!†Š8ĞƒõÓÓØĞÃ‡ùM¸N“r’'1û¯2â_ğ3x¹‚Vë¬zê¦h®YkĞX(²í£ÇĞ¼Ãé†}i6³‘e»bdpi™Æl³İ®ô9“ññËJv•+–™PS®fÜ[„”Á6iõ€B„Me¹¸üA~ñÑ7Ú*Ú{gÙµje·®şuèåÂXòù­æç5;„m;Wå§N
+­³·Ù¯À, f°ÛÑ…2EÎÁÜÌA72Š:wgîB½#JMÆœt‰æ°Œt{†Ókwæ%Æãò‡ò§ ş¡T{)}ª6!„Š±jà¦¹¥J^Å˜báÄ$›¡‡Án”ÚLx’Á“ë¢¬¤„Õ¬?¹!JKJh”<3qùÊ×__¹<Á›q!~äãü~w‘{‘•¼uEEÅ
+|rEE¨I+?şw>„[„Û¼—_âïó^ü®kl-˜X'Äé@Û£9ş¬4ƒ1ÁŞi³ˆ‚°/ƒ:ìYx]¦Î*8­ÙŠğADÀ¸Df(®0@Ñ¾üÕYØà€oµzåTdğØÓ<YYvbOsxíGÈ^íxÂ¾Ñş´C‹côNÑK†42È^[‰Òl§Uü4bÅÕy¼f êÉº™/ÛóoWóó¦ŒE­|{ÙOÂøf	v¼¶.?ŸÍ÷6’Ÿ&§üµ¦"ËÏ'M¿ Ï)ùën] néÕüm‰Öd#Y–İr±LeÃ	{ºÙeškÌÔ¼Í†mNøÓİØ½ğ0:¡"£¢ÇÍd‹™2Éiwh¥B¿’ÔËp_Áó–úêÄBñIå­\,¤Œ@=ç\RúciöÁÌëQgÜBönl–÷Ï¤f\u[hÃÖ«O7Ò`Ö‘É€Ô°af÷æ&1@úü¾won"Õáe¼YMò»ËÂ×;›7aUÇàÉ8ÄìCFƒ.›Õø?¦«(ªóŒŞÿ>÷½w/Ü}pw/ûdv]\„a‰( PwğDCbuŸ€	`F-¥bHˆÄDmê´jUˆ¯ÖqK­&Út:cRƒtl$Sêd,\ûß{A3Ãw_3ß÷ó}ç-nÇ”á€iswZ-*ŒjKP‹Òªå(ÄŠY¬,‡¹8kbB’¸X±ÑAúAğ±è¾Ä›2b
+>	H‡Âb˜ÄE^(yÅ¿ã9¡¥|ÎÆñ½Í•;¯´/(oß³qNyq‹H$ŠW5ÕapÍJWb+V•”¬{7:[|]Tí\YLLäIâV	{ˆGjÃüƒr{ ®Sñ±Î€+œQŞ¨¦4•/3ê]X®¬Åƒòi%‚”´Úà ŒÂAÓŠäÇ‰‚cX®¨¼
+`Áx!¥x/æ´'	›À÷ã?¢‹_yIøßE´nü$îÁnïİ7ş/àEQagAÛÓ¥›1Îÿ6¬„®6é/µ8­æƒB%g0aeüº¶4-8äÊ7—›QsZg¢µÍV¨(Ô”’¥hDÑT‘UhÔû«xncy+¢£uv¦³"*[o6 œ_Ï'òé<Æ[“T†¨İƒ}Á $àdé#Á¡ê\éöHÿŸi¡d<“<ò†ADm@qâÙÂåÁcšêö„$4±æ³=g…ÆŞ^p°µ~=_¸,EšÆßy#"<.0àËŞB£ø´±ûÚk½=×æZOoŸ'ÑY5jÕÈõË?Å«‹Pq+_¥ãºü·Tê×fBq†€\BÌC¦#[Ãs¦$:y6È9ş£N|\¶^ƒPx[ˆ!’ùCj=\b¨üg›+#à3%°¬K€iÂIZUÙ\ÀÇ«8=Ü¸u
+’§2¬ÄaœªŠ‰FR’
+8š;ÒhbAé0?÷	2Y‘æâ¤ab¡Ÿ„qK59!ø©¨'¢õ4Ša½RÖŠ®n.¿¸«ù7|Èâ	…aáQÅ›èø¾Ö2ñ1Xà1…;ZÛÁô×Ñ"x¥ˆ¢èx«z_ß¹ïàx`Îûı_)oÈÛ0sõåWı÷wÌ	àx×ùs×öÂÆg=Áocgà-KE*ÃYfÎ¨ELF>…ŒÃ”İqÖ­ñtp¾QT¥®I&×«I£)U‹ĞğK¤ÆDZÜ’*‰§ÛI"åÌaºoD6*p pàFKÑ`:@ñà!Ó+ºk1 ˆS‰Ã"şİë[;ŞŞÒÔ”±Yvg™Ïá'½á‚™¹—6_Æê\ÇYO	xøå§ÿ¼òÅ×WĞÓÂÍŠ®™‹e¦×¯©ïÚŞ
+Ø?şøq0UŞûíB´Ë[¡'XÎ²Ûâ|´É¥V†-gÂºƒ¦n­ÒÖä8lÈªÂëğZF+}!„°'X’IKºİçÌ¢ï‹Ê+
+nµ¤¸Ã11HÄ&˜v†GjMä8I‘“‰Òd4IÛ!AôNP…Åô	Ç01pXW[mij¤´/{m‰v'7Q½T°véº×Ï|}ãÈõ]m.÷Éš½êrf_øàÃë”t8í‰VÂ­k6wê²ïğò';kºüi×:/ıgù|¹wT(„á4’„”†§hujN‡`Éb¤ú¤ã”×B×jZ4éÖê(ÂÁåæ)/ƒá¬¾sSÎ›Õ¢ÉÅà£LìJ„”rIıÅ™²â²¦IœeãÑgmÁÏÀ®÷¿˜˜D¤oë`^sâ˜fª/Õÿ$Ÿ6¤¤ùÓR (/Î–×Ú<¾.ò=0¹õUsÓ|óâı†ü‹f—”Ü3SñÓ‡Øiâ#ÈÑ4dq8h÷±ZF£ñA‚&YºËYÀ2X÷2ğ}ÀIjH×ê5FÖ®Á«ñ¹HŸ>9¾¦oÊÕK–i´R´z&y%ÊI<Å¼î¼¨®	öBìOêL„}¼¿¹îÍı×aş²©f]¯)Ûµ'š~<Û~şÌègG†/ê- áæ“Ó‡c?ˆ¤ÿ¾{Áú=ukÓRæ×¹Ù-Â?Nİ„'W?(.aåb‰ß#3eá@n^N¦F¹[ãpsyİ,‡=š’Ãåü/äfê5y¹Î“Y¤—7ë3²
+iQ°bŸAà¤Å›8K±¡¾!:Ö7Bß‹A¾öMö:—Ä?•›~öÜºÌdØ¼Üò´4z~»à/À{ËÍŸ9ëH{ZER´å½?Ø6ğ]»ÿûíŒât?¿?«jcÍº){í·®nİvøèÁŞI‡-\‹Gfx½9…Y-Üşø·ŠèÚw'¹ìÎäE9™dÿ½İæl,­Xˆã™¹Óó*%İ†ûëÅN NdFØÅ9 …+h•A‹3ğæ“È)ÃÒĞI!>ÍR>‡ÒÅ®ç$´pçöÁ£,i¹t¡WQêÎ&*ôDgòTØÊüŠMGÿœâË$°|ÉêÕ xbÛ¾-°z×
+¡WFÑÃK*#ól
+ÆĞôÖÙó—NÿõÑX¥¨Ó¯<ıö9QƒP0éØŒ°àÈ1ŞmÖu3gÌ[yµ‚²°ÄÂñbºƒGá-xd€Å±’I7ÀzB´X&_MÚwàX³íí(º¾usösÿıoûï}óoôdºğ;á ;Šu5 #Â¨ğ%Z+>ÛÁrPŠÀ*8Ç÷Ÿşˆ6a]R‹WjHDQØ1JÓ@3¤ñéZ<k°<àpWDHÄÈÇ&1°ØÿÂŒp`Ãæ7ê/Û®¹õFGW{ût“ÄaôXö’ƒ¬Ï¤¥¦Ø¬j¡áÔvvÂšqèñ?ºímA§ŞÅq•Öˆ­.¥.•´;l©)^—•Ó¨mJœ	;€#€û@æ"–ĞkÄäÕ­½#e¹Ğ1ß‰ğŠ9Qôó©Ğü_òb«0L ^Zy™'¡×U)'IÂHF«È.ñ»Ì¥l ñõ|P6õÕt\ÈÎôÇ…1J§ ˆ3¾<u<ñ²^XÁ(µTÓ…µç¶/hø?áeÔÄ™ÇñçÙg³!ï›lBØ„ !’„lHäE(•(¾PE¸ƒßhOG8‡Q¡8–Zï´½9F­cO­³­³7Òö¬Ö¨gOhïälë¨3(§ççË”«xÕåİ´wÜLşÚd³û{~¿ß÷ûù–ñU³ñPj:-–ÈJ>‹¬æ >ÇÄY-Ùõ7/dSÒ6;iM02Ö´`UÙm‰FZƒ#
+µ$Ií¨SÌtÙQA‡ÄMÆ‰No˜\UĞé‰o ¾§‰PtÒÁ‘Ë+f-°}ÊŸş
+Èbç…B%”“hª\P;ÒÓJ‹rŠ … Ò™æWÊë‰ì§ºÓ^=38]j4w­xïÉò"±‡ ëímtØÀÒPÑ SëX
+hñ¬HÍê^Ö®aeÉ…l¡­Œ­«ÒVéj?bµº5•5è´€JN ’).B4Œ:q¢
+£Å‘™ˆKÀ›7U3…F=:>RÛN»‡¨­ª¨œ¯]\P’•Ã÷­	"a›½PG™¤6×¼Ê“;¶q‹<Î’§ïßßİÎoG¬¡?ÛBeKj*‹B™éFÉÆª…ª2dLF²ôwBÜ#ŞdYMåAï‡¡e*¦* $K8ªÀÌ†ËG›¸¬ÔYtií’³J—ÑBCOº|n('­è(^_ü¥oáˆ=‹}§Íÿ±u
+¼# ßóú+^ùú;=¦¿ÏTX:‰U°¾ı­ÒòEíÕ»å’¢üÜ™o…^^ÕÖVõ›ç×¾ñ+}]Ò'ïşıdİRG’åíÂÆµËºs6É"šâpOÏ–6g±E–œ-«˜_Gnœá™–éó[!Ì]‘S¸È¡Ófy|\ŠÍ±¥|e#ÑÒ±ã¸Ûk°új*Â¹ä½+ºV¾0wC¾µ±$\!“¹¿[9<{æÄ¬¿Çì!­¬_‡ú•Çt­&àÕP^ƒI@ÆÑIéÃÖKˆµèDô<1&DûvvlïÛŞ³•¿}BşÛÑKüL„=£P&òÿàqƒç¯ğßBåğÈ ñÙ|>âÑÖ¢$à	%*ÆĞ/Óô£c²V•E§4™)¥X±Ãq4Ş@ìÂ\
+Îwy§Ö'ß) :]>{ÿ_/î›ş|·µóíÍíÀ‘ûPË?¼ñ7şêÜĞÓÏ%ë.œåo|rÚâÜ‚Ùú>ƒ40#”¢LEøR-)¨ßÑµ¦§°¬Á,0k(³!]<©8!œK4îa?8$à˜$fRi 3Pï§û_ßsjÏ›»[Öó_?¸Á_‡îÇ~¨Y\¹yPÙr}1Üz2Ÿõ}Í?<F¬*èÆg©:u’¥©\"ìÏÄP:/’V	¤yI”Û™iWÑ
+		(h«ûL{/İšmMa¼
+¨”ÎÌ—‘q‘n&%SÈ¼öº)Ò‹F…0Ç,QÑôR!üŸ‹Z<Úx;Daw#f;âÎ€ ¦åÍ	K¸M][×H)Ÿg]Ú¬Ì’8ãÿfÆ²:WËÖbâ	Í^­Ÿ©ıYgÂÁ=½PíŠvT^àõ•ÕJ´Ô‘"OŒã¼cFà/„Xú›y˜¥Ö²R¡—dŒÉY¤Ü®r'§’^ƒnÄK=4ÕAÉ„‘e¦¨Klñ”Ä¯ĞqLN"¥ÓaËºŸ®56¯{õhO P~rãğ€Åë.,"ˆ˜"6vtvdòÕ¯´ÿá×kaºãzòCüÑh¤&äåTUQF/røùè;I1 €
+Î‚W÷ê¥`¯UIÔ·¦úll
+ZÕ”
+’æZ¨õ@¹¹+	&yôĞ¨²á {Ñ?V7JÕİŠË×h6lªô=¿21ŸŒi#¯»e!  “C”_êÜy¥eGwsûé^Ø=0rï3Å"Ôöä¸áæ{¿û‡BqçøÑ[ê¡øGÃƒücß ÷« lğ”Sğ—XŸõülr>Î›Ìn¡7˜(Ú¥§d4eLNuEŒ}À+ƒr’ÒZQ’'Ã˜oª@%Æ%Æ:ÔlZaxÉ³4iÛ‘ÊšM‰½\†hZU†›g,E…¬BŸÓæÇı&Æ#g<›8Ÿ7R\©aª—,Dùª•¹5E¹G?^°¾A¯håß„_TúÖÌ	"ê–­ªYŒzŸæ·µ~^¥Á•²¾û>gú§#õ…«Ã3HZÂdÚÖuo¸v16wü|‰’Ü8ÌöÁK6öj,GØYD§ùÈw‚îóÛüÎ§ËÖ JK#Jér›RJ6¹İGkı¸>Œe1“Á NûlÇF…â©¼+8/]èá³I”2F,/øß¸‹ÏBlsš»çpÇ…‹ïÿÕt‰1: áË«WkÛƒÎäÚ!År9oæïò¿eùzx@sölÙ=O^Au5›ÀèÚ:6o²>óü/4äzÜçğÄ]I.î3ÊBr©ÃÔïPI[ızÀÀˆß!wY³Í€L434éËpÑ>›U(pès¸Â[&àÒÆüôÓBm˜‚q'ƒB‰˜gb$üĞ0éÁI–ˆ•»‚vÿé›?\Ş•–ÚÕpèË+¾ºvÍÒF—ß›íw6U­ª]‰:r5üõaşQÇ–îÍPzù:¯É•FşòøË}ÛçÜÆƒœçvxÛ¾Á;7ûE¾ØFxàFdÁšnÉÑNÙ¨’Ò µ’»+¼í(vg6¾m›[êó–‡²ç†9ßœRQƒÀÔ
+Û$ü¶-ò(:£”Ë RtQJz8é®¸—c£‚!Mr‚9åÙ.Ö%—tHfåeÚèL†ò¹²&œ¢:°:hO iø ˆ9(²|´í	§¾¿J¦QÖzüì“< vIÆXBjø<BãÀ
+²‰ÂO¼sCìxë‰]ü‡¯IÆ·Œo—ñŞbbŒİÿ&¿§ğ£V ŞkÇ7çÀ0œÇ{^ãOwÿ‡õjm²ŠâçŞïÙ¯]Ûom7¶áX·>œcl£+ccù7œîEydS£g7âHŒˆFá$d‘‡„ÅÙDq‹&Na†ğN„èPöp¶ûµ¢QcOš~ß9÷û»÷üÎ¹Òó}ç]66/úó#"zrĞ„¾á¾q_?NLºµãäÛVaí¶9ê;›.›cåpŞ<Goñµ¡«O}T´j³·JÏŒ(:ÖMØËŞ…çp4J¦e;³Á•2ÉtÏÛ¹ÙìÇL‹²ùì¼ø×Mâ¤ci®\×“®#®O\‚K<’÷tEoGê4ƒ7-ß‘ÆåX{zú¬?}ÇšÚj=ézª±4`&VëMÌ<ëç¹dBn±c:Æ0»»ñ'‰zåFâ«ª9şò–Ã™Î´©‰)Åùeå÷'U'¦ºÒÓ&U&îoªzh]öLßÑm¯œ’”'+V5/Ÿãô:³|ŞG–.­MIOIKw¯x¸v}u]Êæ{6U>Ëú¼—…6áÔDHÄƒDŞ^å¶IˆA¤(eêğavˆIÑÉyIw8Hö¸#Â#$‡ûxô¡VÇ²M‹§ÂU0€+`ã%à8ùWîšÂñR=_µ
+;j”Tv/³ITˆêÈh#V’T4ôÃvíSjâZÈî,mCø`ä|;ÄÆ]@Dwt\‰N CÂ B@¬‡:şq‰$ÕïsX1š"­_ûeûÚºL²“Qk{{äBø éÆX›Çc‰#Â¯äšBD±^lTØÁ™kÌõ[©»€$këEáÓ,mux}äúávêæ}Ì´y,N¶~™’NÂÕ×KwŒIpıŞd*mÖ´Kƒ[…‘ëáuÚšLÒÌUR€Ïµan #Ï+’@Â0,Dƒ•bP¹™[XĞpXÆx˜Ö\Ûû»B½ÂHé¤Îë£)B˜È}:UOKDØ '¢šŠÄKDĞìF…‡Uf‘³òA;k¸#†ÌJ¥Íµ³È*JTÄ!CÍ÷T}øV¨kdôLhù¹&¡³—æEÎj7Î™TÓÙù†ú¾?­¯a×&‚JË…, cÆâmx£v,øGÖÅğ°-‚ Şº6Ö‚»YIr°,aÙƒÁĞ’Cğ¾WóAáô©¡ÅvZJèü@ÑŞ]‚¦Ï¸V?iÈÈ…ÀÑ eã\ÂX¬$$ú‡¿”ı:6A†bmwÀf²È“aCÄBa¥Ì)AÛÃÂ	hÛüì®•ª#õ$˜Qs²È—:(¼_º°læk»GyáÇGNïã^÷ì@òMÜ5KÄN@AĞ•U1Øû®Nƒÿ4ÄÚ§²…ïí¦ß»Bû><¹?ô%µ«¦s„ĞÌÈW½	5	§¿tc‚³ÑõÌÁõ‚3Ël:¶8şJˆ¹ˆ˜ÄÜˆÚJdŸÁx“3cˆG7œm=9êÕX,\¥ÚÈOÆµã½hß|@p
+_@Ì¤áõƒÄ	ÉS”)	ÖLÏ‹Ş¤É[Ø<é…Òİ0y¥#Ìˆ2ZÅs®Nïéèêˆ5ÿnì&½1š[2™xëÕ[ÊéH81 *ÏÚõèìwrsß%™ÕÇ>Ø2¿>Ï‘EÓîšsjkÑR-«²è4ùì2É[è÷Mñx´­™RbY~oNq[Œ£N—ö²¶C›UUL¼^~f”kd’(æ X¿éuøO©˜¾¾\<òØ.nß®É²7ZódR~»}Ãmöå--1{ÖdäˆÛìoµ§Í­­cöİh¿lÌ0{¬ÆMìqsH·n>Ü‹;‘ş?Jº ‹ğ¤e'z}‘Ñ!n*ÊKÜ¹	2Àğ©(‹øP¾æ¿d!0.;¢"R]×¥_ì—@9ÈD.Eé1”:²×è1n61†M/˜.Ä›Á\jŞj>o>o©°´[MÖÔFu‡zâéú—r%^÷ÄÏ½CNÅ_±%Ø¶5¶](ÙFìùö
+ûFûq{¿£B—ÇfÇNGû?–ÈsAçXöÅé,:ëÅ¡Duv[KfùÇğI2xc:E*‹é>_ÓyÔWÇtõm÷Í+/››µdCSİı*à>˜å8è\LÕ%°š €FX+Ö¢VOıİy£¯òsØ‹±²Å*`L/õË¿á;¢¿Çï£§|ÌR<HTY7Üßİòûı¶æãˆv(òv±oêhEQƒ? ­[9
+endstream
+endobj
+48 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 676
+/Descent -250
+/Flags 262178
+/FontBBox [-168 -218 1000 935]
+/FontName /Times-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 461
+/StemH 139
+>>
+endobj
+49 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 653
+/Descent -250
+/Flags 98
+/FontBBox [-169 -217 1010 883]
+/FontName /Times-Italic
+/ItalicAngle -15
+/StemV 76
+/XHeight 441
+/StemH 76
+>>
+endobj
+50 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 662
+/Descent -250
+/Flags 34
+/FontBBox [-168 -218 1000 898]
+/FontName /Times-Roman
+/ItalicAngle 0
+/StemV 84
+/XHeight 450
+/StemH 84
+>>
+endobj
+51 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 701
+/CapHeight 0
+/Descent -298
+/Flags 32
+/FontBBox [-167 -299 1094 827]
+/FontName /LHEFGF+Symbol
+/ItalicAngle 0
+/StemV 0
+/FontFile2 52 0 R
+>>
+endobj
+52 0 obj
+<<
+/Filter /FlateDecode
+/Length 20553
+/Length1 40288
+>>
+stream
+H‰äW}tÕ¿3»óµ;»I©§BÎ±~BÃG¨X('pbêA§åPÊìîÛìÈìî03K6ô(©å3‚FL1 µtK5¥4¥”Z
+¤Ğ$ò!¶ ”ÊG@T¤ )¦1Ş7;»	àñÔúgŞ;3¿û{ï¾÷î½ïÎÌ` à«xsÃ°‡¹÷¾ÓóŠæ0c±uVÀÔb@û©Ç[q0ªèÌq*Àê*lçZù?”Å‰(Ÿ`Ç†Cfpü€{Fádù¨?,…Îÿ`ÉbäS *„õòhó=7<võ¡\«tû¢w V!_!JèØÖ• kîÄñ£"Ø ïfŸ˜úp[$j%WyJqíù ®üG¦ÅUT÷Ç~M‹•è.­ îÚôLTIêâaéMœOÄşü(±”·_C¹z€¸.¦DÉˆOş Şú.=nZà¢ş¾pŠêëÑ/æ÷kX†öˆ—t#®Wî9à¹[QÿNp¹k™À›İÊ.ÁËÒÈ…û z4ùÃBfÖ7Os½Ò0ån®ş
+Æ–_Ë†h˜{É¿‰röÁığ,fÇÁ4h‚™pi„g™¥0”YŒ½÷Ãh„¼FÃP˜)WtÁØ‚×vÃpÀ6Ád(C­z`ÙlÛW1MàgÇ±ÌZ¨gç3/ÁtÈƒ;ÜMĞß‡M®(Àzv&<ê^È‚`ÂË8*—1Ñ‚	ìd–•êà²{4LâfÀVØ)ˆºÎ°3…"è`£pFÂh6 Ë!À.†mp€ÙÌbŞeJÙı°“ébö1Å­aàfô¤‰Û·°s Snqàv¥û‹±?îBûéFß÷pkÑÿ)Ìy5VÃJl_ÅÜFdu®¡hI¼%XïB^‡¬š+ğ4”Ân:Ô£…ñ³ì¾Í®F¦ ¥j®…¡¼s¨¼ÇäÇÀ`÷ìLş)œk#÷ {ˆ­€j¸ÌVs›˜ã°œKa<ú1õ\5`Ò1™¥ÜRì¹	#3qîH´s¥ğ3”ÍÅ½y%›×¹3¬ÌNâCp;Ït0÷òßà™ØjhbFò@SÀocÆğ~>‚ë0‚Ü=ÿ	p7:6°“c8$pbà^ƒO×q`¹bää WQ±¨\²"ñÕ`Ñ¸nÎ ¦ha;cY¼x Ûq3¦–nL~¡Ÿ‹¤2ˆkĞİG‹÷X6"~€\|ù¶AŸFºä­ÉÆ¤¦^3&Î„¾“){³1Á'k$Í“‡úzLÂZ6&€	e RI_‰9(<ÿ|w-‘Võõ˜àG)	ÏY#0O¦ôõ˜¤O’ï}¹Ïo.ı¦c(½]¥ÌÔÜ<µŞî0ÌI“fêÕW™©ô›ÅeŸpeº¸3øäâsŒï4|Ãá¿‡øÎÇ/ f/ær¶\)û´ğ+¬o,øL²çı‚˜ÌYKU‹[!ş‰ƒO8Xíà:ø¤ƒO9¸ÈÁÅ.qp©ƒË\î`ƒO;¸ÂÁ•>ãà³Ö:øœƒ«|ŞÁ:êàj_p°ŞÁ5®uğE_rOLñŸ‰SuSÕâ±á/óQ5–°ÈÏ%˜&™“P´ubØP‚–ıBTca5¦Z•)>¬Å5öKwPKÖ!U‰âİ¯8ü-3¬W8SWBäUI1ŒxE nEÒ¢FÂÖ¯[Lè<¶`¨x|üMº?¯ˆmäC¤Ü ä·’®%LjÙÈ›$ˆÓÿNÆÅ"†m×&1šĞ,U×*/Óß¯¸AmT´Í^mP-¤†Ãà	M#Ö>¤ÎUCä"úmÍ‹ ÎU4’?yçHÚ=[E¢i*Äü³×6k.1,’Ü&Û$‚~Ï#Éíş RU)Gk¬„ÛÁáLz¤I|£5[ş"–:ÒNoQ‰aZ†bš»üAÕj$cû_=iNmIT·*MbµÈjıD·©O­\"†ğºŸº‰­	z#Ön¿AÂIfø	}3÷ÊUÊöÉEÊŞ.ObÖ~EZ~“Sbåù›Xn(!şî3H¹jÚFjø€?ˆ?¸ö^Ùü ½	‘¨bÌ¶ù[.J­·:APÑ	¡¸U¬È?<Z¼œ¶àj‡3²ıSrä¸ñN:´¡€F“åH–Ñ|9êÉ°„~Ì—‘mKgiâ´	Z|‰•“’í|RÎz¡ÄÌw}=N =åëñé{’™ˆ¢ÁéÓ4…HŒÎ`égzIí!ë}_ ŸŒÙÄJ+~Ğ›’ä‡½iÀ:ç¥”¤U?’³$ª†Î÷t¬	6!Éæ¤F.zlol«?iZài—<ÉÒÛ³2Iş;+¬Ë²m«=ÒÒ?éÅH²£Xÿñ;¦:º×p’üô°ºÒæ;ÚW|=½¹Ú«3`ußL¿i2opiuï
+àvZ˜ök{®¯é‘nàÊ¼ÄV_™l<WÆ•Qæ¶/·òÕm`{+­Â×ÅVo§Á[#í–šåQRÊ[Ã•yúc[§ÿ[Şo\â="–’R³×#ğr‰§TŞ"5se¾7PoÎVäéoÏtVàÅi|­”âŠ¤m‘
+Åiö*x—R/z#Ná^g…®Âlÿ\ÿ—ê=+sµ‹­l‚ì”Ü†œİRŠ^|Xlåk©Ş®;#í·ØšR*<‹|C<ò–œİr‰\âBïŞHïJ¹¼N^çÿ¶o¨7"¥pdv~á,WDûåZo„¿­§âZv•×qEî€§“ÖûÓû¸Â>„A®@äpoáwß…m¥ğÅK^Ûg4æßĞ‚?Jã{ó¹Sæg€£ÃP»¥mïøÖ'u9ş±ä@áõMã{d—[]UY?M¥{)ÍßAom:pî\Ä¼“»ù;»î>Q¼¬DtiÇÄÇ/ÔäN^x8ï“±¨ÒÆä™“×’×ÑU°epSÇ™/íß¾ıâ9ïğşn8
+ªbéœıé­Í¾şK}ÙÀ6u]qüÜÛ/æ%~v<0)k70°¢ ¥]F^'8Œ–Œ‚J»N$áSëÚf !h)¶ƒ¡†‘„PBA¤lR‡ÊèZUC¥“óQhK+ÁD4èJ3t[aì÷l“ÑRµ{õ>|Ï}çüşç~¼çp˜#Âµ3½Œ¨€qÕªF"õüïŒÙZ«:=xş¢¬fOƒÁ,ÅJ_ªQzëÅòËénªd×:6ÁG°iÚ³í‡K¾ÿ…æ‹…–:Pã+É]í3^Û³+0IšùÚ(p¢/) êŒv-Ì~İ½« ¿	„ôF­TxÃÏBf ‘‘í\—/˜Xh#•ÃÛïd5=d2b`«#ãÏëÑÈ¨øˆ¿Nm•ÂÇª»[c¤!Å.<,ùÆÊ5m>Ÿ¢ÌSZ7ÛuFk@Ö¹æ‡%qX
+¬ÜÇ2ñ±92ÈHmnm?¶Ô–5ƒÀååËYF¨ƒÕõùöü…2ú¯*N2JæÂµî†eadä#ŸVèQ®P}cøK¥êíjMç«5îqsfrk5+dÌû´îÀ…‰¿ì
+÷Z'¼>¢ãƒ­üĞ®rBªˆŒÎıj9E¹B€¼HkÖ}Õ;]§¸]¥jÙGgIÿ´Õ‚UÙ®l•gªĞ+4r¨!«²EiíÔ»ÓŒ6±Å¼æôóÅåUñéK* vlïô.º¹Ó]xtS$ü^k{üg‡¸¹Xİ¼6êÕZ>5îÍw*Ÿœa•.T'®ÎŞXdu*A…€Zlí_Ù°<Å1GZÕ¹ùïï“òQñKñ3eÑD‡§G•e›j³„Œ|«<' İV"`×É½[äÖİÈh÷wiŒ•bAE‹™>¸ÌˆŒ6›PPÑä;(ú*÷Ö‡|nÉ·A·mÁ<>â\VÃ€Wk«ÔZe«v=:Îlº«u2–+®%qU´ÕË×®€O{©ï©ò“Dz>N5ÎöÕ?tº1¨Ê’h#”eë˜‘†3»¼®üTGòñÔ‡Vïy¹Õ‰ŒJšÑÛdo,£cN+H•µÚ$\Já¦b0ÎºĞ«x}%K‘Q·µÔ¸İv‘Ó£3¾^Ù:ÃU=Á6Èüwn•¹JŠ~Ÿºv7âp*Œ¯·,Yt­™¤’ÌAm¿X4q$ƒ2º`35ÈæçhˆaıSï%@õ<^IçÑ!ší´:d´iy”-gCá0æÄ…È8×Ì+ßÙ¢­	'yš±©Ê†Œã­Vƒ'Ëøu±˜
+»û‹’__Ïæ‘ÀËH‚kcİØÔm›Ü~d´v©:cP˜ï_xfk‘Çã]mÛkóq~vÍÔ†ìtÃ‰’ .(YĞ>ûxîÛ8UAYêv{É÷—‘<Ü|÷b/w´ÖÊkÅm>Øùü¸õ®¹Õ»¯\ü“ƒ_ÙwŒÙjk×wÅ¾†óó2óQ[öÆÇ¤Š¸P$Ùwîä”öc‹saD¶•ã|ìBr9˜¥.}>¾¬í= hŒ³Î¥!»ı‹Ë±îÉØÓ«Lu¸®g%üışTß¨©‰å›Äûv.?Qv"/ï«ÔÙDOYÄSö‡ûŒ®áè_»K]zİñ«şË+®àŞ-‹ .5½®]>?I
+,  !Ø=¥îŒ‰m¸›ÓëÚŸ
+™‚QQ"úº¦\•‚äØS/Vuïq«,±Ìv/¾ÉnÜÜ\HzGÔv;©(§Ø e6:4È9Ê7@jnzÚS [™KCtHÍeaUŞëBF!ë@Îv‡Á››KÎFW€ŠcñFE®N3’AF;óM‘e´Ä¤nFÒŸm«7«œ?R VIYCäÛÀ†”<íd‚¨%
+R]†n0N•âi˜À £:øt¦sñmÃèî„¦59—²ª½´;)Ì`…˜ã±0&Âdxù<øÊÁxæÃ"x¿kVÀjÂË†ĞíĞ{`/¼ïC/üNÂ8—à2ü’ÄDlä>RD~H&“Gˆ‡T“Ùd©'Ïä% aò
+i#;Èd/y› "=ä(ù˜œ"ıä<¹H®’ÿPBMÔBí´€:éhú }ˆª´ŠÎ¢séSôg´–.¾õ9º‚¾@ƒt=İL_¥ô·ô-úí¡ŸĞÓôúwz…ÆiŠY.û»Él›À¦°R6ùØl>[Âg«X#{…µ±ö&{‡d²ì‹²ì2à”‹|8wòñ|ŸÌÌ+ù£ü)¾„?Ç_ä|ßÄ·ñİ|/—ÿ‘àğ.ŞÍñ£ü8ÿ„Ÿäı<ÊÿÆ/òK<ÆÿÉÿÅøu4PƒÑcÈÅj'<uSÉ¶àûá
+áÌ@rˆ‰
+8s‡#EçÔDÊôƒ£ÅDôJoœŠ¢ÁJx£9ú‘“¹CÔLÌ4ïÍú!hVl5‘aKëeÀV1-RæÇÚˆ}Ğ1àUH×ŒE»j–aèÍ¤ùÁÊ´ö;QxıÈ…*ñ/©FC‡1¬ÅBòM¡[Ğí¦,³rˆ…˜™ˆJD-w˜=ûhÊ‡¨X·#»ˆZ´(Z&tÿT‹aB½ºû+ÇX+Ú„ÍFôFİ¦	ÚğY ˜ƒfm§ O—Áó6<±mñ=Ú#¾“bÄM±¯.É!Aÿ7úáö]†ö™{£%æ@-“ºyaôsKâÿN‹}¨¡XF-s»¹TÛ&òïHÿÆ¯»Ñâ¢%O(VQ‹¯µ4İ-…q˜zk‹}Ùß\îRIE³}Ñ2\ÓbŸ'tWZFıo³,™¨íœùÃäÖ*3Z2F“õô}»ÿH$«¥¿|T’­iÉ“}oZKTØ6ĞÅú÷UôEŠbK¾îà¯• ”}4Jò÷ô¤Î'\kâRƒ)¶º´,yÿ™¯ÿØ&®; àß÷ŞÅ>àâœ“Ô;ƒç\~¢Uç… føBÈ¶liı1i«Î	
+c£Ô¬İÈQr	‰“L1£“œ™ø£Z»Š¦­ıcœc§Z:Ø´NLšŠ­H0$\ÁFPİÜŞ;Û!”Õ¶JÛ³dÙç»{÷ñ{ßïû¾ª¦ùQ–2S÷ZÌ‚S·ºÂ{wç¿ĞÚ²¬Fãèğ„î±äëÛÎ»–“·öZWõê+O,3Ë k6±p€Í±!ìE™[.lY„•–èš€M¥õ/@I,u]ëÎŒæö1Ù<ğÒ^TâƒCñX­¤Š’C‚7ÚıšŞtp)òÜ&À‹¤ËV_–EÔ—2Ãjbº)ƒÓËÏGru…åáa·-öùtØj® p!%!ü8ò1Kí~hg–kÑÖº¼å¢uÔ3í¾dÕ\¯v…ğ^Í²x¤n±IÙ‘Ñã1¿¤7yç`D2fı6Ÿ”M8²s÷²E€…ıv“Åªƒ*©E×OÈúÕÃ,ÕìtÛ]Ko¶‘ZhGÅY¯Z–Z¬õØœ_7y…e„3æ…vŸÎ,ço_\¶\¾¹èØh;4SÕaÃP‚WÃ·Ì¢4)î)=>uÌMW¥"’Nï¢øìi	æ¼Í&»mÍ!²E_‚‘„7p:e¿yå9K.P‹|Æ(¥–¬wëbVyøğœ$Û8Yø‚¥/TÛÈ7ëGÊKìÃ`N.V-äNœĞ·áçë¾W´°‹kè¦u„?Ş‘Ü¾Ó`–”9¶l™«–öæ†ò“Ô"JâÅ”Q©ßFi²^
+ÜèóMèñcÖB§Ëåª€y÷tb(k«Òn~ŞHÚ˜…Ô_:ZÖóZé…‘ÛÍ™HüìÀéwNÜ¾±Î¦¥Æ~H-ê—5t6¸³(ó"İ/P†Œ†xØŠôÏäò–çÇº·Šj‚ÛMÇĞ¦E.×Ààğ¸tÄYg*Zìâúï—ûj¶ïÔÂ¼Ò²Ãä;Z+Eí°eyüÃX™är–¥úŠ¶_«õ»MemS}•at¨ÅŒ%<ÔR_Á,çö¤5Å«hîÅ‡-‹­rÖåÎ¼1>1¾EËD‚™?.^z·ÂEÔNá'Ì"hñPZÏœû0§r2Œé˜m:ƒÎTOfr%-ËS6m³Ï^ÄÓ›@—q1µ¡áq7*Zr³fÀä£»Êp[T¡–ö&gYÆ#I¶È¼ÿ˜èe–
+ÁPû´Êù´‚Û$Íøš5.±ÄOa¸¢Şy”Yz@UYñ-Ğ°5Çl„KÉ¼~dbÊ­SKğGJ6»—¸j“½–ÅŒ<.î§µí’UEYégRYPq“eyVùìü‹×å“• ‹hPÄ ¶a˜;ìFO6.…¡²]Lãe,ºËÃ,ò—”e‘­qa–úÓKkß¸cR‹ÈnT:¯Æu 2H>-¬ä-ë \Q/µæèÔ"Vóáò>!(o½¾‹ZâÓ¿e	,¶Úª 3aqÒ4/ß¶Šu~ÀLª2h­bÊÌæXâ]R_2šü›öĞqQY†¨eÀ†9:Çèú27j¾²Î,ß~ušÎ1šF¬x²,,^ğh–ßwÀğz¢l\â Ğq‰hFĞjs‡$¿¶b?–pbç¬ø+öPß†[Á"QKÆ²§#Á7WXPİaS€†qj˜¼Z—:]F:—²Â3¤%Sª&¸zP] oQ;x}óTıù<]%7Æ%v^<ÒAk—ÁË’ìh
+–!•Ÿ%]’®C5?ãQöQKP—h9ƒ±Éçä„'ÔrÀÊÉ˜S¥sZ„¼¥2!QKõÄ”Ó_1á	İy:ÚRK-}Â1/à¥'Í€=±Åø1mÈ™Jf†ÀšcÈ\¼.ÕJÃú‘
+¢®! ã6/"„hN.ZŠñ2"ÒœLÓ=³œ_a‰c•Lõ5J†L,µ¤ío
+İ^šÇ„b»İ„®•ÔÒ#u1,*ÖZiÏ)BUŸ¹$­‹å±õW*İ]¯VOüÂ·®jÒãé/oÅâµÏ|çÂì™8ÍÉ EÇè~/Ñ5–ŠèNĞA#„şhØ#-eO¿oáø]_Âêª0h¶İÍcŠ2í’ş<y¬ót­L¸1ºV²œ,¨Z„Öüq¼ãÎ¨ãÉ‘ZÒ7Í«ÆCqû¼—öå7™¿˜f"_È5÷›“¹9±9Ğï­šÌåöœ¹¨Êiİ¦hæ¯›Í¡êH*^UúOŞœÜl‡x<â]H@×JF:[+hl‰ /ûö—¯Ç,‹Ú¼-"´ÕìUùŞâúb.Ê´†É[ZÄÂú‚1ïEi°dYò/3Ëİ½¯(V~~HÓÁ*Bòg 2{Xlá/œ$ë«êŠçÓGbõ€V¬Û?~L.|A™ô=XµOÙf9Î^f—-´û¯,]ê'Z~«û-e&/S—xz±C\‡¢ç˜*èZD[iáî;ùQÍ~¯%¨?È‚Òú–‚¥ô÷*ZÚ>±×BËwJ-cdZ"°l±jş§ÙóïºéÂÕêıC-æ?:q¯¢å!;ºû[Ñ²AV-K)hÂ
+Ëÿ²}â¾òÁÑ
+•Z€Wÿ?–ÿ°!/X„OÑ‚i8<Ÿ¥Õ|#|Z`;İ1>ÏÒÍLôÀ~xú`"ğ
+‡Sğœ…_Á¯áÌÁEø3¼‡[°„V¡räE£ÔˆZĞWÑ7Ğ^ô4„&Ñ1t
+ııÍ wĞ{è2º†şî`‚í¸¯Ãë±‚›p+ş~
+?ƒ¿…{ğwñ÷q?ÅQ<…§ñÏñ›ømœÄ¿ÃÂi|ßÄK¤„¬&kˆH¤OáUC>O ¤‰´‘Nòé"/ƒdŒÄÈ49CŞ&¿%)ò.y¼OşFn[$Ç•pÎÅÕqë¹Í\+÷îiî_´WPT×>÷¾ûŞŞ]÷íBÊj™áí²(Ø¨ˆ¶…He³€BÔŒvìŒ”XÉt2µiµ5²ÀFw¢€:J## ¶•Î4Úi˜´5#:“IíŒHkLÚ±c'ÊøózîeAÔµcîÙóŞ¾ûsÎwÏıı~Ä*Ù/Ø«¬‰µ²½ì¬›½Ë>`±±Ëì¦ÊÕxÕP§©³Ô|u®Z¬.V—ªUjP¨¿Rw©êêÛê1õ}µ_ıX½ ^T?W¯¨CêMhª¦i.-AKÔ<šW›¤MÑ¦j3µ§´YÚÓZ¾V¨-@yT¼¬Ü‘@¾Á|ˆ*ÕH,X‰8È8à+Ø¨&UÅ+ŒñETª‚lØ†Ä;ZˆÁç8ƒªAÎ©Xpâÿq Ô†91X‡cıØ‰¦èÈíhÑv"lY¥-5E{‘UÌáÒªha'Vj%ŒbÛ‡éáú/<‰Ş( ¢0“G]˜‡J8¾¹D(ğËu1QnW$[¸D_EQ°ïD
+Eß2:q€¡CcH®—@ÅxjÑ8Å‹¢`œ,ÁQĞğjKí`Qe™|ZEÜbL³Q¬cSkæŒSİÿÅ±™ÿXvˆÿ?¹íÈ¦¨G‡¾6¾ÜF˜ş¸‘ècÎ¥ qãl‘ï3Ø˜–´qÃà£xÊ¹×õ	YKÙ‘ùôE‘d6äİÍ)ÎÈzı~nßGS J<vˆŞ,tiÖ©P
+¼QƒäæHrl8}‡‘êùZ.x/nÈõ„;’„Eç@ƒ„I™9ß=7€ôÂã8Ø[e®›÷æÜ¤ÄO†úºÌsø~õ€‘„™0$®-ò¾f'İ–~C
+÷›o²EÏI¤oÓK`4Œ%·V¯¹ÜNGbâÉÎ¾|k;"áÉ"&=E‘Ä&îO{«òÇÍïaE!^ï+4rÇ[]._qsXïÚİîç	¹Ä1 ÃqƒÖ´9{bCºt¤Uñ‡bÂ5ôf#"96a¹¿¸<½(7JkC¯.ñŒ")	–ÉÔóIÜ_¯eÔÓm½àníîÒİnNC…6ßÚÚ”4`o½->¾@/(Û]›‹H–ıÁ;£ı§ß)Oy}g~ß_v´¦XkSš·2\8XHd§ÇíË¡e²¬eÙÆgÊÓ7¿“ÔwøÊ•«ı,UÆB_ôWÉÁ–…wCnÎ%’„gÿÃÇtíÜŞ>~ö`ë„Š:İ°Ş–İ\w¾5Ø±÷Ûïçé%†ßH¶¼–¿ ¼¾s½oÇÊu%-eÖ‰ÕawÆšcııÕ¦é4Ãûîd³÷XÌšÌÄÕMy•ûãSuÃ—Ç¸çÏ{–™¾¥Cæ³¹aO{±Óİ° ç@²<aK‘÷ÄNG/¤vhˆ÷rüæ|Ş§¯¹ÖñwN¶=ñ·î5–&q1:áHÁÒúßi¾Ò’9Óu‰$­‘k¶áĞ&bRH =¯ô'btÛ_l;Qávëº»€;L=mUàz{*)iÓptJJ¶ƒUÄD"Y¿åZÊtÅÊ u·å£ˆW¯¸`XzµˆÄã*œ€£Ãu¯dºD)­ïŒÜFâÔs8éN¸Ú×Õ(æÉdİ»öçÜÂÑñÌ·¿8ÿLùL‰$Ìyª‘6/<#HV•îi§@òùğŒåE)u‘ü¶wz½×p»ûŠÚÚõZ_“Óe3Ö©{­FÈ8ûB¶†ÃïÔwú|%G£11xø®løvØÔY"¢³ .ÖNuÅÅŠB\;©ñ†á1K¿_…À£“H’o  bL±ãÃ‹>=ù
+£¢:sêÊÄ “nT¿mšYÇÖ=ßÕ•ş$ëTNæŠƒæÆœ³•ƒP¾îŒpdeú[É›gâËßÛ±â¸aÙ‘Ô­×P±àë¸ÅÅ*æ`\Xsô×ImïÄõ‰;¨›úêÕˆ"\ÌX»7;rÉÄ^$ºÇ6ìN÷ÙıBÅ¦Qã'nnÈ5)ò©‘&ê÷6aQÃÑ­d4UÆä™ñ¸Çò\O$zî4J_÷M’åI$µE†¤løÃ1(~w[¿éĞ€5¹Î3´Æ6øÊTævtC­‘ø£H˜q¬[¼û!yP"®pÀ ¯òtMğ¡ê}‰8‡‘Ô<.$¯±ß„d˜„Œj
+d@ÌBVÀc¡™U1<K0ö?†Ÿ@%r«—áçğ
+ÔA^ƒÍÈ°: öÃ›È¯ÀIè“ëcø¾€›DÅ{³‹¸I™H&#ÓÊ"Ü¸æ‘gÉBòCRN^ Uäe²–ÔWI=2¯­d;i%»È^òùy‹ô£ä]r†|@Î‘’“Kär˜(£¶Ç .êFFç¡Ét2BgÒY’×-¤e´‚® «éZZGÃt#İJ[‘ÙíAn· ¦GèQz†¥ıô¤C
+Ev¯$*>åIe¦’-™Y	r³2¥B©DvV£D”F¥	9Z«Ò¡ü^9¨t)'”ÓÈÒÎ*ÈÓ•«ÊudjÀ²5+³3s±8–È’˜—Md“Ø·Ø4–Îf²L–Å¾Çü,—ÍA™Ê=ì@y$.¥P&îó`A–`Eî„ä“ªàM_ƒ»„(˜/oõX†·zäVœEíXPÈoä
+ÃÌKärQ.˜s†IÔö¸ä‚·	µ áèIøæª´-Zp‰‰
+ßKq´-zC‘Í!‹ÉÚ,Ä>ìWªè§à™QlÄ®X°Î0ÿ³!Ï‘îâÑş‰Ášû û#íKÕ0^#,U½-Èc5ª	F+F„q†<TE–É§(ÓpıZF¹²*ó–à­ÊëhOl|Ù·ÌşŠ2¿¸<Ë¤i¹!+QY)ërkØùTRğK«Ş›yv¤G¿ğØ¶Œ5T‡7|ôë8€o>¦¡åšô; ıæü c¼;¥~óDw°gÑßuÊ“-¡K»t'xr¨ïê?~–¼éÃK—~i~fÙô’Yg «õcÃT„}ß¨âGkùŸA¸>(ÏHì§CfÕàØ¡Ã;;tì£¡¸³ÛÑ¯+Uúí(ªLıùåEuÇñß{o³{Á•Û„ ÍxG8Ò‹"]JúG²ÁÀ$j 
+ı·„­eœ Œ¢Vx!r4Ô€¡&2-á¯Áş±¡{9‡	ÓŒ@G[i=ÄìXÚN/oû{»—äìÔªã{÷ößûóûı>oßŞ÷áÆvê9Ûp§D­
+7—7î™šĞüûiÜZ¦
+í%h·^ĞÄ@°m	7ÕÎÀÕ /Å¹µÕB›3°Œ{¨ÂWXpiÆ¨Ğ‚šl—Kİ’S¾£ª½(÷¾pDØ=‘¸·ğTÔ4.87oša­¬4î7òç…«çÊ©Ú/…/›¡YAxiYû+ß-*¯¼¹oÅÛò2:}Å†™÷úÊÆ	`jOÄóL-ÈÏh0æ)Ù‡
+»Kff<úN¦ÿ•ı5ãxf¶Æ;ò·İt|Ay{QaÚ¤óÖy/ıÒØ5‘}Esƒ§ÛxuWöšÖG…İoşºñ+¾ÙL$ó-ÿÅ_Ÿy±²èH{İXuğ„¦Îmºôhw6
+†&^»óÅ±4İ2éñ*ÃÁú¹![Û±hM6;¾/yä½c‡]PÖ^T!ì†Úxk¢²§÷µ5MëŠ¶_ ùDß¤‰oE8²æÉœªİR–jKYh7tèşı•‡s*j¶ç/=µ±º »…n¯Ë=yW?çõ¡]} sìHáá‚f=h>_Ïœà'¿¼({×‹2tŒ>{ç47ŞşN7^_Ue±¶·”m7O·A$¼»¼1¿"	íœ¶pO(+çhãD´;eûò•‡öWàäF´[Õ©h°5òÏ¯]ñr ;ª$Ïhì½ï[iÍ1ëÃæ†sÙC4jŸñn¹ñ¸‰Â6÷Qo~›î>;ı-İêlìÙÚjX¿{íÏNß^|ğµ#§Ş~gõÛÅçPÎJÀK…í]wŞ_»fë‹·ì¼mIs'—€o¦&æ7{o¼ß´òÉ"ß^ıLñª7Æìrç7Y2…İ™8¿¤P9Ÿ°£(·0Ù[à­ßÌÔZü(…„« B“ÂĞèÉ,Ñ#‹vÂà:5‰j«‰eVî	1MT“WŠF³JĞ.Ÿİ[ ¹Oä”İôõ>pLÒ Øø·'ìÚİU£ëD‘ZG|ÈîÀÃNúGŒ$jŸ1–Ÿ]´>ÂÒ'H’Ê†\ –*€B˜· ššÅ¨§JPOÍ†J¸æÁİ¨§¾K`),‡•°
+õÔÃ°6Áa;´ÁÏ`„£pCMuÒUTçà¼‰šê}H€C¹†d‘ëPUM@]&7£²šNn'¥d6©$ß@uuù±È2r/ê«È#d=i$M¤™lC…õ$ÙM:ÉÓä8ù*¬ß’$öäSä4ùùy•¼N.‘·È»B©Ñê§9ôÔWô&jĞ[éW©IËh9KkèİôÛt	]Jï£kè#´Fh}‚şuÖÓô8ıÒnzšş‘¾Jãôıı;½Â2Øµlj­ëX ÕÖ6ÕÖ,VÉªÙ|ö-VËîeul5[ƒšëaö[‡Ê«‘mfMì'¨¾ZQµ£ë`»Ù>öëd‡Q‹cÏb~\¥¤¥¤Š@üoÏ@àsÏjT¼£Ô-ŒdàİˆŒ=DÔÔëçõ¸u"rŸz5²[“áê¡HU(w<Ïz†{YòÎB/¥Õx–|^{´K…íO¯¤„6Bep) WnFßGa*z¤¤ù(ÓL&ê½ø|4ÓõÍËÊ@vGò âqÓ7\	bìQ)ë¢ÉPi(3´…oM<™¤HbD‰Iè‹wÌ--b;pŞY¥0Şımúl>Ÿ¿d`V5q…ÿ› ~¨–¿ )(
+º¯+éeÍ*A…ÛõœÄ†Egq4hHâ½¯áõ„GÀö}®XğOÑ·	†± FĞğ	’Æ[ÅÆÿ/ë¿îÁ?¹1"Ôášª;Å¢áÉb}üƒÖó®ja§6¨ÿ&™W?ò#	ÿèã€ÃÓÔ1;È4ÔcÁ¸äMÃY¨cğÁ4¨¤ÿCR-È²bš‘ê¬>—Š—ØÚÈ"3ÒuxâîQqJv¥$¯ê9”t9}§‘i,üÎëÒYTÁÌ/9yk²Ûl¢İ`×–È[ÿ³SŞ£öÚ|¡W$ıQÇñ;tÉ»	Iáx@‰:IC²•G,ëüÎùÄz'?òœĞĞYä{'fº·àE YÑ"îF0‰y/Õ<iäS,”—ğªúé¸
+sú<Ğp¥¡MNß½dJ\°àAìxù6Xê±%dÑ8À¢fÉêÕÆ}—H‹;Ÿ`JoÓŞl¤¼'`,æ¶&Ë¬¦RÃ¶$ÂóI7,üÅÚüêTÎIì1çŒuT¶Ad¡¾ëÄ;Éú {ã_2[ğ"l‰FKÓ‹e¦O¹7CôZ¯²ÒŠL2Ø02epÉ²¬ÚŠ}‹Ô÷‚OÄnTŸ
+!Å?ŞÌ!—aCÔºš‹}òÔ¦ÕyŠQr´[KyÏ¸aØ¼X¦¸5Çea&öäbÉĞ-İ2¢Í²šÅ9«ï†{w¨é,òF²<ÿüq¬ÍmÃåoÄE£•i…x‹!zÂAÖĞ-›1t‹lº¥âU45<ølŸmØFé,d¡dQoÎ&›È†œjî±så½«XtYº0¢¢Óœ[[ŠT¿J83^ãòõ]‚Åb(–a‰n©L%z”{,,;êÑ“TÕ¢(Û®°HèSF+ç{ëuIQKë†_ÿ–Z¬ô}ØpšuÛˆ‘Sw!Y7€¹Ê¶\ÏËL—‚Ä‘ôµÃXÄ.KÖIà*ôİ$¸Îd Ÿ9›²äBWe&ÏåzÁD°àÈbN¢§®+§Êö¹,Æ; ‹,.94H7u.K…±{r¹¡^ßT—…–’÷ujsdˆ©‹Œ&ÖäÉ,bøí’K8Kúbn¤X°Æµ+bŠºzaôÊÅÜ÷ı²^7UwŞR“+ÎùUWW´4‘…D÷å±J ~%Ş›š^ñ½ÀP‚ø]›Æâüeµ®‡)‘MåFÍúùõÇQ ü›Ûíî:]ûöœ`ÆäšÛü!*R$Æ¤$®”êÖnA2"O(¤®“(	µ^0¢²ç|§ó!¹\!Ñ< úÚ"!ñ‚Øë¥¾V2iûf©}8cPÊC•*ÈE7|ßîï\;i› Bb¼ç»İÙÙßÌ~ß7Å*88o¶Îñ]
+l\?“ªN|-\*t¤Yxî¼[-Ÿ®N/ù]‹õ~‹?³\‹­£ò¿ã&üh-_F	àš -¾€VI'±¼»™?uXTÚµÎÒ9óïtvŸ…şƒk§´åc_­½;;ú‹Zˆ‘Á±ÅÁ…ñkç¦aä¬kdaãCøş·òì–ºÕ²pÈd!½&>$yvº,Ráª=¾fäŞ¾.„ĞwãZt `Ë–À»K\J?<Z-÷Y¸Ô#Y¸nÙY*é†—Dl‘S5İ+¦ºJé»#‡æ4ï³Şl-Äym%4rœ3Ê.háÿ3P1FKYÌœ]E1u0²XšªÉ -ì‹0²ÏƒˆÈÂHÍ®é_:ÏíuMƒó{l1­0¶-kÂöªDoÀ¯à® ¯İQ´p=ztÏÃ‡ô-|œ›Ê€uCO,fìì»¶ÛhaÀ·ñ4–ğDÒIq`´"Ê´ÀÕ¶Ë²æTsNİÒçTè–3NydYìÉ© ,#‹y‰“)ıËê2d³Z€¹ ²ğgêpÃ6Ò7LU”>X~>ÈBÅ¼ƒie/¯ÁA´Ø_&‹WëÒ·á1Ë€éÎĞ%6-ÖÄ‘ñ5ûÔA²ğÈâˆ1vE±¦ëûkOú%?¶È·qJ—ª^°Ïü§ºİq)†Ó$z¦
+¸î…?T
+Ò°ª‰ÅÚóöuÛ+ÌW/;{àQ´pÁw<hábÊ#½ÏBR´.,·:XØY\ˆ-Yøh1¡ãºĞ²yŸÅ`	.êÆŞÅq
+á¾–¾Í´îºàÙ6ì/òÅ®E<N8d¡µÑºüˆønb!n£Åbš5…ï‡ëëõØ"<‚É«gÜÚêM…åv¼Ş¡ua¤ŠV)­¨@u
+‰ÅS`X¬Œ,\Yf‹E
+ødÎúÖn	 £g€z$İ­îrZhá8†“¬‹æÉÄBv-ŒïÕ|ğÅ§Ú*D‹ gä˜aÕ×(ªóFÇÁå8‚I¼àüzdá^‹ß‘€¢:'‹øLv-´e>î_²O ‹`»E€™©×ApÕuëï«Bjå¼j‘+¦2ÒJ…Š²'ş"So‚	G @ïˆ·iá’…R-ö¢Õ~I©Œ›[hîO‡i]Da$‰­Ä"Š^52ı|ñª<±“ñQ)c¿)¢u!!×ã‡S¬’äÎàÕìE÷B;d‘Š²[,p]“E“W¸1µÍbzÁüC+^uY|h]Ì§Ê#Ì$^h©ÉÆ#â2ÅN¹Õ/²À­ğ2YàŠ`îüşŞº¸ú«=hÁ,çÑÄâœgó›–dv]Z0‘EÜ÷E/$.Æ’E\_p^—^mĞv‹sjŠ,H|£gÁyÁŸ±Oí!‹ÂÎ™j;§ªWÿv{îMÕ‡NâCr}ò!²èÅG«L6öŞÀœúŒ{P-¼Ø³§]<ñFÚêY¸½xá¿zÈÂœŠSæÄŸVa¿œAşšl&öØü¦…Ïâ]Š‹eX¡º“,D-5Óv³‰…NœA3Ú¦…fö[Œ‹
+×Vì±òÃÌuıé—'š¥f;)§¦MY[İhå¯<ÓÍ#“§£<²ßªğ#ÅTÇ¡­7a±1ä­b­u³ÈP¿äÅyDº`2ªµÈbZx^_)´Ë«œ2÷îÎk¯`A…7KápM[çt´¨b ×Ä¢H¸AKM9MqX:Zd­bŒ±›¿o¹gõ“hñ£Yñ5^ªØÓ?Û«	ÿÂØò“c‚eM\k™8ji³0g>İ­/Šg ª/ÂY†¾YkÍuÂòÅ…ë¬Á+X]ìF{¬/dT_ ‹	Tƒ÷Yôê‹›ÄÒ'¼Øb7ÅÎrbakM-DKí3ğŠÓWş±¨×ññëTwâ½<[\–¯ÃE#¶°ıà²ÄZÂµã½Yk£EúFı¦
+|œ}¶HcgÏµo‰Õ‘)‹áè?w“•øúÆÑ
+fòÙ—ò³s•µÙ¸§Í
+Z@süÍº“‚%ÕXëE7U´. |fıóæÏi¥=Ìª)Jª;eTwÒl.hŸ,têÕ•½ºsÌÓe¤*‘E&¶(“…j‘Å‚òÏÚ-ì@ƒ!­¡n…ZB‘{Ş¤`æUcƒx']kåÓJ+İRêÕ|K7k­Ùt)Ì·ó0«İFü]­°+ª…×Ş©-¥Í³?jÖMÿØ
+“Í ¶1c‚Jï:‘«‡ùhoÖ¦¬Édv½ë‹šÂ×5û-7CÛ…6´Îlºo?¢T;9I©M‹Ş~D‡"]FÅÈb—ó,Ë÷"œ6¾§¶6	Ÿ %óGñ"şÀÙŞ6ÄàHıÉ#õ.ÀJä…åî?¬ÿ^úÎwHN9pğC¿$Oõ}ÅzØ<¯@À¢#‹Ô–¡áFâ,œäØ³Ğè+/{7ï>-`»ÅmG‹¤S…Ü|h…˜7¥dU¦JÙ-CsäW€m4÷lÑƒSë³°ä½,‚€õ,Fûûú„XJã_ÕÙòålNÂö—&×Á­ƒÈBj[‡6°ó >nÓÂäCÏÂHË{X¤eXêş7Üß×GZ¾ßQzÉÑÙ[¤Èbi›Åkêã·nŒƒ<‹‹P’…Iw¿[¼Àä7dv/êúİ³ÉÍOÙû¥—?Ââ?Øú,¤ÉïÂM{5²ĞÉâêÓâ§¹ÉÑqıEğÿiÑm¿#@òßi¡aè{7JÇá4œ¯Ã·à<<³XË>?_ÂKğø=4àmxş7à¯ğ7ÆØ ûË1Á`Sì›ìû>Ä?fËì×ì·ì5¶ÆŞc·Sfjä_´WT”Ç¹3ÿvE1öß’%Q¬¦hZ\ŒàkE0»&A¬QOÓF‹Ä×Ò
+kµ<4Š­1Æ0n<‘®M[ÑÖÇQQ«‰1ñ™4kë#+ÜŞùYÔpªñÓÿî¹÷ÎıæÎüóÏ°Â“ğŒ†|ğÀÏğöZ+à-Ø [`€“ğ\…vÆ™õf‰,…a™l,s3û	›Ç±:¶†m`›ÙÖÊ>aØUöÖÆ‚<ü; ^ÜÊùS<àãøü%>‹{ù¼‰oæ»ùA~ŒŸã_ò«ü¶)õ”4É&=-ÆIEÒT©\Z,5HoI›¥¥£ÒyéºÌe³œ §É™²S"¿,—É‹å7är‹¼W>!ÿC¾ ßT˜¥ôWQr”)Ê+Êle®²DY­¼«| ìÄ´vŸrD9ªœTÎ*_(ÿT.)*SUÕ¨šÔŞª†7¼du :HMW3ÔjR‘ƒİ.	ÎñàV¥&A#™™Æ@ªRDK%ÈT¡xYA-²(;	WU!‘‚hILÔHLÄ FM£Ub@Fè‰õh£KB†Ö1Ô¨³ÊcÑÎ(¼¢FxŠĞ}…SâGé¾±Ô5‚$œD¡Ú™ G(1åÃDøà‡À 2"H¸" šEëÜGŠC|dŠ¸®C`Gtâ$Ô#7£ÜÌã0ªjÖ#6u ém¡ë	f)EÒhÄ3>4#3sDbĞ>LÑIÂ%$Ôá*à`ÄYSÂ(êa:ı 
+kÅ>’°àíà"Öí78[âë0øÑ?êt‹Z‰51Gû¿¡€‹×Îµ’„Ç|;Šá¾Îí÷AÑ“mMGÙìi…¯ßŸñ­(Ø«âî á`×…¢ï]ûëö{‡uV”N¨ĞQ¯_·~ÿ İ…++j‰må’“'¼dù³-ã:n®®ûÕğms·µG}ıÛ3{18¯~_¡+àçoêYY
+—mg:JÙÒõDñŠã§æş=S¨?†ºòËÓ<‡“¬ıƒşv>oU9¼a²µ$3lzV¾ckr]®ñÄò¼ª’æŸúšì£¯ˆ÷ÆeÚ	ØûfäMŠU–$›vÎss“½¿èU­’‰/|ö½òËsO™§VÍÊ"$QsZëÅOó?&P¶M.'i•«J¯Ûß®ŞP`X1&¹)?o‹³²Ö9F‘™Åï”ìkÉqâbé’ã±)ê¸¶ƒí5ø]%vÈ•9Î”[æf\ä¬L´nÚ2k2©[°ğ¹kÍ-Ç§OYaõì{¯)kÓ_;”W=ÏóÎ.øÓ¹QëÔú‹É5ßÏ«ª­¬³ìÂX–7¿XÈ±],É)}wRâGjêÄ`°µV•œvknğw{TÈûåË·¥vñí¬MïóÜÜ
+¯3êRKkXšçôKÌ¹WşšIòês‹³®ÓèóVµ>ÇQcÎ«J¬ôUWoG”úâœ”÷›ÌÍ:J,ŒêwôßeÁàŞÛgìÙC1Cğ“½cË^(•É–Jî1–¯êMˆ¢ÏX]aÃ°Lãš•½›ÔmÛşlXÓ¶æòé†æşùàóm‡/ 3M«k’ök°µrùÄô´q±Òb¬Uyæ•›ğì®7!}èÆ/×]Æu9İÖowèëb‰.?“€ë‚3¦¿É`7şï_ÃìÛNx2U5¯Ú™qÕ`æa¸.w6!æĞ>¢Îèo²hf¤xZ“§ï=©WÓÍİQŠğ·ã
+s…™–‘»	Ş]q^WîİføK™çOúÁôv;yäçß1ÚßQ+i¯~øè º7¼QôÀoQ,‰'ı0T+IÂ]k#É ü?M†‘‘,2’ä’q$ó­Éäyò"N•‡¼DJ1óšM^'I%©!Ë0÷ZEÖ·Iù=iÁl'ÙC’#ä8æagÈyrü‹\'m¤
+â¬Æ3"–ö¦ı¨•&Ñú$L‡Òá4ƒ:hK'ĞIt2-¤Óh	-¥¯ÒÙ´œ.À¬­Š.¢5téw@õô×t%m¤kè:Ì7R?æ‚¤;é>zˆ~D?¥§éç˜^¢WéÚF¿
+y‘`†Xx3ÅdH…Á02À¹0sF7Â4˜31w,ƒù˜?VÃ2X«a­En?`;ìÆ\òƒá|á2\ƒ¯à´Á-è€ £ŒaÎ"1ÏŒf1¬ëÃâY?faV–ÄgØHuÏº$ğPù S0*IdIÀ¡D´HŒé¥İˆ…l¹ŞOî$&j
+ö‘u™
+˜<ê^E/aÁC2öWu;áAùå¡»#¹—xÈ‡êºä¡b|`üÂ'`$ ü2¥“ôÌFÖ™‡°—uÕDìa\DØÂÂô^}åoPgÄ
+Úª q)$ş%9Rç,Éz=DLgÎõ5I–D/|!ÄúˆRèÇı+ƒvE–¸8€mšÑI9¿}‚KÛã¶¤Úº55£¢ù‰ÓY®‚A§‹ÇKn¿Ô×Ï’T?OJ8{?åÙTÛh§KP%Ûr›]ä@áDVEÅ(Ïv¤ˆb ²Óõ¥ËÜ¬
+Çc[ñ3Ã¦¢ZµiZö‡Ÿa#Ì†‚ÖÂmÚH„™çJpk>Í—ãñi#µéS=80ıÅ>÷S8Ä‰®Xæ»,~»;şNµØí†~z?\÷ãs£‡Ò‡Rİ:è@£ÛhÍÏú;]\~¯#Şow¸ã--Û¿İéòowÄ[Ün´Š¼3RüŸ?#.4æ(sd
+V^pìñ~âöù:[	¿×ç‹÷a¡v€lï& ¤»Àˆî‘%e¨×©«¼	–x!H°$Xpœn1ÉF1÷Ù8R‹;U=RcG#“n7·ªVtfŠ÷<{øR¢×ná1‹ĞL>ã$xKn&r:)Âv!r÷É¨w!×@zğ¾bÃ‘×"ÿ0TŒür>r:ròH'k‘Ë±¿ğáÿl)™>ÿËvõ„¸qyfì„z{hÙ¦!”.¦X’-ÏøÉÖË¶<z’Ş“K©,Y–-ÉÆöøËzè!ôPHK	¥”¥‡Rö°]z*¥=´aK¡,=/¡—’ÃB(…é§É,,K?Oï}ÿ¿ïé=Ù9ÀÖóÃO™_~Áü*§‡Ufwøóğ½SüˆÉr»WrîÑcæÑáæ]˜×KÀnÈ|ç€»ĞJw˜æşq^|úşó·1e8+ÿ™ËL© (!fq¥+»¤O7¯=c–9òñuÌüôƒ¾Ÿç(Ş?@ÅûÌOŠO.^1Ã=e„£Ï˜·rŸ0åâsÈÇo™Œß¾›×n}ÂÜ-¾Å,€bĞQ9ZşÈÜ ™ÛÅ1o–ŞdXûféæ ¾|ğãÇ‡:s >j€»`ãÆQrşkæ1¬}=™ÃÏ™Û0– ÷G;|ÀØ‡.ş~ôøâ¬Waşâı‹Wà‡’×¨ğæèıi©Ä,·Ÿ Şƒø>>bƒüàßy.ò¸¿
+°ó!ä¦•#C~î[Œ~µöÀû ÿ°ô¯Bêqšç«ô¨p÷ğó§+¼—ø5°¡C?ÀEšr@ì7Š]¼÷À—x8à}x…;9®=+¼}ø¢ğÈ}M/ÇÑôè%ÔúéÁ÷®3ï^ÉÍÂŸ@­9®İ*@µKèÌ_ ?ß‡Üç½sb¹_|qñ!œŸ_öşWPÚ3»«óµËÿÚå¼°à‹5¿½^;„¹o1e ¼üä¸º=ı¿ßÁ¥ÚÂş2-|Iî»9·?Ÿ§¯Ç¥Æiôı×½æûÆó•Õƒth÷÷ËmßI¶˜ñ$ –L)F]ú3dÛ|6Ífåf\;ƒj:ö«›Y{?w½E¬©‘¢½U¤«ƒêÜŠ¹¡ÎËv±Mğ–(¡g{8öeŸ‰`±„5NôÍ¨&‡ñølŞ>ïŸ¶<c,!ÖĞ+…·Îxamká)™Ò.q9>P”5&kÉœ¢J8[éÛaÅJs°Ë@dA¹(†£D?i£¦¼lm{*Zò–s1wÉ‚‹|ŒÕ9jdòzqiÃcÛ[uÔ^ö½©$Rã&iŠDCœ%-»eË<qU‰Í^_Ÿ›z›hx±›VmÌ®LNU¤!¾.’¶‹¶cŒì¦$ŸyÁ%²q
+¶å8ëxîºXÒpbôÇÇôÑöº%Š2Ìày&µ,SÈ­eËÀñ©Ï'W¢d~æk¡ë*¸“rÛ-åñù’×=Gİ“sSÖè`ª#ŞÓ¦h°nå	Ôé7HGšÅên…†4¬s§hªœ¸‹y‚¹êk1Li’É«2'\?ìM·›Q£»×\y LÌQsf™å±[L“8[:9Zc€æ(	VÁ@.·Ã$RaÕi¶Ìº]º>óT…ºrœèËçÑç¸3"”_«Ïi5îÚü–ÈˆÄj§é¥1Ít,9Õ!¢cÑW%2ÛXâVq½n«Y;—ÓÔğ”U-H}+•)µ§hávVuGO<N'Ş|ƒ:$¡XÃêf¹•°`cgŞÎ›õ'A›«¦§³‹|¢7CÒØ2ñÒÄhSUÙ…©ĞH•pgã&zcì‘ß_öø®]Ãí½‹ËÖ¨ßeqe1èLÏ±Lg”m#q&‹%Ï_ÓMÛ„Õ;~ËLšáìLŞ”Ş¾6ç­Z¶"¨g¹ÔµÔí(#C4TUÎÇÆ‰«£:ªIË¸w|ê­Û“v&uV¡™pãhŸÈ“e»8>ØÕÚáWã€”qºkf‚‚iÍIºõ=ŞP|ú	«4éd´–w½•ıÓX\6qyUÕ&àµÌ¹æ^µ³T:¸’A°ŞŠ„GD­c.®¸r¬»¡én6¯˜N`ìgÈÇ(à¶ÃJL–Ê¨ò¤-Å)æd¤öyhFËqâ¾½ˆ»¢Z‰Ør5“5<~åÓ n´j¬¸Sf‘f(°«Pón˜)“ºëAëqÃ!sÕ‚fÉª\%’…e$TOÇl•8ê°’Js¼Y;J0÷,‡®'°' ş(¨¢1¡«M›ëPK‡‘ÚàCv¾ÃjƒõÂ‰¯I#ÏŸÎ×‰×Š}ÖìdV×–ùİˆ†ØÖ-s¡nİ@N»CÜ—IŸ"=t¯§T‘…ë ’,¬jÄ]z‰å¥TêàjOĞÅ©Í#4€º6Œ3¬+‘šfV)oìhøíe»ÖRêĞ*®î‘³cIS·ZÏÂl>HSI75CNZ·j«i˜Ğz’	·¡nHè|¨Ø±ÔÚŒ—åÔÔé)ÊèÄoÛK}7éUN]ºêIe3Ñš‹½ñ¹Ú6{¶‚jœ¶;WÀDkd‹cgƒX
+]"ôˆ¦¬‘\v©}Õ%S6j1„H•ÅÙV‡wÓ$š›SÆİrrœØR•U…ÉlF¦©6Gn„J,ëÆ˜(´¼àæ•¡CÊë'Ëã8ò\êEwÍÄ¨È¦ÛSÇ±…T“ oîİûèÛ^}ü³ßÿàú§»÷üáÿØ/Ó°¨®3¿gî¬Ì3l£ˆ(›ˆÈtAK]0š*AÜ£Ğ ¥BÔA¢†nUq‹jTL« \hÔHFbRÃÓ¸Ç0.Qk&CŞû‡Ç>±íÓ~è“Oåp÷=ÿsÎ{Ş{¶{gUsÚıÚ½ÒŸî¡O6Ì{óÖÂ¬µÃKGìòCöâ`Ã ‹#Bæ]]¡´ØÿmIsÕÆä«GÆ%ô÷Mª²éxÆÅ÷şç¢ìÿ‰æÚ¦œŠ~Úê>ë³2~Òü7£[ÆøŒÚ8LS—˜¹jryQåº(çè3ëjl³&f&N<4û“ô?¦x.¾Ùpe¡Ldú×Œªô+Ù}ánXí;=¹”åÍ®¼_V;«ÍÛö—Ãº‡û^[y'¿)=ÊÑçÄ²›­iİó»NèìxÂù/‹öfl:w®Ï²##İ‹vÌœú°üİ’~w<MHº=÷+ó•‘eÍV_8r>-7ç*øÂ®~ÛÎK™\·ææ~İ£üø—‚»ÿİ­b“ùÒá9Ş…O—æNM>;§üDnX½1sÈ©ñGWX|rÿ#+*âr/ùİ.éÕ|/ØOyëÉì˜•wê7/]P—÷ZBÇê˜my)¾)îÙ§´òî€ÂWëv*Ü.º0jXÔ–Ş¡ßGp:s­ïq×[Ód«?+¼uõ¤zORDRóè¦­íf•_úíXeäœõİjê·dŒÿÚ'UãÖg-2†Å¿¢és(çÌÉı±S¶\»¿º:>1ùëOS&I½b,[—&§”7¦ù¦—n9ÿñ½ö–Eg¾(L}¯1I_UQTc\8/qx©ÆZÃ?ã‚Di„é‚Dµ0Q"¢
+¤ü	âT-œé&ÕÑOñmŠM|¡+Y(„üÈƒŒmŠEşL¡j¡ç†²£Üç´VĞLvİ½MiGËi:%Ñ+ÏGzçÅ‰&¼Ğ½‘†ÿL¡*áÎŸoA•Â¡õ]\‹"O¨ÈN’P‚‡!	l’Ljíà ü|>Ÿ€ÁïÁGàCğxü¼6ƒM`#xŸœw`ß¦[ô©ø.çd[¢oaßo€×ÁkàUğ
+øø7°ü¼şü
+ü¼HïR'îí"ùrîshŸ³­¤ó°ëÚ(+ŸÁ>Ö‚gé4óSØgÀÓà)ğÄşgØ5àIğ8X€‡ÁC`¤aWUk®¥û—‰*é 9rI%¹#—Ç%¨‚?İU(‘˜±¬Uà£~?E0?¦ù$ÅµğRÛÌkRÅ÷±¬îC½½è¡±–ÑîQÅwYÛC»)›s²&çäv·yK$¦ìá#J`{Ú”‚;Áğ¹z3?„½úVô¾JI›¿ê‹œìOV$Ú„v)¹çD¢Ğz=z[{-¸F^Ç´š^bCY®„‡(ı¸}.CéR^É-AÅ(-­˜Ó÷Q§|®0[¾ãØAY.h[;xcJ°%*à‘–Ÿ§ 5
+0oóñ<ù<~\’’|:Æ%y4{U¡DbÊ#<7»…5¹DbÊ#"+òn•[şœKsPknkıÌA­ÙPŞsÀl<õ¬¸Ö}Å‡M<·ÌjÍ¡¥¬H4ƒ21û3P’ÉG<û™˜ıLÄ6Ş¢®¬MÇìOGl²"QÚ¤ƒiàdp8Ç‚ch4öúäF#ÎQ°“Á‘`ø:˜ÀL‡ı8
+¾
+À-—9Òğÿk(¿Âî»ÆâiúÂ~|´€}ÀŞ`·–xÍÉv/0
+Œ#ÀpÖ$
+ƒ
+†€Á`È‚İ»Q ÷¡â»œÀ
+í
+Ûô#'¦/udúğŠ—Èz#‰:£¾”N°=Áq­ëÀì€¾Û£–tİÚhäÑq%÷¨â»¬¹3¦ŠïrÎmeÎØ²-q;(·uÂîr„Ò4€zĞÔZPCÑL5Ÿ®áExG‘*°·ğ,
+?}
+«yì}_›ù*ãë_bÈ‚Å"+èù£_¦›ÿå_'ùuK<”ÄƒªæåxŒ}(ò„vàVòdÉ/¨†u-iMz4]g=—;°®ç¤á7p]3^=í9ixquàòpÖó4udÛ“<½ô<]Øö"/öÓ™:³Ÿ.œô¼|½¹¦'=/k_®éÇIÅKßŸ•nœT¼qÙåD¼ÅÂØâD¼%£Ù¶à0È›UOÓø;ˆøXz‹íßñ!E4‹“Cù8ÛÌG£_4%¬WóKHÏÏ.?ıqNÄ/ë¬œâW7µğÆgŠ½X9Eµ‹Ô«S’ZhU
+%…Ö6Ô†“±¾¶¾6ÌÅämò÷6yOQ’-Kêh»a/Ö8>}0SHçÑDJƒtŠ}ûÇº8XµT¤VX•BÏÛB£×©ÆK£ÍÒN¡6ßÃ„·›·É×äímŠTÌ+ìÓ¬ö©b¥Uhµ§ŠV±‘[²0+eˆÍ3¶ºHIE
+«VI*¡5Ö[j#8@[cƒì0Iéh,UÈ—0[¬²ÑÀ±mfNkv4(9¸"rPkÉÈs¯4èE;‘#¬°µz¬©¯‰06í–š0ö)ëæÿ‘Jƒm¨´×>í!XÅ#ë³gÖgò8Û•9ÒÁ‘±!®öPjœt]$£AÚaìdÎŠĞ¬éâîßÅÇÃäêä¡U;¹ª{h©‡x”±¾¦±¾±¾Æäóü?FæzÄ#KMc„Éãl	®î‘ÎÑ¦H“lô|YDz	7Wµ¯O× G!SíæêÜ*DGõŒRpU‘38{İ‘®İ‚‚ƒ„˜˜œ–.B7¼=:Û¬(é¨U1Ë&‰Av¡ÿ1elÒë#<µ.Î3s÷”WìÊHw	È·ïÔ-¤ÿç3ÃƒE<nóiÔYz*íä9‰õÔë´•¤¤sPóˆ:hÕ*¥‚´’Ği<Q5fùYØÁ¬Ğ‰^B*Nµ¯“Síì¤Š7 i{
+g7¶eSÅ¤T»¼|şEúSæ¿MÛå$<ÿ‹”øÿôÏ‰Zwhë™êú“€¹Èb”b6‚€ÁäÂ”&¬Ÿê@ˆµ	ª²%Ú<`YÍ ¬18ÀõĞl[`d+Ãup™‹Âÿÿøÿıÿ÷ş—ÿ/ûŸMdÀŒ!‚8Òà5/”ÍdóBÙl@–(†X8"RÀzÂfºĞÊ5œü¡l ;Êf²›}<\İÜİ´ƒ+s“òsps€mR`KÛØuz1ØVÏeHVQ9À¶l*°İ\
+d%[ã¸Õ‘#öå	`—	’ò@Í(`“ıÇg #Xˆ/FLÍŒç·ùÊ(ÈV¸ğlGˆ¾š°ÿï¿Uçp`›-h,  ¦§M¬
+endstream
+endobj
+53 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 662
+/Descent -250
+/Flags 34
+/FontBBox [-168 -218 1000 898]
+/FontName /Times-Roman
+/ItalicAngle 0
+/StemV 84
+/XHeight 450
+/StemH 84
+>>
+endobj
+54 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 653
+/Descent -250
+/Flags 98
+/FontBBox [-169 -217 1010 883]
+/FontName /Times-Italic
+/ItalicAngle -15
+/StemV 76
+/XHeight 441
+/StemH 76
+>>
+endobj
+55 0 obj
+<<
+/Type /FontDescriptor
+/Ascent 750
+/CapHeight 676
+/Descent -250
+/Flags 262178
+/FontBBox [-168 -218 1000 935]
+/FontName /Times-Bold
+/ItalicAngle 0
+/StemV 133
+/XHeight 461
+/StemH 139
+>>
+endobj
+4 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 151
+/Widths [250 0 0 0 0 0 0 0 333 333 0 0 250 333 250 0 
+500 500 500 500 500 500 500 500 500 500 0 0 0 0 0 0 
+0 722 667 722 722 667 611 778 0 389 0 778 667 944 722 778 
+611 778 722 556 667 722 0 0 722 0 0 0 0 0 0 0 
+0 500 556 444 556 444 333 500 556 278 0 556 278 833 556 500 
+556 556 444 389 333 556 0 722 500 500 444 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 0 0 0 0 1000 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Bold
+/FontDescriptor 48 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 152
+/Widths [250 0 420 0 0 0 0 0 333 333 0 675 250 333 250 278 
+500 0 500 500 0 500 0 0 0 0 333 0 0 0 0 0 
+0 611 611 667 0 0 0 722 722 0 0 667 556 0 0 0 
+0 0 611 500 556 0 0 833 611 0 0 0 278 0 0 0 
+0 500 500 444 500 444 278 500 500 278 0 444 278 722 500 500 
+500 500 389 389 278 500 444 667 444 444 389 400 0 400 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 333 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Italic
+/FontDescriptor 49 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 168
+/Widths [250 333 408 500 500 0 0 0 333 333 0 564 250 333 250 278 
+500 500 500 500 500 500 500 500 500 500 278 278 564 564 564 444 
+0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 
+556 722 667 556 611 722 722 944 722 722 0 333 278 333 0 0 
+0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 
+500 500 333 389 278 500 500 722 500 500 444 480 200 480 0 0 
+0 0 0 0 0 0 500 500 333 0 0 0 0 0 0 0 
+0 333 333 0 0 0 0 1000 333 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 333 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /Times-Roman
+/FontDescriptor 50 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type0
+/BaseFont /LHEFAD+Symbol
+/Encoding /Identity-H
+/DescendantFonts [ 56 0 R ]
+/ToUnicode 57 0 R
+>>
+endobj
+56 0 obj
+<<
+/Type /Font
+/Subtype /CIDFontType2
+/BaseFont /LHEFAD+Symbol
+/FontDescriptor 46 0 R
+/CIDSystemInfo<<
+/Registry (Adobe)
+/Ordering (Identity)
+/Supplement 0
+>>
+/DW 1000
+/W [
+38 [548 712 ]
+41 42 548
+44 [494]
+47 [548 273 768 ]
+51 [548]
+53 [548 611 ]
+60 [548]
+62 [548]
+64 65 986
+67 [1041]
+69 70 768
+75 [603]
+79 [741]
+82 [686]
+85 [645]
+87 [768]
+89 [591]
+92 [763]
+94 [794 630 548 411 494 ]
+99 [494 603 520 329 548 ]
+104 [548 520 493 548 ]
+108 [548 603 ]
+111 [438 576 520 548 686 ]
+116 [686 250 247 ]
+125 [500]
+149 152 383
+161 [438 712 383 ]
+164 166 383
+168 174 494
+175 [620]
+178 181 383
+]
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 32
+/LastChar 215
+/Widths [250 0 0 0 0 0 0 0 0 0 0 549 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 549 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 549 0 0 0 576 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 549 ]
+/Encoding /WinAnsiEncoding
+/BaseFont /LHEFGF+Symbol
+/FontDescriptor 51 0 R
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 218
+/LastChar 250
+/Widths [167 0 0 0 556 556 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+333 ]
+/Encoding /MacRomanEncoding
+/BaseFont /Times-Roman
+/FontDescriptor 53 0 R
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 222
+/LastChar 223
+/Widths [500 500 ]
+/Encoding /MacRomanEncoding
+/BaseFont /Times-Italic
+/FontDescriptor 54 0 R
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/Subtype /TrueType
+/FirstChar 222
+/LastChar 222
+/Widths [556 ]
+/Encoding /MacRomanEncoding
+/BaseFont /Times-Bold
+/FontDescriptor 55 0 R
+>>
+endobj
+57 0 obj
+<<
+/Filter /FlateDecode
+/Length 490
+>>
+stream
+H‰T”MÚ0†ïü
+[õÇ‰"¡HKX$ıPa{wC#•…pàß7™Ç»U€±gŞÏQuØúnRÑñÖı¤Î]ßş~{ŒWµ¿t½Šj»f
+$ßÍÕ*šÏûä¯‡ş|S›Í*ú9Ş§ñ©>NùıYEßÇÖ]™-©yû5[aøã¯¾Ÿ”Ve©Z^EÕW7|sW¯"qüg<=¯Œp´o­¿®ñ£ë/^m´6Y¹üÔ¶T¾oÿ?_¥·úÜüvãêıº1™.…r¡øj„´ÎKà¤âf¢åÌl¡x¡x&”å²BéBO‡›(Ä($\b¡Tâ½…‚›i¥P-™	DzÖ@äi-D}6zAÁQl‘§õ13Î*òÌZ¿œj+Iµ:!ë|¹¹_¿rVXˆ\ŠLhO.EĞ¢‹Ş–(Îğ9”3ÜL¡„ŞŠ\Ğ£"Ç›íÈ³6øUPˆ¹‡ˆ¹G¯1çNÏÃ¦jı>cÌÜ2:ò´Ú8úº&½Ğ)a(ÕJ":£kÛğÂ	Æ5F
+Èˆ™Ñû-5f¸ç)-AÈ‰Ÿv5¹Ó5=Æ*@ÊËâ,Kı±ˆÍcç•Í—M\v°ëıÇŸÃp–u[>«¿ Z“ÿ
+endstream
+endobj
+1 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 3 0 R
+/Contents 2 0 R
+>>
+endobj
+11 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 13 0 R
+/Contents 12 0 R
+>>
+endobj
+15 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 17 0 R
+/Contents 16 0 R
+>>
+endobj
+19 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 21 0 R
+/Contents 20 0 R
+>>
+endobj
+22 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 24 0 R
+/Contents 23 0 R
+>>
+endobj
+25 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 27 0 R
+/Contents 26 0 R
+>>
+endobj
+28 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 30 0 R
+/Contents 29 0 R
+>>
+endobj
+31 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 33 0 R
+/Contents 32 0 R
+>>
+endobj
+35 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 37 0 R
+/Contents 36 0 R
+>>
+endobj
+38 0 obj
+<<
+/Type /Page
+/Parent 10 0 R
+/Resources 40 0 R
+/Contents 39 0 R
+>>
+endobj
+41 0 obj
+<<
+/Type /Page
+/Parent 45 0 R
+/Resources 43 0 R
+/Contents 42 0 R
+>>
+endobj
+58 0 obj
+<<
+/S /D
+>>
+endobj
+59 0 obj
+<<
+/Nums [0 58 0 R ]
+>>
+endobj
+10 0 obj
+<<
+/Type /Pages
+/Kids [1 0 R 11 0 R 15 0 R 19 0 R 22 0 R 25 0 R 28 0 R 31 0 R 35 0 R 38 0 R]
+/Count 10
+/Parent 44 0 R
+>>
+endobj
+45 0 obj
+<<
+/Type /Pages
+/Kids [41 0 R]
+/Count 1
+/Parent 44 0 R
+>>
+endobj
+44 0 obj
+<<
+/Type /Pages
+/Kids [10 0 R 45 0 R ]
+/Count 11
+/MediaBox [0 0 612 792]
+>>
+endobj
+60 0 obj
+<<
+/CreationDate (D:20181223163800+01'00')
+/ModDate (D:20181223163800+01'00')
+/Producer (PSNormalizer.framework)
+>>
+endobj
+61 0 obj
+<<
+/Type /Catalog
+/Pages 44 0 R
+/PageLabels 59 0 R
+>>
+endobj
+xref
+0 62
+0000000000 65535 f 
+0000156900 00000 n 
+0000000016 00000 n 
+0000008303 00000 n 
+0000152753 00000 n 
+0000153288 00000 n 
+0000153814 00000 n 
+0000154447 00000 n 
+0000155191 00000 n 
+0000101492 00000 n 
+0000157889 00000 n 
+0000156981 00000 n 
+0000008442 00000 n 
+0000017502 00000 n 
+0000155748 00000 n 
+0000157065 00000 n 
+0000017654 00000 n 
+0000027967 00000 n 
+0000155991 00000 n 
+0000157149 00000 n 
+0000028132 00000 n 
+0000036991 00000 n 
+0000157233 00000 n 
+0000037143 00000 n 
+0000047242 00000 n 
+0000157317 00000 n 
+0000047382 00000 n 
+0000056117 00000 n 
+0000157401 00000 n 
+0000056269 00000 n 
+0000066297 00000 n 
+0000157485 00000 n 
+0000066462 00000 n 
+0000076744 00000 n 
+0000156167 00000 n 
+0000157569 00000 n 
+0000076922 00000 n 
+0000086118 00000 n 
+0000157653 00000 n 
+0000086283 00000 n 
+0000096981 00000 n 
+0000157737 00000 n 
+0000097146 00000 n 
+0000101351 00000 n 
+0000158100 00000 n 
+0000158026 00000 n 
+0000101632 00000 n 
+0000101822 00000 n 
+0000130721 00000 n 
+0000130923 00000 n 
+0000131123 00000 n 
+0000131320 00000 n 
+0000131511 00000 n 
+0000152154 00000 n 
+0000152351 00000 n 
+0000152551 00000 n 
+0000154589 00000 n 
+0000156337 00000 n 
+0000157821 00000 n 
+0000157849 00000 n 
+0000158192 00000 n 
+0000158324 00000 n 
+trailer
+<<
+/Size 62
+/Root 61 0 R
+/Info 60 0 R
+/ID [<b69d011ec756bb21dc3b252874443aa1><b69d011ec756bb21dc3b252874443aa1>]
+>>
+startxref
+158394
+%%EOF

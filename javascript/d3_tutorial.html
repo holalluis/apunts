@@ -1,0 +1,25 @@
+<!doctype html><html><head>
+	<meta charset="utf-8">
+	<title>D3 tutorial</title>
+	<script src="http://d3js.org/d3.v3.js"></script>
+</head><body>
+
+<script>
+
+	//1: afegir un div
+	d3.select('body').append('div')
+		.style('border','1px solid #ccc')
+		.text('Nou div');
+
+	//2: afegir dades: l'ordre importa
+	var dataset = [5,4,3,5,6];
+	d3.select('body')
+		.selectAll('p')
+		.data(dataset)
+		.enter()
+		.append('p')
+		.style('color','red')
+		.style('border',function(d){return d+"px solid black"})
+		.text(function(d){return '<p> amb border de '+d+'px'})
+
+</script>

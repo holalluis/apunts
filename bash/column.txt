@@ -1,0 +1,10 @@
+prova per la comanda column -t
+hola adeu hola adeu
+cotxe casa finestra avio
+hola adeu hola adeu
+cotxe casa finestra avio
+hola adeu hola adeu
+hola adeu hola adeu
+cotxe casa finestra avio
+cotxe casa finestra avio
+

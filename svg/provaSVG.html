@@ -1,0 +1,43 @@
+<!doctype html>
+<html><body><head><meta charset=utf-8>
+	<title>proves svg</title>
+	<script>
+		function colorCercle(color)
+		{
+			document.getElementById('cercle').setAttribute('fill',color)
+		}
+	</script>
+</head>
+<body><center><h1 onclick=window.location.reload() style="cursor:pointer">Proves SVG</h1>
+
+	<svg width=500 height=500 style="border:1px solid #ccc">
+		<circle 
+			id=cercle
+			cx=250 
+			cy=250
+			r=20
+			stroke=#000
+			stroke-width=4
+			fill=black 
+		>
+			<animate 
+				id=creix
+				begin="decreix.end;0s"
+				attributeName="r"
+				from="1"  to="200"
+				begin="0s" dur="3s"
+			/>
+			<animate 
+				id=decreix
+				begin=creix.end
+				attributeName="r"
+				from="200"  to="1"
+				begin="0s" dur="5s"
+			/>
+		</circle>
+	</svg>
+
+	<div>
+		<input type=color onchange=colorCercle(this.value)>Pick a color</input>
+	</div>
+

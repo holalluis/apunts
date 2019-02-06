@@ -1,0 +1,12 @@
+In each iteration, you concatenate two subsequent hashes of the previous level, 
+and double-sha256 them. 
+If there is an odd number of hashes, 
+concatenate the last element with itself. 
+This gives you a new list of hashes. Repeat, and stop when one hash remains. 
+This is the merkle root.
+
+Assume you have tx hashes Ha1,Ha2,Ha3,Ha4,Ha5,Ha6,Ha7
+
+First iteration: Hb1=Hash(Ha1|Ha2), Hb2=Hash(Ha3|Ha4), Hb3=Hash(Ha5|Ha6), Hb4=Hash(Ha7|Ha7)
+Second iteration: Hc1=Hash(Hb1|Hb2), Hc2=Hash(Hb3|Hb4)
+Third iteration: Hd1=Hash(Hc1|Hc2) => Merkle root

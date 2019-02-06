@@ -1,0 +1,14 @@
+priv = "contrasenya"
+
+pub = fun(priv) //clau publica generada a partir de la clau privada
+
+
+
+        |--pub-->|
+missatge|        |encriptat
+        |<-priv--|
+
+
+        |--priv->|
+missatge|        |encriptat
+        |<-pub---|
