@@ -1,0 +1,15 @@
+This is running text. 
+.\" Comments begin with a backslash and double quote. 
+.ft B 
+This text will be in bold font. 
+.ft R 
+This text will be back in the default (Roman) font. These lines, going back to "This is running text", will be formatted as a filled paragraph. 
+.bp 
+The bp request forces a new page and a paragraph break. This line will be part of the second filled paragraph. 
+.sp 3 
+The .sp request emits the number of blank lines given as argument
+.nf 
+The nf request switches off paragraph filling. Until the fi request switches it back on whitespace and layout will be preserved.
+One word in this line will be in \fBbold\fR font. 
+.fi
+Paragraph filling is back on.

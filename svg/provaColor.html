@@ -1,0 +1,26 @@
+<script>
+  function mou(e) {
+    var c = document.getElementsByTagName('circle')[0]
+    c.setAttribute('cx',e.clientX)
+    c.setAttribute('cy',e.clientY)
+  }
+</script>
+
+<svg style="border:1px solid #ccc" height=500 width=500>
+  <circle cx=100 cy=100 r=50 fill=red stroke=black onmousemove="mou(event)">
+    <animate
+      id=creix
+      attributeName="r"
+      from=1 to=100 
+      dur=5s
+      begin="0s;decreix.end"
+    />
+    <animate
+      id=decreix
+      attributeName="r"
+      from=100 to=1 
+      dur=5s
+      begin="creix.end"
+    />
+  </circle>
+</svg>

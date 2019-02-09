@@ -1,0 +1,13 @@
+com funciona ipfw:
+
+>>> sudo ipfw add fwd 127.0.0.1:50000 tcp from any to any 443 in via en1
+00100 fwd 127.0.0.1,50000 tcp from any to any dst-port 443 in via en1
+
+>>> sudo ipfw show
+00100    0       0 fwd 127.0.0.1,50000 tcp from any to any dst-port 443 in via en1
+65535 4836 1020079 allow ip from any to any
+
+>>> sudo ipfw -q flush
+>>> sudo ipfw show
+65535 4777 1013806 allow ip from any to any
+

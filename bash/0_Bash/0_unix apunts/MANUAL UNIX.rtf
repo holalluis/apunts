@@ -1,0 +1,258 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Verdana;\f1\fnil\fcharset0 LucidaGrande;}
+{\colortbl;\red255\green255\blue255;\red13\green13\blue13;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww25100\viewh13720\viewkind0
+\deftab720
+\pard\pardeftab720\ql\qnatural
+
+\f0\fs34 \cf2 ls 						/--Muestra las carpetas, archivos de la carpeta actual
+\f1 \uc0\u8232 
+\f0 ls -la					/--Muestra todos los atributos de los archivos y los archivos ocultos
+\f1 \uc0\u8232 
+\f0 cd 						/--Nos dirige a donde digamos
+\f1 \uc0\u8232 
+\f0 cd ..					/--Nos saca hacia atr\'e1s
+\f1 \uc0\u8232 
+\f0 sudo 					/--Ejecutamos lo que digamos como root
+\f1 \uc0\u8232 
+\f0 echo 					/--Muestra mensaje por pantalla
+\f1 \uc0\u8232 
+\f0 echo $Variable 			/--Muestra valor de la variable
+\f1 \uc0\u8232 
+\f0 echo $PATH 				/--Muestra las rutas
+\f1 \uc0\u8232 
+\f0 id (nombre usuario)		/--Nos muestra el UID y GID asignado
+\f1 \uc0\u8232 
+\f0 whoami 				/--Usuario activo
+\f1 \uc0\u8232 
+\f0 man (Comando) 		/--Ayuda sobre el comando (:Q(para salir del man))
+\f1 \uc0\u8232 
+\f0 uname 					/--Informacion sistema operativo
+\f1 \uc0\u8232 
+\f0 date 					/--Fecha etc
+\f1 \uc0\u8232 
+\f0 who 					/--quien esta conectado a mi ordenador
+\f1 \uc0\u8232 
+\f0 pwd 					/--Ruta actual
+\f1 \uc0\u8232 
+\f0 mkdir 					/--Crear directorios
+\f1 \uc0\u8232 
+\f0 mv 						/--Cambiar el nombre de un directorio
+\f1 \uc0\u8232 
+\f0 cat 						/--muestra la informacion del archivo sin abrir ningun editor
+\f1 \uc0\u8232 
+\f0 rm 						/-- borrar
+\f1 \uc0\u8232 
+\f0 rm [-rf] fichero1  		/-- Borrar, (F, fuerza la eliminacion) (R, borra la carpeta y todo su contenido recursivamente)
+\f1 \uc0\u8232 
+\f0 ln -s fuente nombre 		/--enlace simbolico (acceso directo windows)
+\f1 \uc0\u8232 
+\f0 chmod 					/--cambias los permisos a un fichero,directorio etc
+\f1 \uc0\u8232 
+\f0 chown 					/--cambiar el propietario de un fichero
+\f1 \uc0\u8232 
+\f0 find 					/--localizar archivos
+\f1 \uc0\u8232 
+\f0 find -name fichero 		/--busca los ficheros por ese nombre
+\f1 \uc0\u8232 
+\f0 find -user fichero 		/--busca los ficheros de ese usuario
+\f1 \uc0\u8232 
+\f0 >> 						/--Para no sobreescribir
+\f1 \uc0\u8232 
+\f0 2> 						/--Para redireccionar un error
+\f1 \uc0\u8232 
+\f0 2>/dev/null 				/--Papelera
+\f1 \uc0\u8232 
+\f0 | 						/--Tuberias
+\f1 \uc0\u8232 
+\f0 who | wc -l 				/-- wc pa contar las lineas
+\f1 \uc0\u8232 
+\f0 more 					/--ver el resultado poco a poco
+\f1 \uc0\u8232 
+\f0 tail 						/--visualiza las 10 ultimas lineas de un fichero
+\f1 \uc0\u8232 
+\f0 tail --lines=+8  			/--de la 8 hacia bajo
+\f1 \uc0\u8232 
+\f0 head 					/--Muesta las 10 primeras lineas de un archivo
+\f1 \uc0\u8232 
+\f0 wc 						/--contar lineas, palabras y letras
+\f1 \uc0\u8232 
+\f0 wc -w -l -c 				/--depende cual pongamos cuenta una cosa u otra, sino todas
+\f1 \uc0\u8232 
+\f0 grep "plabra" 			/--Busca dentro de un archivo la cadena de texto que le pase
+\f1 \uc0\u8232 
+\f0 grep -c 					/--numero coincidencias\
+grep -v 					/--lineas que no tienen la palabra a buscar\
+grep -i					/--case insensitive\
+grep -n					/--numero de linea\
+grep -l					/--nombre de ficheros coincidentes
+\f1 \uc0\u8232 
+\f0 tr 						/--Sirve para comprimir,reducir a un caracter una cadena de caracteres repetidos o para sustituir un caracter por otro
+\f1 \uc0\u8232 
+\f0 sort 					/--Ordenar
+\f1 \uc0\u8232 
+\f0 sort -f					/--ignora Mayus y minus\
+sort -r					/--invierte el orden) \
+sort -t					/--(caracter)(caracter separado) \
+sort -o					/--especificamos archivo de salida\
+sort -k n1,n2 			/--ordenacion por columnas, n1,n2\
+sort -u 					/--elimina las lineas repetidas
+\f1 \uc0\u8232 
+\f0 tee						/--muestra la informacion intermedia en las tuberias
+\f1 \uc0\u8232 
+\f0 cut 						/--Extraer informacion de las lineas de un archivo
+\f1 \uc0\u8232 
+\f0 cut -d(caracter)			/--Especifica el delimitador \
+cut -c (n-n2)			/--Especifica las columnas a seleccionar\
+cut -f n1,n2				/--Especifica el campo que se mostrar\'e1
+\f1 \uc0\u8232 
+\f0 history 					/--Muestra los comandos utilizados
+\f1 \uc0\u8232 
+\f0 cmp 					/--Compara ficheros
+\f1 \uc0\u8232 
+\f0 echo $? 				/--Nos muestra si la ejecucion de la instruccion a dado un resultado incorrecto
+\f1 \uc0\u8232 
+\f0 sleep 5 					/--Retarda en segundos el script\
+\
+--------Gestion de Usuarios--------
+\f1 \uc0\u8232 
+\f0 su root 					/--Pasa a usuario root (salir con exit)I
+\f1 \uc0\u8232 
+\f0 su - root 				/--Pasa a usuario root desde la carpeta del usuario
+\f1 \uc0\u8232 
+\f0 groupadd 				/--Crear el grupo
+\f1 \uc0\u8232 
+\f0 groupdel 				/--Borra el grupo
+\f1 \uc0\u8232 
+\f0 useradd 				/--Crea el usuario
+\f1 \uc0\u8232 
+\f0 userdel -r 				/--borra el usuario
+\f1 \uc0\u8232 
+\f0 useradd -m(Crear carpeta donde corresponde (/home)) -g(Asignamos un grupo al usuario) -s(asignamos la shell)
+\f1 \uc0\u8232 
+\f0 useradd -m -g "nombre grupo" -s /bin/bash "nombre usuario"
+\f1 \uc0\u8232 
+\f0 sudo passwd "nombre usuario" /--Darle o cambiarle la contrase\'f1a al usuario nuevo
+\f1 \uc0\u8232 
+\f0 ssh sergio@ip 			/--conectarse a ...
+\f1 \uc0\u8232 
+\f0 scp origen destino		/--Comando copy por ssh
+\f1 \uc0\u8232 
+\f0 scp /home/sergio/prueba.txt sergio@192.168.1.21:/home/sergio --Enviar
+\f1 \uc0\u8232 
+\f0 scp sergio@192.168.1.21:/home/sergio/prueba.txt /home/sergio -- Recibir
+\f1 \uc0\u8232 
+\f0 ./						/--Ejecutar\
+\
+-----------Empaquetador--------
+\f1 \uc0\u8232 
+\f0 tar 								/--empaquetador
+\f1 \uc0\u8232 
+\f0 tar opciones paquete archivos 	/--Formato
+\f1 \uc0\u8232 
+\f0 -c crear archivo empaquetado
+\f1 \uc0\u8232 
+\f0 -x extraer archivo empaquetado
+\f1 \uc0\u8232 
+\f0 -f nombre del archivo (crear o desempaquetar)
+\f1 \uc0\u8232 
+\f0 -z comprimir con gzip
+\f1 \uc0\u8232 
+\f0 -j comprimir con bzip
+\f1 \uc0\u8232 
+\f0 -v visualiza el empaquetamiento
+\f1 \uc0\u8232 
+\f0 -t listar contenido de un archivo empaquetado\
+tar -cvzf comprimidos/mihome.tar.gz /home/sergio
+\f1 \uc0\u8232 
+\f0 tar -xvzf comprimidos/mihome.tar.gz -C /home/sergio/descomprimidos\
+\
+-----------Informacion--------
+\f1 \uc0\u8232 
+\f0 -http://www.freealts.com/
+\f1 \uc0\u8232 
+\f0 -En linux no hay realmente extensiones
+\f1 \uc0\u8232 
+\f0 -Si un archivo tiene un . delante esta oculto '.themes'
+\f1 \uc0\u8232 
+\f0 -Para editar con el (editor gedit) ponemos "ejemplo:gedit /etc/passwd"\
+-Permisos:
+\f1 \uc0\u8232 
+\f0 	Estan en grupos de 3
+\f1 \uc0\u8232 
+\f0 	drwxr-x-w-
+\f1 \uc0\u8232 
+\f0 	d rwx r-x -w-\
+	d(informacion archivo o directorio o etc)
+\f1 \uc0\u8232 
+\f0 	d "Directorio"
+\f1 \uc0\u8232 
+\f0 	- "Archivo normal"
+\f1 \uc0\u8232 
+\f0 	c "Archivo caracter"
+\f1 \uc0\u8232 
+\f0 	| "Enlace simbolico"
+\f1 \uc0\u8232 
+\f0 	- "Sin permiso"
+\f1 \uc0\u8232 
+\f0 	r "Lectura"
+\f1 \uc0\u8232 
+\f0 	W "Escritura"
+\f1 \uc0\u8232 
+\f0 	x "Ejecucion"\
+	rwx "Permisos del propietario del archivo" = u
+\f1 \uc0\u8232 
+\f0 	r-x "Permisos del grupo" = g
+\f1 \uc0\u8232 
+\f0 	-w- "Permisos para el resto de gente" = o\
+	Todos los usuarios grupos etc con 'a'\
+	+ a\'f1ade permiso
+\f1 \uc0\u8232 
+\f0 	- retira permiso
+\f1 \uc0\u8232 
+\f0 	= asigna permiso (solo ese y machaca)\
+	ejemplo: chmod u=rwx,g+r, o=r fich1\
+	por ejemplo el fichero con permisos r-x --x rwx seria
+\f1 \uc0\u8232 
+\f0 	--- --- ---
+\f1 \uc0\u8232 
+\f0 	101 001 111
+\f1 \uc0\u8232 
+\f0 	--- --- ---
+\f1 \uc0\u8232 
+\f0 	5 1 7
+\f1 \uc0\u8232 
+\f0 	con lo que seria el permiso 517\
+	\
+	echo hola > fichero.txt
+\f1 \uc0\u8232 
+\f0 	echo adios > fichero.txt si lo hacemos por segunda vez sobreescribe
+\f1 \uc0\u8232 
+\f0 	para que no sobreescriba\
+	echo adios >> fichero.txt\
+
+\f1 \uc0\u8232 
+\f0 -Metacaracteres-
+\f1 \uc0\u8232 
+\f0 	* --Sustituye a cualquier tipo de caracteres
+\f1 \uc0\u8232 
+\f0 	? --Sustituye a un solo caracter
+\f1 \uc0\u8232 
+\f0 	[]--los caracteres del interior van pasando uno tras otro\
+\
+-Meta comando grep-
+\f1 \uc0\u8232 
+\f0 	. --Sustituye a un caracter
+\f1 \uc0\u8232 
+\f0 	* --Repeticion caracter previo
+\f1 \uc0\u8232 
+\f0 	.* --Buscaria cualquier caracter como si fuese * de normal
+\f1 \uc0\u8232 
+\f0 	[] --caracter incluido en los corchetes
+\f1 \uc0\u8232 
+\f0 	^[] -- negacion
+\f1 \uc0\u8232 
+\f0 	^ --comienzo de linea
+\f1 \uc0\u8232 
+\f0 	$ --final de linea\
+}
