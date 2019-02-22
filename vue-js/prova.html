@@ -1,0 +1,50 @@
+<!doctype html><html><head>
+  <meta charset=utf8>
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head><body>
+
+<div id="app">
+  <!--titol-->
+  <div style="display:flex">
+    <div> 
+      {{message}} {{ dades.length }} items
+    </div>
+  </div>
+
+  <!--afegir elements-->
+  <button v-on:click="afegeix">{{btn_text}}</button>
+
+  <!--llista elements-->
+  <ul>
+    <li v-for="d in dades">
+      {{d.q}} {{d.text}}
+      <button v-on:click="d.q++">+1</button>
+      <button v-on:click="d.q--">-1</button>
+    </li>
+  </ul>
+
+  <!--total-->
+  <h1>
+    coses total: {{ dades.map(d=>d.q).reduce((p,c)=>(p+c),0) }}
+  </h1>
+</div>
+
+<script>
+  var app=new Vue({
+    el:'#app',
+    data:{
+      message:'Hello Vue!',
+      btn_text:'afegeix',
+      dades:[
+        {q:0, text:'coses'},
+        {q:1, text:'coses'},
+        {q:2, text:'coses'},
+      ],
+    },
+    methods:{
+      afegeix:function(){
+        this.dades.push({q:0, text:'coses noves'});
+      },
+    },
+  });
+</script>
