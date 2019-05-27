@@ -19,8 +19,8 @@
   - finestra alterna (anar amb C-b l)
   Z la finestra està amb zoom (vol dir que amaga els altres panells)
   prefix c -- nova finestra "create"
-  prefix " -- split horitzontal
-  prefix % -- split vertical
+  prefix " -- crear split horitzontal
+  prefix % -- crear split vertical
   prefix , -- rename finestra
   prefix l -- canviar a finestra alterna "last"
   prefix n -- finestra següent "next"
