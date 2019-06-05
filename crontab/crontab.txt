@@ -1,0 +1,7 @@
+#controlar daemon cron
+sudo service cron status
+sudo service cron start
+sudo service cron stop
+
+#editar arxiu crontab
+crontab -e
