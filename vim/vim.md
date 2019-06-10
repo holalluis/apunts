@@ -1,5 +1,17 @@
 VIM TRICKS
 
+# vim talk: https://www.youtube.com/watch?v=E-ZbrtoSuzw 
+  :20vs .     "obrir explorador arxius amb width 20 caràcters
+  :sf         "split finestra buscant arxiu
+  :sfind      "idem
+  ]m          "anar al pròxim mètode
+  ]M          "anar al final del mètode
+  g^]         "veure tots els fitxers on apareix el tag sota el cursor (per triar-ne un i anarhi)
+  :sall       "split all files from argument list
+  :vert sall  "split all files from argument list
+  :arga xxx   "afegir xxx a l'argument list
+  :args *.py  "set args list to all python files
+
 # abreviatures (correccions en insert mode)
   :iab tihs this
   :iab ms Microsoft
@@ -49,7 +61,7 @@ VIM TRICKS
 # text formatting !!!
   gq
 
-# obrir terminal (vim >= 8.1)
+# obrir terminal (vim >= 8.1, neovim)
   :ter[minal]
 
 # toggle normal/insert mode in terminal mode (not in neovim)
@@ -151,7 +163,7 @@ VIM TRICKS
   ^y                      Inserta el caràcter de SOBRE el cursor (INSERT MODE)
   ^e                      Inserta el caràcter de SOTA  el cursor (INSERT MODE)
 
-  :shell                  Crea una shell per no haver de sortir del VIM !!!
+  :shell                  Crea una shell per no haver de sortir del VIM (no a neovim)
   :set scrollbind         Scroll finestres en paral·lel (cal executar la opció a cada finestra)
   :set scb                Scroll finestres en paral·lel (cal executar la opció a cada finestra)
   :windo set scrollbind   Scroll finestres en paral·lel (cal executar la opció a cada finestra)
