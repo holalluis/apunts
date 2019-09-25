@@ -1,4 +1,8 @@
-# Graba pantalla a out.mov (mac)
+#linux
+  https://www.commandlinefu.com/commands/view/7109/capture-video-of-a-linux-desktop
+  ffmpeg -y -f alsa -ac 2 -i pulse -f x11grab -r 30 -s `xdpyinfo | grep 'dimensions:'|awk '{print $2}'` -i :0.0 -acodec pcm_s16le output.wav -an -vcodec libx264 -vpre lossless_ultrafast -threads 0 output.mp4
+
+# OS X: grava pantalla a out.mov
   ffmpeg -f avfoundation -r 25 -i 1: out.mov
 
 # Convertir arxius png a .gif, cada imatge 1 segon

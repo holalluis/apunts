@@ -1,5 +1,5 @@
 
-#grabar
+#mac: grabar
 #ffmpeg -f avfoundation -i "<screen device index>:<audio device index>" output.mkv
 ffmpeg -f avfoundation -r 30 -i 2.0: out.mkv
 

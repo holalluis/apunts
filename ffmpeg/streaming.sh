@@ -1,5 +1,6 @@
 #!/bin/bash
 : '
+OS X
 Fer streaming a facebook o youtube
 nota: "key" canvia a cada streaming
 '
