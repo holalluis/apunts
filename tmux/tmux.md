@@ -1,3 +1,7 @@
+# mark (a status bar surt com a "M") # nose pq serveix marcar pane
+  prefix m -- marcar pane
+  prefix M -- esborrar marca
+
 # copy mode (fer scroll al terminal)
   prefix [ #copy
   enter    #confirm copy selected text
