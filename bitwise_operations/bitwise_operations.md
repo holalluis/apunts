@@ -1,0 +1,8 @@
+
+# BITWISE OPERATORS
+  &: AND
+  |: OR
+  ^: EXCLUSIVE OR
+  <<: LEFT SHIFT
+  >>: RIGHT SHIFT
+  ~: COMPLEMENT (NOT)

@@ -1,5 +1,6 @@
 #!/bin/bash
 : '
+OS X
 Fer streaming a facebook o youtube
 nota: "key" canvia a cada streaming
 '
@@ -23,8 +24,8 @@ function facebooklive(){
   pantalla=0 #camera facetime
   pantalla=1 #primera pantalla
   pantalla=2 #segona pantalla
-  audio=1 #Built-in Microphone                                                                                     
-  audio=3 #Komplete Audio 6 
+  audio=1 #Built-in Microphone
+  audio=3 #Komplete Audio 6
   url="rtmp://rtmp-api.facebook.com:80/rtmp"
   key="10213954952096730?ds=1&s_l=1&a=ATjaYe_bDiGtVoMP"
   streaming $pantalla $audio $url $key
@@ -35,8 +36,8 @@ function youtubegaming(){
   pantalla=0 #camera facetime
   pantalla=1 #primera pantalla
   pantalla=2 #segona pantalla
-  audio=1 #Built-in Microphone                                                                                     
-  audio=3 #Komplete Audio 6 
+  audio=1 #Built-in Microphone
+  audio=3 #Komplete Audio 6
   url="rtmp://a.rtmp.youtube.com/live2"
   key="s48g-7478-w7x8-e78b"
   streaming $pantalla $audio $url $key

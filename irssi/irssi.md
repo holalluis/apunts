@@ -1,30 +1,32 @@
 irssi -c freenode -n nickname
 config file: .irssi/config
 
-# canviar de pestanya
-  ctrl-n
-# anar a la pestanya {n}
-  esc {n}
-# unir-se a un canal
-  /join #canal
-  /j    #canal
-# sortir d'un canal
-  /part
-  /p
-# veure topic
-  /topic
 # sortir
   /quit
+# unir-se a servidor
+  /connect <servidor>
+# unir-se a canal
+  /join <canal>
+  /j    <canal>
+# canviar pestanya
+  ctrl-n
+# anar a pestanya <n>
+  esc <n>
+# sortir canal
+  /part
+  /p
+# veure topic canal
+  /topic
 # canviar nick
-  /nick nounick
-# highlight nick
-  /hilight nick
-# obrir un privat
-  /query nick
+  /nick <nounick>
+# obrir privat
+  /query <nick>
   /msg <nick> <message>
-# tancar un privat
+# tancar privat
   /q
 # posar-se away
-  /away 'soc fora'
+  /away <missatge>
 # tornar d'away
   /away
+# highlight <nick>
+  /highlight <nick>

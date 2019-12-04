@@ -1,4 +1,4 @@
-#Emacs general
+#emacs general
   C-c C-o          Obrir link
   C-x C-s          Guardar
   C-x C-c          Sortir
@@ -11,12 +11,12 @@
   C-x 3 vertial split
   C-x o canviar entre finestres
 
-#Help
+#help
   C-h i    Info pages
   C-h t    Tutorial
   C-h r    Manual
 
-#Org-mode
+#org-mode
   Shift-dreta      Marcar estat tasques o projectes
   Shift-esquerra   Marcar estat tasques o projectes
   ESC-amut         Pujar item

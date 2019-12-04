@@ -1,0 +1,7 @@
+# ARRASTRAR FORMULES AL SCIM:
+
+# copiar la formula al registre "m":
+mm
+
+# enganxar la formula "m" a la cela actual
+cm
