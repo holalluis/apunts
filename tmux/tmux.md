@@ -1,3 +1,6 @@
+# join pane to window n
+  join-pane -t n
+
 # mark (a status bar surt com a "M") # nose pq serveix marcar pane
   prefix m -- marcar pane
   prefix M -- esborrar marca
