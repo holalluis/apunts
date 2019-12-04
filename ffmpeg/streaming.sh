@@ -6,7 +6,7 @@ nota: "key" canvia a cada streaming
 #list devices
 #ffmpeg -list_devices true -f avfoundation -i dummy && exit
 
-#funció general
+#funció general (mac os x)
 function streaming(){
   pantalla=$1
   audio=$2

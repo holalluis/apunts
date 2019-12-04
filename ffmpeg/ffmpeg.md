@@ -1,7 +1,4 @@
-# Graba pantalla a out.mov (mac)
-  ffmpeg -f avfoundation -r 25 -i 1: out.mov
-
-# Convertir arxius png a .gif, cada imatge 1 segon
+# Crear gif a partir de llista d'arxius png
   (exemple: img001.png img002.png ... img 100.png)
   ffmpeg -framerate 1 -i img%03d.png out.gif
 
