@@ -1,7 +1,9 @@
 # join pane to window n
-  join-pane -t n
+  tmux join-pane -t n
+  :join-pane -t n
 
 # mark (a status bar surt com a "M") # nose pq serveix marcar pane
+# marcar serveix com a pane per defecte per :join-pane
   prefix m -- marcar pane
   prefix M -- esborrar marca
 
