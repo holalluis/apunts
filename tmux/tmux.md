@@ -1,4 +1,15 @@
+#status line
+  Symbol    Meaning
+  *         Denotes the current window.
+  -         Marks the last window (previously selected).
+  #         Window is monitored and activity has been detected.
+  !         A bell has occurred in the window.
+  ~         The window has been silent for the monitor-silence interval.
+  M         The window contains the marked pane
+  Z         The window's active pane is zoomed
+
 # copy mode (fer scroll al terminal)
+
   prefix [ #copy
   enter    #confirm copy selected text
   prefix ] #paste
@@ -22,6 +33,7 @@
   prefix " -- crear split horitzontal
   prefix % -- crear split vertical
   prefix , -- rename finestra
+  prefix . -- moure finestra
   prefix l -- canviar a finestra alterna "last"
   prefix n -- finestra següent "next"
   prefix p -- finestra anterior "previous"
