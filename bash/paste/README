@@ -1,0 +1,7 @@
+man paste
+  paste - merge lines of files
+
+paste pay1 pay2 pay3
+  400	500	550
+  100	110	120
+  40	50	55

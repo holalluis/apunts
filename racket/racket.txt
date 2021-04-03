@@ -1,0 +1,3 @@
+sudo apt install racket
+https://docs.racket-lang.org/goblins/tutorial.html
+https://docs.racket-lang.org/more/
