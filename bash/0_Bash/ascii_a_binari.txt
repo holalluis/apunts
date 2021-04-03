@@ -1,4 +1,0 @@
-#!/bin/bash
-read x;
-
-wget -qO- "http://redir.dasumo.com/hex/" --post-data "ascii=$x&submit=Codificar"|grep "</textarea>"|cut -d\< -f1|head -n2|tail -n1|tr -d " "

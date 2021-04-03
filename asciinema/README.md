@@ -1,6 +1,5 @@
-
 record terminal in ascii text files
 
+apt install asciinema
 man asciinema
-
-asciinema.org
+https://asciinema.org/

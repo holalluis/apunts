@@ -1,0 +1,141 @@
+ls                    /--Muestra las carpetas, archivos de la carpeta actual
+ls -la                /--Muestra todos los atributos de los archivos y los archivos ocultos
+cd                    /--Nos dirige a donde digamos
+cd ..                 /--Nos saca hacia atrás
+sudo                  /--Ejecutamos lo que digamos como root
+echo                  /--Muestra mensaje por pantalla
+echo $Variable        /--Muestra valor de la variable
+echo $PATH            /--Muestra las rutas
+id (nombre usuario)   /--Nos muestra el UID y GID asignado
+whoami                /--Usuario activo
+man (Comando)         /--Ayuda sobre el comando (:Q(para salir del man))
+uname                 /--Informacion sistema operativo
+date                  /--Fecha etc
+who                   /--quien esta conectado a mi ordenador
+pwd                   /--Ruta actual
+mkdir                 /--Crear directorios
+mv                    /--Cambiar el nombre de un directorio
+cat                   /--muestra la informacion del archivo sin abrir ningun editor
+rm                    /--borrar
+rm [-rf] fichero1     /--Borrar, (F, fuerza la eliminacion) (R, borra la carpeta y todo su contenido recursivamente)
+ln -s fuente nombre   /--enlace simbolico (acceso directo windows)
+chmod                 /--cambias los permisos a un fichero,directorio etc
+chown                 /--cambiar el propietario de un fichero
+find                  /--localizar archivos
+find -name fichero    /--busca los ficheros por ese nombre
+find -user fichero    /--busca los ficheros de ese usuario
+>>                    /--Para no sobreescribir
+2>                    /--Para redireccionar un error
+2>/dev/null           /--Papelera
+|                     /--Tuberias
+who | wc -l           /--wc pa contar las lineas
+more                  /--ver el resultado poco a poco
+tail                  /--visualiza las 10 ultimas lineas de un fichero
+tail --lines=+8       /--de la 8 hacia bajo
+head                  /--Muesta las 10 primeras lineas de un archivo
+wc                    /--contar lineas, palabras y letras
+wc -w -l -c           /--depende cual pongamos cuenta una cosa u otra, sino todas
+grep "plabra"         /--Busca dentro de un archivo la cadena de texto que le pase
+grep -c               /--numero coincidencias\
+grep -v               /--lineas que no tienen la palabra a buscar\
+grep -i               /--case insensitive\
+grep -n               /--numero de linea\
+grep -l               /--nombre de ficheros coincidentes
+tr                    /--Sirve para comprimir,reducir a un caracter una cadena de caracteres repetidos o para sustituir un caracter por otro
+sort                  /--Ordenar
+sort -f               /--ignora Mayus y minus\
+sort -r               /--invierte el orden) \
+sort -t               /--(caracter)(caracter separado) \
+sort -o               /--especificamos archivo de salida\
+sort -k n1,n2         /--ordenacion por columnas, n1,n2\
+sort -u               /--elimina las lineas repetidas
+tee                   /--muestra la informacion intermedia en las tuberias
+cut                   /--Extraer informacion de las lineas de un archivo
+cut -d(caracter)      /--Especifica el delimitador \
+cut -c (n-n2)         /--Especifica las columnas a seleccionar\
+cut -f n1,n2          /--Especifica el campo que se mostrar\
+history               /--Muestra los comandos utilizados
+cmp                   /--Compara ficheros
+echo $?               /--Nos muestra si la ejecucion de la instruccion a dado un resultado incorrecto
+sleep 5               /--Retarda en segundos el script\
+
+--------Gestion de Usuarios--------
+su root                                                         /--Pasa a usuario root (salir con exit)I
+su - root                                                       /--Pasa a usuario root desde la carpeta del usuario
+groupadd                                                      /--Crear el grupo
+groupdel                                                      /--Borra el grupo
+useradd                                                       /--Crea el usuario
+userdel -r                                                      /--borra el usuario
+useradd -m(Crear carpeta donde corresponde (/home)) -g(Asignamos un grupo al usuario) -s(asignamos la shell)
+useradd -m -g "nombre grupo" -s /bin/bash "nombre usuario"
+sudo passwd "nombre usuario"                                               /--Darle o cambiarle la contraseña al usuario nuevo
+ssh sergio@ip                                                     /--conectarse a ...
+scp origen destino                                                  /--Comando copy por ssh
+scp /home/sergio/prueba.txt sergio@192.168.1.21:/home/sergio --Enviar
+scp sergio@192.168.1.21:/home/sergio/prueba.txt /home/sergio -- Recibir
+./                                                          /--Ejecutar\
+
+-----------Empaquetador--------
+tar                                                               /--empaquetador
+tar opciones paquete archivos                                                 /--Formato
+-c crear archivo empaquetado
+-x extraer archivo empaquetado
+-f nombre del archivo (crear o desempaquetar)
+-z comprimir con gzip
+-j comprimir con bzip
+-v visualiza el empaquetamiento
+-t listar contenido de un archivo empaquetado\
+tar -cvzf comprimidos/mihome.tar.gz /home/sergio
+tar -xvzf comprimidos/mihome.tar.gz -C /home/sergio/descomprimidos\
+
+-----------Informacion--------
+-http://www.freealts.com/
+-En linux no hay realmente extensiones
+-Si un archivo tiene un . delante esta oculto '.themes'
+-Para editar con el (editor gedit) ponemos "ejemplo:gedit /etc/passwd"\
+-Permisos:
+  Estan en grupos de 3
+  drwxr-x-w-
+  d rwx r-x -w-\
+  d(informacion archivo o directorio o etc)
+      d "Directorio"
+      - "Archivo normal"
+      c "Archivo caracter"
+      | "Enlace simbolico"
+      - "Sin permiso"
+      r "Lectura"
+      W "Escritura"
+      x "Ejecucion"\
+  rwx "Permisos del propietario del archivo" = u
+      r-x "Permisos del grupo" = g
+      -w- "Permisos para el resto de gente" = o\
+  Todos los usuarios grupos etc con 'a'\
+  + añade permiso
+      - retira permiso
+      = asigna permiso (solo ese y machaca)\
+  ejemplo: chmod u=rwx,g+r, o=r fich1\
+  por ejemplo el fichero con permisos r-x --x rwx seria
+      --- --- ---
+      101 001 111
+      --- --- ---
+        5   1   7
+      con lo que seria el permiso 517
+
+  echo hola > fichero.txt
+      echo adios > fichero.txt si lo hacemos por segunda vez sobreescribe
+      para que no sobreescriba\
+  echo adios >> fichero.txt\
+
+    -Metacaracteres-
+      * --Sustituye a cualquier tipo de caracteres
+      ? --Sustituye a un solo caracter
+      []--los caracteres del interior van pasando uno tras otro\
+
+-Meta comando grep-
+      . --Sustituye a un caracter
+      * --Repeticion caracter previo
+      .* --Buscaria cualquier caracter como si fuese * de normal
+      [] --caracter incluido en los corchetes
+      ^[] -- negacion
+      ^ --comienzo de linea
+      $ --final de linea\

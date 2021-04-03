@@ -1,5 +1,5 @@
 ## eng
-Notes I take while learning new programming languages and/or technologies.
+Exercises and notes I take while learning new programs AND/OR programming languages AND/OR technologies.
 
 ## cat
-Apunts que prenc mentre aprenc nous llenguatges de programació i/o tecnologies.
+Exercicis i apunts que prenc mentre aprenc nous programes I/O llenguatges de programació I/O tecnologies.

@@ -1,0 +1,5 @@
+set ep=nc\ lluis.ovh\ 80
+
+GET /lol/index.html HTTP/1.0
+Host: www.lluis.ovh
+

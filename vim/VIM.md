@@ -1,6 +1,6 @@
 VIM TRICKS
 
-# vim talk: https://www.youtube.com/watch?v=E-ZbrtoSuzw 
+# vim talk: https://www.youtube.com/watch?v=E-ZbrtoSuzw
   :20vs .     "obrir explorador arxius amb width 20 caràcters
   :sf         "split finestra buscant arxiu
   :sfind      "idem
@@ -18,7 +18,7 @@ VIM TRICKS
 
 # spellchecking
   * enable, disable
-    :set spell 
+    :set spell
     :set nospell
   * corregeix amb la primera suggerència
     1z=
@@ -109,9 +109,9 @@ VIM TRICKS
 
 # preview window (no agafa focus)
   * veure arxiu
-    :ped {file}             
-  * tancar 
-    :pc                     
+    :ped {file}
+  * tancar
+    :pc
 
 # veure l'arxiu actual amb syntax python
   :ownsyntax python
@@ -135,18 +135,18 @@ VIM TRICKS
 #netrw (explorador arxius):
   :vs .  Obrir netrw
   :e .   Obrir netrw
-	v      Obrir arxiu en vertical
+  v      Obrir arxiu en vertical
   o      Obrir arxiu en horitzontal
-	t      Obrir en pestanya
-	p      Obrir en preview window
+  t      Obrir en pestanya
+  p      Obrir en preview window
 
 # tags (ctags)
   CTRL-]                  Obrir tag des de l'arxiu tags (creat amb la comanda ctags -R)
   CTRL-T                  Tirar enrere amb els tags trobats
 
 # varis
-  ^l		                  Redraw screen
-  :ls		                  Veure buffers oberts
+  ^l                      Redraw screen
+  :ls                     Veure buffers oberts
   :b arxiu                Busca arxiu dins els buffers
   ^w _                    Maximitzar finestra oberta (vertical)
   ^w |                    Maximitzar finestra oberta (horitzontal)
