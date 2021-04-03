@@ -1,0 +1,2 @@
+#mode interactiu (si no existeix 'arxiu.db' crea una nova base de dades)
+sqlite3 arxiu.db
