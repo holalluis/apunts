@@ -1,5 +1,5 @@
 #obrir moduls
-a2enmod nommodul
+a2enmod <modul>
 
 #ubicació log:
 /var/log/apache2/access.log
@@ -17,11 +17,11 @@ finally found a solution that included the use of mod_proxy.
 
 First, make sure mod_proxy is enabled:
 
-sudo a2enmod proxy
-sudo a2enmod proxy_http
-sudo a2enmod proxy_balancer
-sudo a2enmod lbmethod_byrequests
-sudo systemctl restart apache2
+  sudo a2enmod proxy
+  sudo a2enmod proxy_http
+  sudo a2enmod proxy_balancer
+  sudo a2enmod lbmethod_byrequests
+  sudo systemctl restart apache2
 
 Next, add the following to your site config (e.g., /etc/apache2/sites-available/000-default.conf):
 
