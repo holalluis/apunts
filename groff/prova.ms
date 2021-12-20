@@ -14,7 +14,7 @@ abstract abstract abstract.
 Fitxer compilat amb
 .BI "groff -e -ms -K utf-8 file.ms -T pdf > file.pdf".
 
-.NH 
+.NH
 Introducció
 .PP
 Text intro text intro text intro text intro text intro text intro text intro

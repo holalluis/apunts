@@ -1,0 +1,17 @@
+
+"hola lisp" 
+T 
+NIL 
+20 
+"tens 18 anys" 
+
+10 
+A 
+B 
+C 
+D 
+"hello" 
+
+
+"hello" 
+
