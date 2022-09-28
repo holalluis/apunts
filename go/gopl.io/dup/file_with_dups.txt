@@ -1,0 +1,12 @@
+this line is not duplicated
+this line appears 2 times
+this line appears 2 times
+this line appears 3 times
+this line appears 3 times
+this line appears 3 times
+
+
+this line appears 4 times
+this line appears 4 times
+this line appears 4 times
+this line appears 4 times

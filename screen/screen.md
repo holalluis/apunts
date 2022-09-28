@@ -23,3 +23,4 @@
   C-a TAB        mou-te al següent region (region=split)
   C-a X          kill current region
   C-a Q          kill all regions except current
+  C-a d          detach

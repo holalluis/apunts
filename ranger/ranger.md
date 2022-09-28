@@ -1,10 +1,7 @@
 #ranger - visual file manager
 
-  instal·lar:
-    sudo apt install ranger
-
-  manual:
-    man ranger
+  instal·lar: sudo apt install ranger
+  manual:     man ranger
 
   dd/p            -- moure arxius entre carpetes
   q               -- sortir/enrere
