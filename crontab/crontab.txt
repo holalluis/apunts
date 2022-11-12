@@ -5,3 +5,5 @@ sudo service cron stop
 
 #editar arxiu crontab
 crontab -e
+
+https://linuxhint.com/cron_jobs_complete_beginners_tutorial/
