@@ -1,1 +1,1 @@
-filtre: filtre.cpp
+filtre: filtre.c
