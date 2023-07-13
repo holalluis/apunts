@@ -1,5 +1,5 @@
 -module(hello).
--export([start/0]).
+-export([main/0]).
 
-start() ->
+main() ->
   io:format("hola erlang~n").
